@@ -435,6 +435,16 @@ def build_complete_episodes_json():
             clip3_sub = "[Narrator]: \"The bone washed away, leaving the dog with nothing! Greed destroys what you already have! Tomorrow: Gold Coin Snake! Follow now!\""
             clip3_prompt = f"{base_style}. Comical wide shot. Dog standing on wooden bridge whimpering with droopy ears and tongue out, looking down at circular ripples where his bone sank forever."
 
+        # Social Caption, Hashtags & Cover Prompt
+        caption_text = f"{s['trapTe']} {leadTe} ఎలా బయటపడిందో చూడండి! 🐰✨\n\nబుర్ర ఉపయోగిస్తే ఎంతటి అపాయాన్నైనా సులువుగా దాటొచ్చు!\nనీతి: {moralTe}\n\nమీరైతే {leadTe} స్థానంలో ఉంటే ఏం చేసేవారు? కామెంట్ చేయండి! 👇\n\n🔔 రేపటి కథ: {s['nextTe']}! మిస్ అవ్వకుండా ఇప్పుడే FOLLOW చేయండి!"
+        hashtags_text = "#TeluguStories #Panchatantra #KidsAnimation #PanchatantraInTelugu #MoralStories #ReelsIndia #KidsStories #TeluguReels"
+        cover_prompt = f"3D animated family film style, 9:16 vertical cover poster. Cute expressive {lead} ({leadTe}) triumphantly celebrating or outsmarting {antag} in an enchanted sunlit jungle. Vibrant colors, soft cinematic volumetric lighting, Pixar 3D aesthetic, ultra-detailed."
+        cover_img = "/ep01_cover.jpg" if eid == 1 else ""
+
+        if eid == 1:
+            caption_text = "చెట్టు తొర్రలో చిక్కుకున్న బుల్లి కుందేలు... ఆకలి నక్క నుండి ఎలా తప్పించుకుందో చూడండి! 🐰🦊✨\n\nబుర్ర ఉపయోగిస్తే ఎంతటి అపాయాన్నైనా సులువుగా దాటొచ్చు!\nమీరైతే కుందేలు స్థానంలో ఉంటే ఏం చేసేవారు?\nA) భయపడి కేకలు పెట్టేవారా?\nB) కుందేలులా ఇసుక తన్నేవారా? కామెంట్ చేయండి! 👇\n\n🔔 రేపటి కథ: తెలివైన కోతి vs మొసలి! 🐒🐊 మిస్ అవ్వకుండా ఇప్పుడే FOLLOW చేయండి!"
+            cover_prompt = "A 3D animated family film style vertical 9:16 cover art for a kids story reel. In the foreground, an adorable fluffy white baby bunny with big sparkling brown eyes cheerfully peeks out from the hollow of an ancient mossy tree root, waving with a cute smile. Outside the tree, a comical crafty orange fox is sitting face-first in a messy brown mud puddle with dirt on his nose and silly spinning stars above his head, looking completely shocked and stunned. Enchanted sunlit fairytale forest background with warm golden volumetric light rays and floating fireflies. Vibrant colors, ultra-detailed textures, Pixar 3D aesthetic, cinematic movie poster quality."
+
         episodes.append({
             "id": eid,
             "title": s["title"],
@@ -454,6 +464,10 @@ def build_complete_episodes_json():
             "teaserEn": f"Tomorrow in Ep {s['nextEpId']}: {s['nextEpTitle']}! TAP FOLLOW NOW!",
             "teaserTe": f"మరి రేపటి కథలో... {s['nextTe']}! రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!",
             "commentQ": f"Would YOU act like {lead} in this situation? Comment YES or NO!",
+            "caption": caption_text,
+            "hashtags": hashtags_text,
+            "coverPrompt": cover_prompt,
+            "coverImage": cover_img,
             "prompt": f"3D Pixar Disney animated film style, cute expressive {lead}, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
             "views": 35000 + (eid * 350) % 25000,
             "retention": 82.0 + (eid * 0.1) % 8.0,
@@ -608,11 +622,38 @@ def build_docx_scripts(episodes):
 
         p_eng = doc.add_paragraph()
         p_eng.paragraph_format.space_before = Pt(4)
-        p_eng.paragraph_format.space_after = Pt(10)
-        r_eng = p_eng.add_run(f"💬 Comment Trigger: {ep['commentQ']} | 🔔 Next Episode Bridge: EP {ep['nextEpId']} ({ep['nextEpTitle']})")
+        p_eng.paragraph_format.space_after = Pt(4)
+        r_eng = p_eng.add_run(f"💬 Comment Trigger: {ep['commentQ']} | 🔔 Next Episode Bridge: EP {ep['nextEpId']} ({ep['nextEpTitle']})\n")
         r_eng.font.size = Pt(9)
         r_eng.font.italic = True
         r_eng.font.color.rgb = ACCENT
+
+        p_soc = doc.add_paragraph()
+        p_soc.paragraph_format.space_before = Pt(2)
+        p_soc.paragraph_format.space_after = Pt(10)
+        r_cap_title = p_soc.add_run("📱 Post Caption: ")
+        r_cap_title.bold = True
+        r_cap_title.font.size = Pt(8.5)
+        r_cap_title.font.color.rgb = PRIMARY
+        
+        r_cap = p_soc.add_run(f"{ep.get('caption', '')}\n")
+        r_cap.font.size = Pt(8.5)
+        
+        r_tag_title = p_soc.add_run("🏷️ Hashtags: ")
+        r_tag_title.bold = True
+        r_tag_title.font.size = Pt(8.5)
+        r_tag_title.font.color.rgb = SECONDARY
+
+        r_tag = p_soc.add_run(f"{ep.get('hashtags', '')}\n")
+        r_tag.font.size = Pt(8.5)
+
+        r_cov_title = p_soc.add_run("🎨 9:16 Cover Image AI Prompt: ")
+        r_cov_title.bold = True
+        r_cov_title.font.size = Pt(8.5)
+        r_cov_title.font.color.rgb = RGBColor(0x74, 0x42, 0x10)
+
+        r_cov = p_soc.add_run(f"{ep.get('coverPrompt', '')}\n")
+        r_cov.font.size = Pt(8.5)
 
     out_docx = r"C:\Users\Suresh\Downloads\Panchatantra_Kids_Complete_30s_Production_Scripts.docx"
     doc.save(out_docx)

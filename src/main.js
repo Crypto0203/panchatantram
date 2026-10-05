@@ -627,6 +627,38 @@ function openEpisodeModal(id) {
     <h4 style="color: #fff; font-size: 1.05rem; margin-bottom: 0.75rem;">📜 Complete 3 × 10s Production Script (30 Seconds):</h4>
     ${clipsHtml}
 
+    <div style="background: rgba(20, 24, 39, 0.7); border: 1px solid var(--border-subtle); border-radius: var(--radius-sm); padding: 1rem; margin-top: 1rem;">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.75rem;">
+        <h4 style="color: #38bdf8; font-size: 0.95rem; margin: 0;">📱 Social Media Caption & Hashtags</h4>
+        <button class="btn-secondary" id="btnCopyCaption" style="padding: 0.25rem 0.65rem; font-size: 0.75rem;">
+          <span>📋</span> Copy Caption
+        </button>
+      </div>
+      <div style="font-size: 0.82rem; color: #e2e8f0; white-space: pre-line; line-height: 1.5; background: rgba(0,0,0,0.3); padding: 0.75rem; border-radius: 6px; margin-bottom: 0.5rem;">${ep.caption || ''}</div>
+      <div style="font-size: 0.78rem; color: #a78bfa; font-weight: 600; line-height: 1.4;">${ep.hashtags || ''}</div>
+    </div>
+
+    <div style="background: rgba(20, 24, 39, 0.7); border: 1px solid var(--border-subtle); border-radius: var(--radius-sm); padding: 1rem; margin-top: 1rem;">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.75rem;">
+        <h4 style="color: #f59e0b; font-size: 0.95rem; margin: 0;">🎨 9:16 Vertical Cover Image</h4>
+        <button class="btn-secondary" id="btnCopyCoverPrompt" style="padding: 0.25rem 0.65rem; font-size: 0.75rem;">
+          <span>📋</span> Copy Cover Prompt
+        </button>
+      </div>
+      ${ep.coverImage ? `
+        <div style="display: flex; gap: 1rem; align-items: center; margin-bottom: 0.75rem; flex-wrap: wrap;">
+          <img src="${ep.coverImage}" alt="Cover Art" style="width: 110px; height: 195px; object-fit: cover; border-radius: 8px; border: 2px solid #38bdf8; box-shadow: 0 4px 12px rgba(0,0,0,0.5);" />
+          <div style="flex: 1; min-width: 200px;">
+            <div style="font-size: 0.75rem; color: var(--text-muted); font-weight: 700; margin-bottom: 0.25rem;">AI COVER PROMPT:</div>
+            <div style="font-family: var(--font-mono); font-size: 0.75rem; color: #cbd5e1; line-height: 1.4; background: rgba(0,0,0,0.3); padding: 0.6rem; border-radius: 6px;">${ep.coverPrompt || ''}</div>
+          </div>
+        </div>
+      ` : `
+        <div style="font-size: 0.75rem; color: var(--text-muted); font-weight: 700; margin-bottom: 0.25rem;">AI COVER PROMPT:</div>
+        <div style="font-family: var(--font-mono); font-size: 0.75rem; color: #cbd5e1; line-height: 1.4; background: rgba(0,0,0,0.3); padding: 0.6rem; border-radius: 6px;">${ep.coverPrompt || ''}</div>
+      `}
+    </div>
+
     <div style="margin-top: 1rem; text-align: right;">
       <button class="btn-primary" id="btnModalCopyAll" style="padding: 0.45rem 1rem;">
         <span>📋</span> Copy Full Episode Script
@@ -635,6 +667,19 @@ function openEpisodeModal(id) {
   `;
 
   modal.classList.add('active');
+
+  document.getElementById('btnCopyCaption')?.addEventListener('click', () => {
+    sound.playPop();
+    const fullCaption = `${ep.caption}\n\n${ep.hashtags}`;
+    navigator.clipboard.writeText(fullCaption);
+    alert('✅ Post Caption & Hashtags copied!');
+  });
+
+  document.getElementById('btnCopyCoverPrompt')?.addEventListener('click', () => {
+    sound.playPop();
+    navigator.clipboard.writeText(ep.coverPrompt || '');
+    alert('✅ 9:16 Cover Image Prompt copied!');
+  });
 
   document.getElementById('btnModalCopyAll')?.addEventListener('click', () => {
     sound.playPop();
