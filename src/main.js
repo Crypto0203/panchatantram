@@ -250,13 +250,13 @@ function renderSimClipsGrid(ep) {
         <div class="clip-purpose">${clip.purpose}</div>
 
         <div class="clip-box-section">
-          <div class="clip-box-title">🎙️ Telugu Spoken Voiceover:</div>
-          <div class="clip-telugu-text">${clip.teluguVO}</div>
+          <div class="clip-box-title">🎙️ Telugu Dialogue & Voiceover:</div>
+          <div class="clip-telugu-text" style="white-space: pre-line;">${clip.teluguVO}</div>
         </div>
 
         <div class="clip-box-section">
           <div class="clip-box-title">💬 English Subtitles:</div>
-          <div class="clip-english-text">${clip.englishSub}</div>
+          <div class="clip-english-text" style="white-space: pre-line;">${clip.englishSub}</div>
         </div>
 
         <div class="clip-box-section">
@@ -593,13 +593,13 @@ function openEpisodeModal(id) {
           <div style="font-size: 0.82rem; font-weight: 700; color: var(--secondary); margin-bottom: 0.5rem;">${c.purpose}</div>
 
           <div style="margin-bottom: 0.5rem;">
-            <div style="font-size: 0.72rem; color: var(--text-muted); font-weight: 700;">🎙️ TELUGU SPOKEN VOICEOVER:</div>
-            <div style="font-size: 0.85rem; color: #a5f3fc; line-height: 1.4;">${c.teluguVO}</div>
+            <div style="font-size: 0.72rem; color: var(--text-muted); font-weight: 700;">🎙️ TELUGU DIALOGUE & VO:</div>
+            <div style="font-size: 0.85rem; color: #a5f3fc; line-height: 1.5; white-space: pre-line;">${c.teluguVO}</div>
           </div>
 
           <div style="margin-bottom: 0.5rem;">
             <div style="font-size: 0.72rem; color: var(--text-muted); font-weight: 700;">💬 ENGLISH SUBTITLES:</div>
-            <div style="font-size: 0.82rem; color: #ffeb3b; font-weight: 600;">${c.englishSub}</div>
+            <div style="font-size: 0.82rem; color: #ffeb3b; font-weight: 600; white-space: pre-line;">${c.englishSub}</div>
           </div>
 
           <div style="margin-bottom: 0.5rem;">
