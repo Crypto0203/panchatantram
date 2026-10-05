@@ -222,11 +222,38 @@ function setSimulatorEpisode(id) {
   document.getElementById('simTopPill').textContent = `Panchatantra Tales • Part ${ep.id} of 100`;
   document.getElementById('simTitle').textContent = ep.title;
   
-  // Teaser details
+  // Teaser & Outro Card details
   const nextEp = episodes.find(e => e.id === ep.nextEpId) || ep;
-  document.getElementById('simTeaserTitle').textContent = `EP ${nextEp.id}: ${nextEp.title}`;
-  document.getElementById('simTeaserPrompt').textContent = ep.teaserEn;
-  document.getElementById('simFollowBtn').innerHTML = `<span>🔔</span> FOLLOW FOR EP ${nextEp.id}`;
+  const outroEpTitle = document.getElementById('simOutroEpTitle');
+  if (outroEpTitle) outroEpTitle.textContent = `Episode ${ep.id}`;
+
+  const outroTagline = document.getElementById('simOutroTagline');
+  if (outroTagline) outroTagline.textContent = `Follow Your episode...`;
+
+  const outroCardInner = document.getElementById('simOutroCardInner');
+  const outroEmoji = document.getElementById('simOutroEmoji');
+  if (outroCardInner && outroEmoji) {
+    if (ep.id === 1) {
+      outroCardInner.style.backgroundImage = "url('/ep01_cover.jpg')";
+      outroEmoji.style.display = 'none';
+    } else {
+      outroCardInner.style.backgroundImage = 'none';
+      outroEmoji.style.display = 'block';
+      // Pick matching playful animal emoji
+      const chars = ep.characters.toLowerCase();
+      if (chars.includes('dog') || chars.includes('కుక్క')) outroEmoji.textContent = '🐕 🍖';
+      else if (chars.includes('fox') || chars.includes('నక్క')) outroEmoji.textContent = '🦊 🐰';
+      else if (chars.includes('lion') || chars.includes('సింహం')) outroEmoji.textContent = '🦁 🐰';
+      else if (chars.includes('crow') || chars.includes('కాకి')) outroEmoji.textContent = '🦅 🏺';
+      else if (chars.includes('monkey') || chars.includes('కోతి')) outroEmoji.textContent = '🐒 🐊';
+      else if (chars.includes('tortoise') || chars.includes('తాబేలు')) outroEmoji.textContent = '🐢 🪿';
+      else if (chars.includes('deer') || chars.includes('జింక')) outroEmoji.textContent = '🦌 🐭';
+      else outroEmoji.textContent = '✨ 🐾';
+    }
+  }
+
+  const followBtn = document.getElementById('simFollowBtn');
+  if (followBtn) followBtn.textContent = 'Follow';
   
   renderSimClipsGrid(ep);
   updateSimulatorDisplay();
