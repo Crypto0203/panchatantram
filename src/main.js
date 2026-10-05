@@ -228,7 +228,96 @@ function setSimulatorEpisode(id) {
   document.getElementById('simTeaserPrompt').textContent = ep.teaserEn;
   document.getElementById('simFollowBtn').innerHTML = `<span>🔔</span> FOLLOW FOR EP ${nextEp.id}`;
   
+  renderSimClipsGrid(ep);
   updateSimulatorDisplay();
+}
+
+function renderSimClipsGrid(ep) {
+  const grid = document.getElementById('simClipsGrid');
+  if (!grid || !ep.clips) return;
+  
+  grid.innerHTML = '';
+  ep.clips.forEach((clip, idx) => {
+    const card = document.createElement('div');
+    card.className = 'clip-card';
+    card.id = `simClipCard_${idx}`;
+    card.innerHTML = `
+      <div>
+        <div class="clip-card-header">
+          <span style="font-weight: 800; font-size: 0.95rem; color: #fff;">CLIP ${clip.clipNumber}</span>
+          <span class="clip-badge-time">${clip.timeRange}</span>
+        </div>
+        <div class="clip-purpose">${clip.purpose}</div>
+
+        <div class="clip-box-section">
+          <div class="clip-box-title">🎙️ Telugu Spoken Voiceover:</div>
+          <div class="clip-telugu-text">${clip.teluguVO}</div>
+        </div>
+
+        <div class="clip-box-section">
+          <div class="clip-box-title">💬 English Subtitles:</div>
+          <div class="clip-english-text">${clip.englishSub}</div>
+        </div>
+
+        <div class="clip-box-section">
+          <div class="clip-box-title">🎨 AI Visual Prompt (9:16):</div>
+          <div class="clip-prompt-text">${clip.visualPrompt}</div>
+        </div>
+
+        <div class="clip-box-section">
+          <div class="clip-box-title">🔊 Sound Foley & Music:</div>
+          <div class="clip-sfx-text">${clip.sfx}</div>
+        </div>
+      </div>
+      <div style="margin-top: 0.75rem; text-align: right;">
+        <button class="btn-secondary btn-copy-clip" data-idx="${idx}" style="padding: 0.3rem 0.65rem; font-size: 0.75rem;">
+          <span>📋</span> Copy Clip ${clip.clipNumber}
+        </button>
+      </div>
+    `;
+    grid.appendChild(card);
+  });
+
+  grid.querySelectorAll('.btn-copy-clip').forEach(btn => {
+    btn.addEventListener('click', (e) => {
+      sound.playPop();
+      const idx = parseInt(e.currentTarget.dataset.idx);
+      const c = ep.clips[idx];
+      const clipText = `CLIP ${c.clipNumber} (${c.timeRange})
+PURPOSE: ${c.purpose}
+TELUGU VO: ${c.teluguVO}
+ENGLISH SUB: ${c.englishSub}
+VISUAL PROMPT: ${c.visualPrompt}
+SFX: ${c.sfx}`;
+      navigator.clipboard.writeText(clipText);
+      alert(`✅ Clip ${c.clipNumber} Script copied!`);
+    });
+  });
+
+  document.getElementById('btnCopyFullScript')?.addEventListener('click', () => {
+    sound.playPop();
+    let fullScript = `=================================================================
+PANCHATANTRA KIDS — EPISODE ${ep.id < 10 ? '0' + ep.id : ep.id}: ${ep.title}
+COMPLETE 30-SECOND SCRIPT (3 CLIPS × 10s)
+=================================================================
+
+`;
+    ep.clips.forEach(c => {
+      fullScript += `[${c.clipNumber}] ${c.timeRange} — ${c.purpose}
+`;
+      fullScript += `🎙️ TELUGU VO   : ${c.teluguVO}
+`;
+      fullScript += `💬 ENGLISH SUB : ${c.englishSub}
+`;
+      fullScript += `🎨 VISUAL      : ${c.visualPrompt}
+`;
+      fullScript += `🔊 SFX / MUSIC : ${c.sfx}
+
+`;
+    });
+    navigator.clipboard.writeText(fullScript);
+    alert(`✅ Complete 3-Clip Production Script for EP ${ep.id} copied to clipboard!`);
+  });
 }
 
 function toggleSimulatorPlayback() {
@@ -282,6 +371,18 @@ function updateSimulatorDisplay() {
   const teaserOverlay = document.getElementById('simTeaserOverlay');
 
   scrubber.value = simTime;
+  // Highlight active 10s clip card
+  const activeClipIdx = simTime < 10.0 ? 0 : (simTime < 20.0 ? 1 : 2);
+  for (let i = 0; i < 3; i++) {
+    const card = document.getElementById(`simClipCard_${i}`);
+    if (card) {
+      if (i === activeClipIdx) {
+        card.classList.add('active-clip');
+      } else {
+        card.classList.remove('active-clip');
+      }
+    }
+  }
   const secs = Math.floor(simTime);
   const ms = Math.floor((simTime % 1) * 10);
   timeDisplay.textContent = `00:${secs < 10 ? '0' + secs : secs}.${ms} / 00:30.0`;
@@ -479,41 +580,87 @@ function openEpisodeModal(id) {
   const body = document.getElementById('modalEpBody');
 
   title.textContent = `EP ${ep.id < 10 ? '0' + ep.id : ep.id} — ${ep.title}`;
+  
+  let clipsHtml = '';
+  if (ep.clips) {
+    ep.clips.forEach(c => {
+      clipsHtml += `
+        <div style="background: rgba(0,0,0,0.4); border: 1px solid var(--border-subtle); border-radius: var(--radius-sm); padding: 1rem; margin-bottom: 1rem;">
+          <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.5rem;">
+            <span style="font-weight: 800; color: #fff; font-size: 0.95rem;">🎬 CLIP ${c.clipNumber}</span>
+            <span class="clip-badge-time">${c.timeRange}</span>
+          </div>
+          <div style="font-size: 0.82rem; font-weight: 700; color: var(--secondary); margin-bottom: 0.5rem;">${c.purpose}</div>
+
+          <div style="margin-bottom: 0.5rem;">
+            <div style="font-size: 0.72rem; color: var(--text-muted); font-weight: 700;">🎙️ TELUGU SPOKEN VOICEOVER:</div>
+            <div style="font-size: 0.85rem; color: #a5f3fc; line-height: 1.4;">${c.teluguVO}</div>
+          </div>
+
+          <div style="margin-bottom: 0.5rem;">
+            <div style="font-size: 0.72rem; color: var(--text-muted); font-weight: 700;">💬 ENGLISH SUBTITLES:</div>
+            <div style="font-size: 0.82rem; color: #ffeb3b; font-weight: 600;">${c.englishSub}</div>
+          </div>
+
+          <div style="margin-bottom: 0.5rem;">
+            <div style="font-size: 0.72rem; color: var(--text-muted); font-weight: 700;">🎨 AI VISUAL PROMPT (9:16):</div>
+            <div style="font-family: var(--font-mono); font-size: 0.75rem; color: #cbd5e1;">${c.visualPrompt}</div>
+          </div>
+
+          <div>
+            <div style="font-size: 0.72rem; color: var(--text-muted); font-weight: 700;">🔊 SOUND FOLEY & MUSIC:</div>
+            <div style="font-size: 0.75rem; color: var(--accent-amber);">${c.sfx}</div>
+          </div>
+        </div>
+      `;
+    });
+  }
+
   body.innerHTML = `
-    <div style="display: flex; gap: 0.5rem; margin-bottom: 1rem;">
+    <div style="display: flex; gap: 0.5rem; margin-bottom: 1rem; flex-wrap: wrap;">
       <span class="ep-status ${ep.status}">${ep.status}</span>
       <span class="filter-pill">${ep.category}</span>
       <span class="filter-pill">Characters: ${ep.characters}</span>
+      <span class="filter-pill">Moral: ${ep.moral}</span>
     </div>
 
-    <div style="background: rgba(0,0,0,0.3); padding: 1rem; border-radius: var(--radius-sm); margin-bottom: 1rem;">
-      <h4 style="color: #fff; font-size: 0.95rem; margin-bottom: 0.5rem;">🎯 3-Second Action Hook (Thumb-Stopper):</h4>
-      <p style="color: #fca5a5; font-size: 0.85rem; margin-bottom: 0.4rem;"><strong>English:</strong> "${ep.hookEn}"</p>
-      <p style="color: #a5f3fc; font-size: 0.85rem;"><strong>Telugu VO:</strong> "${ep.hookTe}"</p>
-    </div>
+    <h4 style="color: #fff; font-size: 1.05rem; margin-bottom: 0.75rem;">📜 Complete 3 × 10s Production Script (30 Seconds):</h4>
+    ${clipsHtml}
 
-    <div style="background: rgba(0,0,0,0.3); padding: 1rem; border-radius: var(--radius-sm); margin-bottom: 1rem;">
-      <h4 style="color: #fff; font-size: 0.95rem; margin-bottom: 0.5rem;">🎬 3-Beat Narrative Arc:</h4>
-      <p style="font-size: 0.85rem; margin-bottom: 0.35rem;"><strong>Clip 1 (0–10s):</strong> ${ep.beat1}</p>
-      <p style="font-size: 0.85rem; margin-bottom: 0.35rem;"><strong>Clip 2 (10–20s):</strong> ${ep.beat2}</p>
-      <p style="font-size: 0.85rem;"><strong>Clip 3 (20–25s):</strong> ${ep.beat3}</p>
-    </div>
-
-    <div style="background: rgba(6, 182, 212, 0.1); border-left: 3px solid var(--secondary); padding: 1rem; border-radius: var(--radius-sm); margin-bottom: 1rem;">
-      <h4 style="color: #fff; font-size: 0.95rem; margin-bottom: 0.5rem;">🔗 Next Episode Sneak Peek (26–30s):</h4>
-      <p style="color: #e2e8f0; font-size: 0.85rem; margin-bottom: 0.35rem;"><strong>English:</strong> "${ep.teaserEn}"</p>
-      <p style="color: #a5f3fc; font-size: 0.85rem;"><strong>Telugu VO:</strong> "${ep.teaserTe}"</p>
-    </div>
-
-    <div style="background: rgba(0,0,0,0.3); padding: 1rem; border-radius: var(--radius-sm);">
-      <h4 style="color: #fff; font-size: 0.95rem; margin-bottom: 0.5rem;">🤖 3D Pixar Midjourney Prompt:</h4>
-      <div style="font-family: var(--font-mono); font-size: 0.78rem; color: #a5f3fc; word-break: break-all;">
-        ${ep.prompt}
-      </div>
+    <div style="margin-top: 1rem; text-align: right;">
+      <button class="btn-primary" id="btnModalCopyAll" style="padding: 0.45rem 1rem;">
+        <span>📋</span> Copy Full Episode Script
+      </button>
     </div>
   `;
 
   modal.classList.add('active');
+
+  document.getElementById('btnModalCopyAll')?.addEventListener('click', () => {
+    sound.playPop();
+    let text = `=================================================================
+PANCHATANTRA KIDS — EPISODE ${ep.id < 10 ? '0' + ep.id : ep.id}: ${ep.title}
+COMPLETE 30-SECOND PRODUCTION SCRIPT (3 CLIPS × 10s)
+=================================================================
+
+`;
+    ep.clips.forEach(c => {
+      text += `[${c.clipNumber}] ${c.timeRange} — ${c.purpose}
+`;
+      text += `🎙️ TELUGU VO   : ${c.teluguVO}
+`;
+      text += `💬 ENGLISH SUB : ${c.englishSub}
+`;
+      text += `🎨 VISUAL      : ${c.visualPrompt}
+`;
+      text += `🔊 SFX / MUSIC : ${c.sfx}
+
+`;
+    });
+    navigator.clipboard.writeText(text);
+    alert(`✅ Complete Production Script for EP ${ep.id} copied to clipboard!`);
+  });
+
   document.getElementById('modalCloseBtn').onclick = () => {
     modal.classList.remove('active');
   };
@@ -537,51 +684,50 @@ function initWorksheetTab() {
     sel.appendChild(opt);
   });
 
-  function updateWorksheet(epId) {
+    function updateWorksheet(epId) {
     const ep = episodes.find(e => e.id === epId) || episodes[0];
+    let clipsSection = '';
+    if (ep.clips) {
+      ep.clips.forEach(c => {
+        clipsSection += `-----------------------------------------------------------------
+[CLIP ${c.clipNumber}] ${c.timeRange} — ${c.purpose}
+-----------------------------------------------------------------
+🎙️ TELUGU VOICEOVER:
+${c.teluguVO}
+
+💬 ENGLISH SUBTITLES:
+${c.englishSub}
+
+🎨 AI VISUAL PROMPT (9:16 VERTICAL):
+${c.visualPrompt}
+
+🔊 SOUND FOLEY & MUSIC:
+${c.sfx}
+
+`;
+      });
+    }
+
     const text = `=================================================================
-PANCHATANTRA KIDS — DAILY EPISODE PRODUCTION WORKSHEET
+PANCHATANTRA KIDS — DAILY PRODUCTION SCRIPT & WORKSHEET
 =================================================================
 EPISODE NUMBER : EPISODE ${ep.id < 10 ? '0' + ep.id : ep.id} OF 100
 STORY TITLE    : ${ep.title}
 LEAD CHARACTERS: ${ep.characters}
 CATEGORY/THEME : ${ep.category}
-TARGET RUNTIME : 30.0 SECONDS (3 CLIPS × 10s)
+TOTAL RUNTIME  : EXACTLY 30.0 SECONDS (3 CLIPS × 10.0s)
+MORAL LESSON   : "${ep.moral}"
 
------------------------------------------------------------------
-1. 🎯 3-SECOND ACTION HOOK (THUMB-STOPPER)
------------------------------------------------------------------
-Visual Action : Extreme push-in on ${ep.leadChar} facing immediate peril!
-English Sub   : "${ep.hookEn}"
-Telugu VO     : "${ep.hookTe}"
-Sound Foley   : Cartoon Gasp + Dramatic Whoosh Sting
+=================================================================
+MASTER 3 × 10-SECOND SHOT-BY-SHOT SCRIPT
+=================================================================
 
------------------------------------------------------------------
-2. 🎬 30-SECOND MICRO-BEAT TIMELINE
------------------------------------------------------------------
-Clip 1 (0–10s)  : ${ep.beat1}
-Clip 2 (10–20s) : ${ep.beat2}
-Clip 3 (20–25s) : ${ep.beat3}
-Moral Takeaway  : "${ep.moral}"
-
------------------------------------------------------------------
-3. 🔗 NEXT EPISODE SNEAK PEEK & BINGE-FOLLOW ENGINE (26–30s)
------------------------------------------------------------------
-Next Episode   : EP ${ep.nextEpId} — ${ep.nextEpTitle}
-Teaser Hook    : "${ep.teaserEn}"
-Telugu Teaser  : "${ep.teaserTe}"
-Visual Overlay : Bouncing 3D Follow Button + Bell Ring SFX
-
------------------------------------------------------------------
-4. 🤖 AI GENERATION PROMPT (MIDJOURNEY / RUNWAY GEN-3)
------------------------------------------------------------------
-${ep.prompt}
-
------------------------------------------------------------------
-5. 💬 VIEWER COMMENT POLL TRIGGER
------------------------------------------------------------------
-Comment Poll   : "${ep.commentQ}"
-Hashtags       : #PanchatantraKids #TeluguStories #KidsCartoons #MoralStories #Reels`;
+${clipsSection}=================================================================
+ENGAGEMENT & GROWTH TRIGGERS
+=================================================================
+💬 VIEWER COMMENT POLL: "${ep.commentQ}"
+🔔 NEXT EPISODE TEASER: "${ep.teaserEn}"
+🏷️ TAGS: #PanchatantraKids #TeluguStories #KidsStories #MoralStories #Reels #Shorts`;
 
     content.textContent = text;
   }

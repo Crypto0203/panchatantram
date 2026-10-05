@@ -20,7 +20,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Rabbit in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Rabbit, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 45200,
-    "retention": 84.5
+    "retention": 84.5,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Camera pushes rapidly into cute 3D Pixar Rabbit trembling in hollow tree log as a sleek red Fox bares teeth and snarls outside. Sudden fast zoom on Rabbit's wide terrified eyes.",
+        "visualPrompt": "3D Pixar Disney style, extreme close-up of cute fluffy brown rabbit with giant expressive eyes trapped inside a hollow wooden log, sneaky hungry red fox with sharp grin blocking the exit, dramatic warm sunlight filtering through jungle leaves, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ బుల్లి కుందేలు ఆకలితో ఉన్న నక్క నుండి ఎలా తప్పించుకుంటుందో తెలుసా? నక్క బావ చెట్టు తొర్రను చుట్టుముట్టింది... కుందేలుకు దారి లేదు!\"",
+        "englishSub": "\"Wait! Can this tiny bunny escape a hungry sly fox?! The sly fox blocked both exits... Bunny was completely trapped!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Sneaky Fox Tiptoe Steps • 0:09s Low Dramatic Tension Sting"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "Fox pokes sharp claw into the log hole. Rabbit shrinks back, then his eyes narrow into a mischievous grin. He braces his back legs against the back wall and gives the log one mighty kick!",
+        "visualPrompt": "3D Pixar Disney style, medium shot, clever fluffy rabbit grinning confidently and kicking the hollow wooden log from inside, log begins rolling down a steep lush green hill, speed lines, cinematic motion blur, 8k render --ar 9:16",
+        "teluguVO": "\"నక్క పంజా విసిరింది! కానీ కుందేలు భయపడలేదు... బుర్ర ఉపయోగించి తన కాళ్లతో చెట్టు తొర్రను దొర్లించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"Fox swung his sharp claws! But Bunny didn't panic... he used his brain and rolled the heavy log down the steep hill!\"",
+        "sfx": "0:11s Sharp Claw Swipe Whoosh • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Heavy Rolling Wood Rumble"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: Rolling log strikes the fox like a bowling pin! Fox tumbles dizzy headfirst into a squishy mud puddle. Rabbit skips away free! 25–26.5s: Moral card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 2 (Crocodile eyeing Monkey on river) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney style, split sequence: first, funny silly fox covered in squishy brown mud looking dizzy with cartoon stars circling head, happy bunny skipping away waving. Then cuts to teaser frame of giant green crocodile smiling slyly in sparkling river water looking up at cute monkey on branch, vibrant 8k --ar 9:16",
+        "teluguVO": "\"ధబ్ మని నక్క బురదలో పడిపోయింది! కుందేలు తుర్రుమంది! ఉపాయం ఉంటే అపాయం దాటొచ్చు! మరి రేపటి కథలో... మొసలి నోటి నుండి తెలివైన కోతి ఎలా తప్పించుకుంది? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"SPLAT! The fox landed in mud, and Bunny skipped away free! Brain over brawn! But tomorrow in Ep 2: How does a clever monkey escape a river crocodile?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Bowling Strike Crash • 0:23s Wet Mud Squish • 0:25s Uplifting Victory Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 2,
@@ -43,7 +75,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Monkey in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Monkey, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 38100,
-    "retention": 82.1
+    "retention": 82.1,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Camera zooms out from splashing river water: cute 3D monkey is riding on the scaly back of a giant crocodile in the middle of deep waters. Crocodile's eyes turn hungry and sly.",
+        "visualPrompt": "3D Pixar Disney style, dramatic dynamic angle, cute playful brown monkey riding on the back of a huge green crocodile in the middle of a deep sparkling blue jungle river, crocodile baring sharp white teeth, bright tropical sunlight, 8k render --ar 9:16",
+        "teluguVO": "\"అయ్యో! నది మధ్యలో మొసలి నోటికి కోతి చిక్కిందా?! మొసలి కోతిని సరదాగా షికారుకు తీసుకెళ్లింది... కానీ దాని మనసులో దురాలోచన!\"",
+        "englishSub": "\"OH NO! Is the clever monkey trapped in deep crocodile waters?! Crocodile offered a friendly river ride, but secretly had a wicked plan!\"",
+        "sfx": "0:01s Giant Water Splash • 0:03s Jaws Snap Chomp • 0:06s Playful River Marimba Melody • 0:09s Suspense Cello Drop"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "Crocodile stops in the deepest part of the river: 'My wife wants your sweet heart!' Monkey's jaw drops in horror, but he immediately forces a calm, cheerful grin and scratches his chin.",
+        "visualPrompt": "3D Pixar Disney style, close-up of funny cute monkey on crocodile's back scratching his head with a cheeky confident grin, crocodile looking puzzled with wide yellow reptilian eyes, ripples on water, 8k render --ar 9:16",
+        "teluguVO": "\"'నీ గుండె మా ఆవిడకు కావాలి' అంది మొసలి! కానీ కోతి తొణకలేదు... 'అయ్యో మిత్రమా! నా గుండెను చెట్టు కొమ్మ మీదే ఉంచేశానే' అంది!\"",
+        "englishSub": "\"'I need your sweet heart!' grinned Crocodile. But Monkey stayed calm and smiled: 'Oh dear friend! I left my heart up on the berry tree!'\"",
+        "sfx": "0:11s Dramatic Violin Screech • 0:14s Gulp Sound Effect • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Swimming Motorboat Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: Crocodile swims furiously back to shore. Monkey makes a massive acrobatic leap up to the highest branch, laughing and pelting berries! 25–26.5s: Moral card. 26.5–30s: SNEAK PEEK FRAME of EPISODE 3 (Mighty Lion roaring in hunter's iron net with tiny mouse looking on) + Follow Button!",
+        "visualPrompt": "3D Pixar Disney style, split sequence: monkey swinging high up on tall jambu berry tree laughing cheerfully, crocodile looking foolish in water below. Then cuts to teaser frame of massive majestic golden lion caught in thick hunter ropes looking down at tiny brave mouse, 8k --ar 9:16",
+        "teluguVO": "\"వెర్రి మొసలి ఒడ్డుకు తీసుకెళ్లగానే కోతి గబుక్కున చెట్టెక్కి హమ్మయ్య అనుకుంది! కష్టంలో కంగారు పడకూడదు! మరి రేపటి కథలో... అడవి రాజు సింహాన్ని ఒక చిట్టి ఎలుక ఎలా కాపాడింది? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Foolish crocodile rushed back to shore, and Monkey leaped to safety! Never panic in trouble! But tomorrow in Ep 3: How can a tiny mouse save the mighty Jungle King?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Super Spring Boing Jump • 0:23s Monkey Cheerful Giggles • 0:25s Joyful Orchestral Chime • 0:29s High Crystal Bell Ring"
+      }
+    ]
   },
   {
     "id": 3,
@@ -66,7 +130,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Lion in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Lion, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 29400,
-    "retention": 80.7
+    "retention": 80.7,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Massive golden lion's paw slams down onto the screen, trapping a tiny trembling mouse underneath! Giant lion yawns with scary sharp fangs.",
+        "visualPrompt": "3D Pixar Disney style, dramatic low-angle, huge golden lion paw trapping a tiny cute brown mouse with trembling whiskers and giant shiny black eyes, majestic sleeping lion opening one eye, warm savannah lighting, 8k render --ar 9:16",
+        "teluguVO": "\"ఆగండి! అడవి రాజు సింహం పంజా కింద చిట్టి ఎలుక చిక్కుకుంటే బతుకుతుందా?! సింహం గర్జించి నోరు తెరిచింది!\"",
+        "englishSub": "\"Wait! Can a tiny trembling mouse survive under the mighty King Lion's paw?! The lion roared and opened his jaws!\"",
+        "sfx": "0:01s Heavy Ground Thud • 0:03s Earth-shaking Lion Roar • 0:06s Tiny Squeak Tremble • 0:09s Suspense Drumroll"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "Mouse begs with tiny folded paws: 'Spare me, King! One day I might help you!' Lion laughs so hard he lets mouse go. But days later, Lion is trapped inside a heavy rope net hanging from a tree!",
+        "visualPrompt": "3D Pixar Disney style, majestic golden lion trapped hopelessly inside a thick tangled hunter net, struggling angrily while suspended from tree branch, tiny brave mouse peeking out from bushes, 8k render --ar 9:16",
+        "teluguVO": "\"'నన్ను వదిలేయండి రాజా, ఎప్పటికైనా మీకు సాయపడతా' అంది ఎలుక! సింహం నవ్వి వదిలేసింది. కానీ కొన్నాళ్లకే సింహం వేటగాళ్ల వలలో బంధీ అయిపోయింది!\"",
+        "englishSub": "\"'Spare me King, I might help you one day!' pleaded Mouse. Lion laughed and let him go. But soon, Lion was caught in a hunter's net!\"",
+        "sfx": "0:11s Lion Booming Laugh • 0:14s Heavy Net Snap Trap • 0:17s Ropes Creaking • 0:19s Mouse Running Patter"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: Tiny mouse chews rapidly through thick rope strands like a woodchipper! Ropes snap, Lion lands safely and bows gently to the mouse. 25–26.5s: Moral card. 26.5–30s: SNEAK PEEK FRAME of EPISODE 4 (Lion staring into deep stone well at his own reflection) + Follow Button!",
+        "visualPrompt": "3D Pixar Disney style, split sequence: tiny mouse biting through thick ropes with sparks, rope snaps, mighty lion bowing down nose-to-nose with smiling mouse. Then cuts to teaser frame of ferocious lion snarling into ancient stone well, 8k --ar 9:16",
+        "teluguVO": "\"చిట్టి ఎలుక తన పదునైన పళ్లతో వల తాళ్లను కొరికేసింది! సింహం బయటపడింది! ఎవరినీ తక్కువ అంచనా వేయకూడదు! మరి రేపటి కథలో... బావి నీళ్లలో సింహాన్ని ఒక కుందేలు ఎలా ముంచింది? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Tiny mouse chewed through the thick ropes with his sharp teeth! Lion was free! Never underestimate anyone! But tomorrow in Ep 4: How does a clever hare fool the proud lion into a deep well?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Rapid Nibble Chewing Crunch • 0:23s Loud Rope Snap Twang • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Ring"
+      }
+    ]
   },
   {
     "id": 4,
@@ -89,7 +185,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Lion in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Lion, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Furious giant lion roars shaking leaves off trees, angry that his lunch is late! A tiny clever hare hops in calmly with a mischievous twinkle in his eye.",
+        "visualPrompt": "3D Pixar Disney style, furious roaring lion with bared teeth glaring down at an adorable tiny hare who is standing calmly with folded arms, deep golden sunset in jungle, 8k render --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఆకలితో అల్లాడిపోతున్న సింహాన్ని ఈ చిన్న కుందేలు ఎలా బోల్తా కొట్టించిందో తెలుసా? సింహం కోపంతో రగిలిపోతోంది!\"",
+        "englishSub": "\"Wait! How can a tiny hare fool a starving, furious King Lion?! The angry lion roared with rage!\"",
+        "sfx": "0:01s Thunderous Lion Roar • 0:03s Ground Shake Rattle • 0:06s Calm Bunny Hopping Boing • 0:09s Suspense Drum"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "Hare bows: 'King! Another giant lion attacked me on the way and claimed he is the real jungle ruler!' Lion's mane bristles with fury: 'Take me to him now!'",
+        "visualPrompt": "3D Pixar Disney style, clever hare pointing dramatically toward an old stone well overgrown with vines, massive lion stomping angrily beside him with steaming breath, 8k render --ar 9:16",
+        "teluguVO": "\"'రాజా, దారిలో ఇంకో సింహం వచ్చి తానే అసలైన రాజనని మిమ్మల్ని ఎదిరించింది' అంది కుందేలు! కోపంతో సింహం ఆ శత్రువును చూడటానికి నడిచింది!\"",
+        "englishSub": "\"'King! Another lion stopped me and claimed HE is the real jungle ruler!' said Hare. Furious, the lion demanded to be led to his rival!\"",
+        "sfx": "0:11s Whispering Dramatic Voice • 0:14s Heavy Stomping Footsteps • 0:17s Cartoon Lightbulb 'PING' • 0:19s Echo Sound Effect"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: Hare leads him to the deep stone well. Lion looks down, sees his own snarling reflection, roars, and jumps headfirst into the water! 25–26.5s: Moral card. 26.5–30s: SNEAK PEEK FRAME of EPISODE 5 (Tortoise holding stick in mouth flying in sky with two geese) + Follow Button!",
+        "visualPrompt": "3D Pixar Disney style, split sequence: foolish lion leaping headfirst into deep stone well splashing, clever hare waving goodbye laughing. Then cuts to teaser frame of funny tortoise holding wooden stick in mouth flying high in clouds between two white geese, 8k --ar 9:16",
+        "teluguVO": "\"బావిలో తన నీడనే చూసి శత్రువు అనుకుని సింహం బావిలోకి దూకేసింది! కుందేలు తెలివితో అడవిని కాపాడింది! అహంకారాన్ని తెలివితో ఓడించవచ్చు! మరి రేపటి కథలో... ఆకాశంలో ఎగిరిన తాబేలు నోరు తెరిస్తే ఏమైంది? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Seeing his own reflection in the well, foolish lion jumped right into the water! Hare's wit saved the jungle! Pride is conquered by intelligence! But tomorrow in Ep 5: What happens when a flying tortoise opens his mouth?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Booming Deep Well Echo • 0:23s Giant Water Splash Kerplunk • 0:25s Cheerful Fanfare • 0:29s High Crystal Bell Ring"
+      }
+    ]
   },
   {
     "id": 5,
@@ -112,7 +240,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Tortoise in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Tortoise, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Tortoise caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Tortoise facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Tortoise ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Tortoise escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Tortoise's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Tortoise thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Tortoise భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Tortoise stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 6 (The Crow & The Snake) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Tortoise celebrating with joyful forest animals. Then cuts to teaser frame of Episode 6 (The Crow & The Snake) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Listen carefully and control your words.! మరి రేపటి కథలో... The Crow & The Snake... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Listen carefully and control your words.! But tomorrow in Ep 6 (The Crow & The Snake): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 6,
@@ -135,7 +295,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Crow in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Crow, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Crow caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Crow facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Crow ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Crow escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Crow's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Crow thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Crow భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Crow stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 7 (The Blue Jackal) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Crow celebrating with joyful forest animals. Then cuts to teaser frame of Episode 7 (The Blue Jackal) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Intelligence can overcome danger.! మరి రేపటి కథలో... The Blue Jackal... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Intelligence can overcome danger.! But tomorrow in Ep 7 (The Blue Jackal): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 7,
@@ -158,7 +350,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Jackal in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Jackal, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Jackal caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Jackal facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Jackal ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Jackal escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Jackal's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Jackal thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Jackal భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Jackal stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 8 (The Greedy Dog & The Bone) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Jackal celebrating with joyful forest animals. Then cuts to teaser frame of Episode 8 (The Greedy Dog & The Bone) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Do not pretend to be someone you are not.! మరి రేపటి కథలో... The Greedy Dog & The Bone... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Do not pretend to be someone you are not.! But tomorrow in Ep 8 (The Greedy Dog & The Bone): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 8,
@@ -181,7 +405,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Dog in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Dog, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Dog caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Dog facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Dog ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Dog escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Dog's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Dog thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Dog భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Dog stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 9 (The Farmer & The Snake) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Dog celebrating with joyful forest animals. Then cuts to teaser frame of Episode 9 (The Farmer & The Snake) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Greed can make you lose what you have.! మరి రేపటి కథలో... The Farmer & The Snake... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Greed can make you lose what you have.! But tomorrow in Ep 9 (The Farmer & The Snake): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 9,
@@ -204,7 +460,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Farmer in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Farmer, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Farmer caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Farmer facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Farmer ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Farmer escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Farmer's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Farmer thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Farmer భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Farmer stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 10 (The Foolish Deer) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Farmer celebrating with joyful forest animals. Then cuts to teaser frame of Episode 10 (The Foolish Deer) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Kindness should be balanced with wisdom.! మరి రేపటి కథలో... The Foolish Deer... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Kindness should be balanced with wisdom.! But tomorrow in Ep 10 (The Foolish Deer): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 10,
@@ -227,7 +515,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Deer in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Deer, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Deer caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Deer facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Deer ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Deer escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Deer's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Deer thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Deer భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Deer stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 11 (The Wise Old Sparrow) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Deer celebrating with joyful forest animals. Then cuts to teaser frame of Episode 11 (The Wise Old Sparrow) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Think before trusting appearances.! మరి రేపటి కథలో... The Wise Old Sparrow... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Think before trusting appearances.! But tomorrow in Ep 11 (The Wise Old Sparrow): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 11,
@@ -250,7 +570,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Sparrow in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Sparrow, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Sparrow caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Sparrow facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Sparrow ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Sparrow escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Sparrow's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Sparrow thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Sparrow భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Sparrow stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 12 (The Elephant & The Tiny Ants) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Sparrow celebrating with joyful forest animals. Then cuts to teaser frame of Episode 12 (The Elephant & The Tiny Ants) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Experience can protect the young.! మరి రేపటి కథలో... The Elephant & The Tiny Ants... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Experience can protect the young.! But tomorrow in Ep 12 (The Elephant & The Tiny Ants): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 12,
@@ -273,7 +625,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Elephant in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Elephant, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Elephant caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Elephant facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Elephant ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Elephant escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Elephant's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Elephant thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Elephant భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Elephant stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 13 (The Rabbit & The Elephant Herd) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Elephant celebrating with joyful forest animals. Then cuts to teaser frame of Episode 13 (The Rabbit & The Elephant Herd) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Small friends can make a big difference.! మరి రేపటి కథలో... The Rabbit & The Elephant Herd... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Small friends can make a big difference.! But tomorrow in Ep 13 (The Rabbit & The Elephant Herd): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 13,
@@ -296,7 +680,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Rabbit in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Rabbit, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Rabbit caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Rabbit facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Rabbit ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Rabbit escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Rabbit's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Rabbit thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Rabbit భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Rabbit stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 14 (The Crow & The Pitcher) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Rabbit celebrating with joyful forest animals. Then cuts to teaser frame of Episode 14 (The Crow & The Pitcher) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Courage and teamwork solve big problems.! మరి రేపటి కథలో... The Crow & The Pitcher... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Courage and teamwork solve big problems.! But tomorrow in Ep 14 (The Crow & The Pitcher): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 14,
@@ -319,7 +735,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Crow in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Crow, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Crow caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Crow facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Crow ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Crow escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Crow's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Crow thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Crow భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Crow stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 15 (The Golden Goose) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Crow celebrating with joyful forest animals. Then cuts to teaser frame of Episode 15 (The Golden Goose) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Patience and creativity solve problems.! మరి రేపటి కథలో... The Golden Goose... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Patience and creativity solve problems.! But tomorrow in Ep 15 (The Golden Goose): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 15,
@@ -342,7 +790,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Goose in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Goose, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Goose caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Goose facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Goose ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Goose escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Goose's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Goose thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Goose భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Goose stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 16 (The Foolish Lion & The Well) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Goose celebrating with joyful forest animals. Then cuts to teaser frame of Episode 16 (The Foolish Lion & The Well) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Greed can destroy good fortune.! మరి రేపటి కథలో... The Foolish Lion & The Well... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Greed can destroy good fortune.! But tomorrow in Ep 16 (The Foolish Lion & The Well): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 16,
@@ -365,7 +845,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Lion in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Lion, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Lion caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Lion facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Lion ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Lion escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Lion's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Lion thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Lion భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Lion stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 17 (The Jackal & The Drum) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Lion celebrating with joyful forest animals. Then cuts to teaser frame of Episode 17 (The Jackal & The Drum) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Anger without thought leads to mistakes.! మరి రేపటి కథలో... The Jackal & The Drum... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Anger without thought leads to mistakes.! But tomorrow in Ep 17 (The Jackal & The Drum): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 17,
@@ -388,7 +900,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Jackal in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Jackal, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Jackal caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Jackal facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Jackal ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Jackal escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Jackal's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Jackal thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Jackal భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Jackal stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 18 (The Two Cats & The Monkey) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Jackal celebrating with joyful forest animals. Then cuts to teaser frame of Episode 18 (The Two Cats & The Monkey) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Fear often comes from misunderstanding.! మరి రేపటి కథలో... The Two Cats & The Monkey... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Fear often comes from misunderstanding.! But tomorrow in Ep 18 (The Two Cats & The Monkey): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 18,
@@ -411,7 +955,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Cats in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Cats, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Cats caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Cats facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Cats ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Cats escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Cats's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Cats thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Cats భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Cats stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 19 (The Wise Turtle) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Cats celebrating with joyful forest animals. Then cuts to teaser frame of Episode 19 (The Wise Turtle) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Do not let others take advantage of your argument.! మరి రేపటి కథలో... The Wise Turtle... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Do not let others take advantage of your argument.! But tomorrow in Ep 19 (The Wise Turtle): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 19,
@@ -434,7 +1010,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Turtle in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Turtle, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Turtle caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Turtle facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Turtle ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Turtle escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Turtle's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Turtle thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Turtle భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Turtle stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 20 (The Deer & The Clever Crow) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Turtle celebrating with joyful forest animals. Then cuts to teaser frame of Episode 20 (The Deer & The Clever Crow) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Patience can prevent trouble.! మరి రేపటి కథలో... The Deer & The Clever Crow... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Patience can prevent trouble.! But tomorrow in Ep 20 (The Deer & The Clever Crow): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 20,
@@ -457,7 +1065,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Deer in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Deer, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Deer caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Deer facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Deer ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Deer escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Deer's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Deer thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Deer భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Deer stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 21 (The Lion, Fox & Deer) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Deer celebrating with joyful forest animals. Then cuts to teaser frame of Episode 21 (The Lion, Fox & Deer) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Good friends help each other in danger.! మరి రేపటి కథలో... The Lion, Fox & Deer... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Good friends help each other in danger.! But tomorrow in Ep 21 (The Lion, Fox & Deer): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 21,
@@ -480,7 +1120,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Lion in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Lion, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Lion caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Lion facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Lion ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Lion escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Lion's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Lion thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Lion భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Lion stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 22 (The Camel & The Lion) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Lion celebrating with joyful forest animals. Then cuts to teaser frame of Episode 22 (The Camel & The Lion) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Choose friends carefully.! మరి రేపటి కథలో... The Camel & The Lion... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Choose friends carefully.! But tomorrow in Ep 22 (The Camel & The Lion): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 22,
@@ -503,7 +1175,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Camel in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Camel, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Camel caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Camel facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Camel ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Camel escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Camel's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Camel thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Camel భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Camel stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 23 (The Crow & The Owl) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Camel celebrating with joyful forest animals. Then cuts to teaser frame of Episode 23 (The Crow & The Owl) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Promises should be made carefully.! మరి రేపటి కథలో... The Crow & The Owl... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Promises should be made carefully.! But tomorrow in Ep 23 (The Crow & The Owl): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 23,
@@ -526,7 +1230,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Crow in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Crow, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Crow caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Crow facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Crow ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Crow escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Crow's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Crow thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Crow భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Crow stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 24 (The Mouse & The Cat) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Crow celebrating with joyful forest animals. Then cuts to teaser frame of Episode 24 (The Mouse & The Cat) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Think ahead before choosing sides.! మరి రేపటి కథలో... The Mouse & The Cat... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Think ahead before choosing sides.! But tomorrow in Ep 24 (The Mouse & The Cat): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 24,
@@ -549,7 +1285,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Mouse in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Mouse, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Mouse caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Mouse facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Mouse ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Mouse escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Mouse's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Mouse thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Mouse భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Mouse stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 25 (The Monkey & The Cap Seller) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Mouse celebrating with joyful forest animals. Then cuts to teaser frame of Episode 25 (The Monkey & The Cap Seller) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Clever planning can overcome fear.! మరి రేపటి కథలో... The Monkey & The Cap Seller... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Clever planning can overcome fear.! But tomorrow in Ep 25 (The Monkey & The Cap Seller): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 25,
@@ -572,7 +1340,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Monkey in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Monkey, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Monkey caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Monkey facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Monkey ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Monkey escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Monkey's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Monkey thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Monkey భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Monkey stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 26 (The Farmer & The Partridge) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Monkey celebrating with joyful forest animals. Then cuts to teaser frame of Episode 26 (The Farmer & The Partridge) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Observe others and learn from their actions.! మరి రేపటి కథలో... The Farmer & The Partridge... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Observe others and learn from their actions.! But tomorrow in Ep 26 (The Farmer & The Partridge): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 26,
@@ -595,7 +1395,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Farmer in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Farmer, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Farmer caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Farmer facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Farmer ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Farmer escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Farmer's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Farmer thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Farmer భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Farmer stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 27 (The Heron & The Crab) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Farmer celebrating with joyful forest animals. Then cuts to teaser frame of Episode 27 (The Heron & The Crab) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Listen to evidence before judging.! మరి రేపటి కథలో... The Heron & The Crab... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Listen to evidence before judging.! But tomorrow in Ep 27 (The Heron & The Crab): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 27,
@@ -618,7 +1450,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Heron in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Heron, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Heron caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Heron facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Heron ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Heron escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Heron's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Heron thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Heron భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Heron stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 28 (The Fish & The Fisherman) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Heron celebrating with joyful forest animals. Then cuts to teaser frame of Episode 28 (The Fish & The Fisherman) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Cleverness can defeat deception.! మరి రేపటి కథలో... The Fish & The Fisherman... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Cleverness can defeat deception.! But tomorrow in Ep 28 (The Fish & The Fisherman): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 28,
@@ -641,7 +1505,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Fish in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Fish, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Fish caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Fish facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Fish ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Fish escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Fish's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Fish thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Fish భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Fish stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 29 (The Hare & The Tortoise) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Fish celebrating with joyful forest animals. Then cuts to teaser frame of Episode 29 (The Hare & The Tortoise) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Awareness can save you from danger.! మరి రేపటి కథలో... The Hare & The Tortoise... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Awareness can save you from danger.! But tomorrow in Ep 29 (The Hare & The Tortoise): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 29,
@@ -664,7 +1560,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Hare in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Hare, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Hare caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Hare facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Hare ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Hare escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Hare's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Hare thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Hare భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Hare stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 30 (The Ant & The Dove) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Hare celebrating with joyful forest animals. Then cuts to teaser frame of Episode 30 (The Ant & The Dove) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Consistency is more powerful than overconfidence.! మరి రేపటి కథలో... The Ant & The Dove... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Consistency is more powerful than overconfidence.! But tomorrow in Ep 30 (The Ant & The Dove): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 30,
@@ -687,7 +1615,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Ant in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Ant, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Ant caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Ant facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Ant ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Ant escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Ant's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Ant thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Ant భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Ant stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 31 (The Sparrow & The Elephant) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Ant celebrating with joyful forest animals. Then cuts to teaser frame of Episode 31 (The Sparrow & The Elephant) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! A small act of kindness can return to you.! మరి రేపటి కథలో... The Sparrow & The Elephant... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! A small act of kindness can return to you.! But tomorrow in Ep 31 (The Sparrow & The Elephant): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 31,
@@ -710,7 +1670,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Sparrow in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Sparrow, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Sparrow caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Sparrow facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Sparrow ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Sparrow escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Sparrow's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Sparrow thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Sparrow భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Sparrow stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 32 (The Monkey & The Wedge) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Sparrow celebrating with joyful forest animals. Then cuts to teaser frame of Episode 32 (The Monkey & The Wedge) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Teamwork makes difficult goals possible.! మరి రేపటి కథలో... The Monkey & The Wedge... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Teamwork makes difficult goals possible.! But tomorrow in Ep 32 (The Monkey & The Wedge): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 32,
@@ -733,7 +1725,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Monkey in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Monkey, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Monkey caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Monkey facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Monkey ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Monkey escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Monkey's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Monkey thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Monkey భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Monkey stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 33 (The Jackal & The Lion's Share) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Monkey celebrating with joyful forest animals. Then cuts to teaser frame of Episode 33 (The Jackal & The Lion's Share) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Do not interfere with things you do not understand.! మరి రేపటి కథలో... The Jackal & The Lion's Share... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Do not interfere with things you do not understand.! But tomorrow in Ep 33 (The Jackal & The Lion's Share): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 33,
@@ -756,7 +1780,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Jackal in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Jackal, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Jackal caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Jackal facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Jackal ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Jackal escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Jackal's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Jackal thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Jackal భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Jackal stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 34 (The Wise Fish) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Jackal celebrating with joyful forest animals. Then cuts to teaser frame of Episode 34 (The Wise Fish) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Fairness matters in every friendship.! మరి రేపటి కథలో... The Wise Fish... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Fairness matters in every friendship.! But tomorrow in Ep 34 (The Wise Fish): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 34,
@@ -779,7 +1835,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Fish in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Fish, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Fish caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Fish facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Fish ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Fish escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Fish's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Fish thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Fish భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Fish stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 35 (The Three Fish) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Fish celebrating with joyful forest animals. Then cuts to teaser frame of Episode 35 (The Three Fish) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Pay attention to warnings before danger arrives.! మరి రేపటి కథలో... The Three Fish... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Pay attention to warnings before danger arrives.! But tomorrow in Ep 35 (The Three Fish): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 35,
@@ -802,7 +1890,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Three in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Three, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Three caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Three facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Three ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Three escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Three's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Three thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Three భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Three stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 36 (The Crab & The Crane) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Three celebrating with joyful forest animals. Then cuts to teaser frame of Episode 36 (The Crab & The Crane) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Think early, not after the danger begins.! మరి రేపటి కథలో... The Crab & The Crane... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Think early, not after the danger begins.! But tomorrow in Ep 36 (The Crab & The Crane): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 36,
@@ -825,7 +1945,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Crab in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Crab, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Crab caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Crab facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Crab ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Crab escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Crab's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Crab thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Crab భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Crab stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 37 (The Snake & The Crows) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Crab celebrating with joyful forest animals. Then cuts to teaser frame of Episode 37 (The Snake & The Crows) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Do not trust someone who repeatedly deceives others.! మరి రేపటి కథలో... The Snake & The Crows... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Do not trust someone who repeatedly deceives others.! But tomorrow in Ep 37 (The Snake & The Crows): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 37,
@@ -848,7 +2000,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Snake in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Snake, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Snake caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Snake facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Snake ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Snake escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Snake's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Snake thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Snake భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Snake stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 38 (The Owl & The Crows) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Snake celebrating with joyful forest animals. Then cuts to teaser frame of Episode 38 (The Owl & The Crows) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Use strategy instead of strength.! మరి రేపటి కథలో... The Owl & The Crows... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Use strategy instead of strength.! But tomorrow in Ep 38 (The Owl & The Crows): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 38,
@@ -871,7 +2055,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Owl in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Owl, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Owl caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Owl facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Owl ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Owl escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Owl's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Owl thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Owl భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Owl stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 39 (The Elephant & The Rabbit Moon) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Owl celebrating with joyful forest animals. Then cuts to teaser frame of Episode 39 (The Elephant & The Rabbit Moon) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Planning matters more than reacting.! మరి రేపటి కథలో... The Elephant & The Rabbit Moon... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Planning matters more than reacting.! But tomorrow in Ep 39 (The Elephant & The Rabbit Moon): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 39,
@@ -894,7 +2110,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Elephant in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Elephant, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Elephant caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Elephant facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Elephant ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Elephant escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Elephant's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Elephant thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Elephant భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Elephant stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 40 (The Monkey & The Wooden Log) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Elephant celebrating with joyful forest animals. Then cuts to teaser frame of Episode 40 (The Monkey & The Wooden Log) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Smart communication can stop conflict.! మరి రేపటి కథలో... The Monkey & The Wooden Log... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Smart communication can stop conflict.! But tomorrow in Ep 40 (The Monkey & The Wooden Log): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 40,
@@ -917,7 +2165,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Monkey in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Monkey, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Monkey caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Monkey facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Monkey ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Monkey escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Monkey's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Monkey thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Monkey భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Monkey stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 41 (The Jackal & The Camel) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Monkey celebrating with joyful forest animals. Then cuts to teaser frame of Episode 41 (The Jackal & The Camel) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Curiosity without caution can cause trouble.! మరి రేపటి కథలో... The Jackal & The Camel... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Curiosity without caution can cause trouble.! But tomorrow in Ep 41 (The Jackal & The Camel): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 41,
@@ -940,7 +2220,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Jackal in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Jackal, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Jackal caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Jackal facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Jackal ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Jackal escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Jackal's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Jackal thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Jackal భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Jackal stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 42 (The Deer & The Hunter) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Jackal celebrating with joyful forest animals. Then cuts to teaser frame of Episode 42 (The Deer & The Hunter) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Never ignore the character of those around you.! మరి రేపటి కథలో... The Deer & The Hunter... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Never ignore the character of those around you.! But tomorrow in Ep 42 (The Deer & The Hunter): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 42,
@@ -963,7 +2275,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Deer in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Deer, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Deer caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Deer facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Deer ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Deer escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Deer's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Deer thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Deer భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Deer stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 43 (The Crow, Mouse, Deer & Turtle) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Deer celebrating with joyful forest animals. Then cuts to teaser frame of Episode 43 (The Crow, Mouse, Deer & Turtle) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Good friends can help you escape danger.! మరి రేపటి కథలో... The Crow, Mouse, Deer & Turtle... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Good friends can help you escape danger.! But tomorrow in Ep 43 (The Crow, Mouse, Deer & Turtle): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 43,
@@ -986,7 +2330,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Crow in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Crow, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Crow caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Crow facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Crow ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Crow escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Crow's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Crow thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Crow భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Crow stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 44 (The Lion & The Three Bulls) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Crow celebrating with joyful forest animals. Then cuts to teaser frame of Episode 44 (The Lion & The Three Bulls) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! A strong team uses everyone's strengths.! మరి రేపటి కథలో... The Lion & The Three Bulls... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! A strong team uses everyone's strengths.! But tomorrow in Ep 44 (The Lion & The Three Bulls): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 44,
@@ -1009,7 +2385,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Lion in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Lion, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Lion caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Lion facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Lion ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Lion escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Lion's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Lion thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Lion భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Lion stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 45 (The Jackal & The Drum) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Lion celebrating with joyful forest animals. Then cuts to teaser frame of Episode 45 (The Jackal & The Drum) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Division makes a group weaker.! మరి రేపటి కథలో... The Jackal & The Drum... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Division makes a group weaker.! But tomorrow in Ep 45 (The Jackal & The Drum): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 45,
@@ -1032,7 +2440,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Jackal in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Jackal, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Jackal caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Jackal facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Jackal ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Jackal escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Jackal's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Jackal thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Jackal భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Jackal stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 46 (The Monkey & The Wooden Log) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Jackal celebrating with joyful forest animals. Then cuts to teaser frame of Episode 46 (The Monkey & The Wooden Log) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Investigate before becoming afraid.! మరి రేపటి కథలో... The Monkey & The Wooden Log... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Investigate before becoming afraid.! But tomorrow in Ep 46 (The Monkey & The Wooden Log): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 46,
@@ -1055,7 +2495,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Monkey in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Monkey, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Monkey caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Monkey facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Monkey ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Monkey escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Monkey's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Monkey thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Monkey భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Monkey stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 47 (The Crane & The Fish) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Monkey celebrating with joyful forest animals. Then cuts to teaser frame of Episode 47 (The Crane & The Fish) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Some warnings exist for a reason.! మరి రేపటి కథలో... The Crane & The Fish... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Some warnings exist for a reason.! But tomorrow in Ep 47 (The Crane & The Fish): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 47,
@@ -1078,7 +2550,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Crane in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Crane, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Crane caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Crane facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Crane ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Crane escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Crane's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Crane thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Crane భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Crane stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 48 (The Blue Bird's Secret) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Crane celebrating with joyful forest animals. Then cuts to teaser frame of Episode 48 (The Blue Bird's Secret) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! A clever lie may still have consequences.! మరి రేపటి కథలో... The Blue Bird's Secret... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! A clever lie may still have consequences.! But tomorrow in Ep 48 (The Blue Bird's Secret): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 48,
@@ -1101,7 +2605,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Bird in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Bird, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Bird caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Bird facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Bird ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Bird escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Bird's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Bird thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Bird భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Bird stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 49 (The Elephant Who Forgot) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Bird celebrating with joyful forest animals. Then cuts to teaser frame of Episode 49 (The Elephant Who Forgot) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Honesty builds lasting trust.! మరి రేపటి కథలో... The Elephant Who Forgot... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Honesty builds lasting trust.! But tomorrow in Ep 49 (The Elephant Who Forgot): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 49,
@@ -1124,7 +2660,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Elephant in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Elephant, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Elephant caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Elephant facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Elephant ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Elephant escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Elephant's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Elephant thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Elephant భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Elephant stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 50 (The Proud Peacock) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Elephant celebrating with joyful forest animals. Then cuts to teaser frame of Episode 50 (The Proud Peacock) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Remember those who helped you.! మరి రేపటి కథలో... The Proud Peacock... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Remember those who helped you.! But tomorrow in Ep 50 (The Proud Peacock): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 50,
@@ -1147,7 +2715,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Peacock in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Peacock, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Peacock caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Peacock facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Peacock ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Peacock escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Peacock's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Peacock thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Peacock భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Peacock stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 51 (The Fox & The Grapes) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Peacock celebrating with joyful forest animals. Then cuts to teaser frame of Episode 51 (The Fox & The Grapes) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Appearance is not the same as ability.! మరి రేపటి కథలో... The Fox & The Grapes... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Appearance is not the same as ability.! But tomorrow in Ep 51 (The Fox & The Grapes): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 51,
@@ -1170,7 +2770,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Fox in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Fox, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Fox caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Fox facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Fox ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Fox escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Fox's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Fox thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Fox భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Fox stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 52 (The Crow & The Peacock Feathers) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Fox celebrating with joyful forest animals. Then cuts to teaser frame of Episode 52 (The Crow & The Peacock Feathers) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Accept what you cannot change without bitterness.! మరి రేపటి కథలో... The Crow & The Peacock Feathers... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Accept what you cannot change without bitterness.! But tomorrow in Ep 52 (The Crow & The Peacock Feathers): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 52,
@@ -1193,7 +2825,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Crow in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Crow, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Crow caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Crow facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Crow ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Crow escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Crow's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Crow thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Crow భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Crow stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 53 (The Rabbit & The Mango Tree) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Crow celebrating with joyful forest animals. Then cuts to teaser frame of Episode 53 (The Rabbit & The Mango Tree) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Imitating others does not make you special.! మరి రేపటి కథలో... The Rabbit & The Mango Tree... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Imitating others does not make you special.! But tomorrow in Ep 53 (The Rabbit & The Mango Tree): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 53,
@@ -1216,7 +2880,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Rabbit in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Rabbit, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Rabbit caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Rabbit facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Rabbit ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Rabbit escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Rabbit's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Rabbit thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Rabbit భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Rabbit stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 54 (The Squirrel & The Elephant) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Rabbit celebrating with joyful forest animals. Then cuts to teaser frame of Episode 54 (The Squirrel & The Elephant) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Sharing can turn rivals into friends.! మరి రేపటి కథలో... The Squirrel & The Elephant... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Sharing can turn rivals into friends.! But tomorrow in Ep 54 (The Squirrel & The Elephant): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 54,
@@ -1239,7 +2935,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Squirrel in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Squirrel, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Squirrel caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Squirrel facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Squirrel ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Squirrel escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Squirrel's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Squirrel thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Squirrel భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Squirrel stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 55 (The Wise Parrot) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Squirrel celebrating with joyful forest animals. Then cuts to teaser frame of Episode 55 (The Wise Parrot) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Everyone has a useful role.! మరి రేపటి కథలో... The Wise Parrot... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Everyone has a useful role.! But tomorrow in Ep 55 (The Wise Parrot): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 55,
@@ -1262,7 +2990,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Parrot in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Parrot, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Parrot caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Parrot facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Parrot ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Parrot escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Parrot's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Parrot thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Parrot భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Parrot stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 56 (The King & The Talking Parrot) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Parrot celebrating with joyful forest animals. Then cuts to teaser frame of Episode 56 (The King & The Talking Parrot) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Good advice is valuable when you listen.! మరి రేపటి కథలో... The King & The Talking Parrot... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Good advice is valuable when you listen.! But tomorrow in Ep 56 (The King & The Talking Parrot): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 56,
@@ -1285,7 +3045,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Parrot in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Parrot, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Parrot caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Parrot facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Parrot ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Parrot escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Parrot's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Parrot thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Parrot భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Parrot stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 57 (The Old Tree & The Woodcutters) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Parrot celebrating with joyful forest animals. Then cuts to teaser frame of Episode 57 (The Old Tree & The Woodcutters) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Truth is more valuable than pleasing words.! మరి రేపటి కథలో... The Old Tree & The Woodcutters... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Truth is more valuable than pleasing words.! But tomorrow in Ep 57 (The Old Tree & The Woodcutters): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 57,
@@ -1308,7 +3100,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Tree in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Tree, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Tree caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Tree facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Tree ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Tree escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Tree's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Tree thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Tree భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Tree stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 58 (The Sparrow Family) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Tree celebrating with joyful forest animals. Then cuts to teaser frame of Episode 58 (The Sparrow Family) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Think about long-term consequences.! మరి రేపటి కథలో... The Sparrow Family... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Think about long-term consequences.! But tomorrow in Ep 58 (The Sparrow Family): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 58,
@@ -1331,7 +3155,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Sparrows in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Sparrows, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Sparrows caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Sparrows facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Sparrows ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Sparrows escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Sparrows's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Sparrows thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Sparrows భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Sparrows stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 59 (The Deer & The Shadow) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Sparrows celebrating with joyful forest animals. Then cuts to teaser frame of Episode 59 (The Deer & The Shadow) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Protecting family requires courage and planning.! మరి రేపటి కథలో... The Deer & The Shadow... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Protecting family requires courage and planning.! But tomorrow in Ep 59 (The Deer & The Shadow): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 59,
@@ -1354,7 +3210,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Deer in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Deer, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Deer caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Deer facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Deer ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Deer escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Deer's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Deer thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Deer భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Deer stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 60 (The Monkey & The Mangoes) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Deer celebrating with joyful forest animals. Then cuts to teaser frame of Episode 60 (The Monkey & The Mangoes) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Do not mistake appearances for reality.! మరి రేపటి కథలో... The Monkey & The Mangoes... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Do not mistake appearances for reality.! But tomorrow in Ep 60 (The Monkey & The Mangoes): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 60,
@@ -1377,7 +3265,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Monkey in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Monkey, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Monkey caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Monkey facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Monkey ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Monkey escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Monkey's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Monkey thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Monkey భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Monkey stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 61 (The Fox & The Well) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Monkey celebrating with joyful forest animals. Then cuts to teaser frame of Episode 61 (The Fox & The Well) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Do not reveal every secret to everyone.! మరి రేపటి కథలో... The Fox & The Well... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Do not reveal every secret to everyone.! But tomorrow in Ep 61 (The Fox & The Well): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 61,
@@ -1400,7 +3320,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Fox in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Fox, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Fox caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Fox facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Fox ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Fox escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Fox's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Fox thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Fox భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Fox stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 62 (The Goat & The Wolf) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Fox celebrating with joyful forest animals. Then cuts to teaser frame of Episode 62 (The Goat & The Wolf) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Think about how you will get out before you jump in.! మరి రేపటి కథలో... The Goat & The Wolf... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Think about how you will get out before you jump in.! But tomorrow in Ep 62 (The Goat & The Wolf): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 62,
@@ -1423,7 +3375,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Goat in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Goat, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Goat caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Goat facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Goat ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Goat escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Goat's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Goat thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Goat భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Goat stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 63 (The Shepherd & The Wild Dog) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Goat celebrating with joyful forest animals. Then cuts to teaser frame of Episode 63 (The Shepherd & The Wild Dog) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Courage can come from quick thinking.! మరి రేపటి కథలో... The Shepherd & The Wild Dog... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Courage can come from quick thinking.! But tomorrow in Ep 63 (The Shepherd & The Wild Dog): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 63,
@@ -1446,7 +3430,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Shepherd in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Shepherd, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Shepherd caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Shepherd facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Shepherd ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Shepherd escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Shepherd's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Shepherd thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Shepherd భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Shepherd stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 64 (The Owl & The Fireflies) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Shepherd celebrating with joyful forest animals. Then cuts to teaser frame of Episode 64 (The Owl & The Fireflies) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Trust should be earned.! మరి రేపటి కథలో... The Owl & The Fireflies... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Trust should be earned.! But tomorrow in Ep 64 (The Owl & The Fireflies): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 64,
@@ -1469,7 +3485,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Owl in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Owl, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Owl caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Owl facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Owl ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Owl escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Owl's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Owl thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Owl భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Owl stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 65 (The Elephant & The Rope) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Owl celebrating with joyful forest animals. Then cuts to teaser frame of Episode 65 (The Elephant & The Rope) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Not every bright thing is a threat.! మరి రేపటి కథలో... The Elephant & The Rope... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Not every bright thing is a threat.! But tomorrow in Ep 65 (The Elephant & The Rope): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 65,
@@ -1492,7 +3540,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Elephant in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Elephant, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Elephant caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Elephant facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Elephant ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Elephant escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Elephant's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Elephant thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Elephant భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Elephant stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 66 (The Little Bird & The Storm) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Elephant celebrating with joyful forest animals. Then cuts to teaser frame of Episode 66 (The Little Bird & The Storm) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Past experiences can create false limits.! మరి రేపటి కథలో... The Little Bird & The Storm... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Past experiences can create false limits.! But tomorrow in Ep 66 (The Little Bird & The Storm): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 66,
@@ -1515,7 +3595,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Bird in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Bird, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Bird caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Bird facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Bird ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Bird escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Bird's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Bird thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Bird భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Bird stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 67 (The Ant Colony's Plan) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Bird celebrating with joyful forest animals. Then cuts to teaser frame of Episode 67 (The Ant Colony's Plan) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Prepare before the storm arrives.! మరి రేపటి కథలో... The Ant Colony's Plan... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Prepare before the storm arrives.! But tomorrow in Ep 67 (The Ant Colony's Plan): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 67,
@@ -1538,7 +3650,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Ants in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Ants, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Ants caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Ants facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Ants ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Ants escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Ants's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Ants thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Ants భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Ants stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 68 (The Bee & The Bear) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Ants celebrating with joyful forest animals. Then cuts to teaser frame of Episode 68 (The Bee & The Bear) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Teamwork beats individual strength.! మరి రేపటి కథలో... The Bee & The Bear... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Teamwork beats individual strength.! But tomorrow in Ep 68 (The Bee & The Bear): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 68,
@@ -1561,7 +3705,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Bee in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Bee, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Bee caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Bee facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Bee ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Bee escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Bee's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Bee thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Bee భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Bee stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 69 (The Fox & The Lost Crown) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Bee celebrating with joyful forest animals. Then cuts to teaser frame of Episode 69 (The Fox & The Lost Crown) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Respect boundaries.! మరి రేపటి కథలో... The Fox & The Lost Crown... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Respect boundaries.! But tomorrow in Ep 69 (The Fox & The Lost Crown): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 69,
@@ -1584,7 +3760,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Fox in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Fox, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Fox caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Fox facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Fox ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Fox escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Fox's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Fox thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Fox భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Fox stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 70 (The Monkey & The Mirror) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Fox celebrating with joyful forest animals. Then cuts to teaser frame of Episode 70 (The Monkey & The Mirror) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Power without responsibility means little.! మరి రేపటి కథలో... The Monkey & The Mirror... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Power without responsibility means little.! But tomorrow in Ep 70 (The Monkey & The Mirror): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 70,
@@ -1607,7 +3815,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Monkey in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Monkey, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Monkey caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Monkey facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Monkey ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Monkey escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Monkey's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Monkey thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Monkey భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Monkey stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 71 (The Turtle & The Rain) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Monkey celebrating with joyful forest animals. Then cuts to teaser frame of Episode 71 (The Turtle & The Rain) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Self-awareness prevents foolish choices.! మరి రేపటి కథలో... The Turtle & The Rain... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Self-awareness prevents foolish choices.! But tomorrow in Ep 71 (The Turtle & The Rain): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 71,
@@ -1630,7 +3870,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Turtle in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Turtle, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Turtle caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Turtle facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Turtle ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Turtle escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Turtle's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Turtle thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Turtle భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Turtle stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 72 (The Rabbit & The Moonlight) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Turtle celebrating with joyful forest animals. Then cuts to teaser frame of Episode 72 (The Rabbit & The Moonlight) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Patience helps us adapt.! మరి రేపటి కథలో... The Rabbit & The Moonlight... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Patience helps us adapt.! But tomorrow in Ep 72 (The Rabbit & The Moonlight): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 72,
@@ -1653,7 +3925,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Rabbit in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Rabbit, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Rabbit caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Rabbit facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Rabbit ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Rabbit escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Rabbit's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Rabbit thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Rabbit భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Rabbit stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 73 (The Lion's Missing Roar) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Rabbit celebrating with joyful forest animals. Then cuts to teaser frame of Episode 73 (The Lion's Missing Roar) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Fear becomes smaller when we understand it.! మరి రేపటి కథలో... The Lion's Missing Roar... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Fear becomes smaller when we understand it.! But tomorrow in Ep 73 (The Lion's Missing Roar): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 73,
@@ -1676,7 +3980,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Lion in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Lion, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Lion caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Lion facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Lion ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Lion escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Lion's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Lion thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Lion భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Lion stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 74 (The Fox & The Honest Crow) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Lion celebrating with joyful forest animals. Then cuts to teaser frame of Episode 74 (The Fox & The Honest Crow) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Confidence is not always about being loud.! మరి రేపటి కథలో... The Fox & The Honest Crow... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Confidence is not always about being loud.! But tomorrow in Ep 74 (The Fox & The Honest Crow): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 74,
@@ -1699,7 +4035,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Fox in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Fox, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Fox caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Fox facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Fox ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Fox escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Fox's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Fox thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Fox భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Fox stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 75 (The Deer & The Golden Bell) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Fox celebrating with joyful forest animals. Then cuts to teaser frame of Episode 75 (The Deer & The Golden Bell) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Honesty can expose deception.! మరి రేపటి కథలో... The Deer & The Golden Bell... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Honesty can expose deception.! But tomorrow in Ep 75 (The Deer & The Golden Bell): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 75,
@@ -1722,7 +4090,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Deer in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Deer, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Deer caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Deer facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Deer ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Deer escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Deer's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Deer thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Deer భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Deer stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 76 (The Monkey & The Stormy River) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Deer celebrating with joyful forest animals. Then cuts to teaser frame of Episode 76 (The Monkey & The Stormy River) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Do not chase something just because it shines.! మరి రేపటి కథలో... The Monkey & The Stormy River... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Do not chase something just because it shines.! But tomorrow in Ep 76 (The Monkey & The Stormy River): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 76,
@@ -1745,7 +4145,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Monkey in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Monkey, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Monkey caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Monkey facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Monkey ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Monkey escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Monkey's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Monkey thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Monkey భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Monkey stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 77 (The Elephant & The Bridge) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Monkey celebrating with joyful forest animals. Then cuts to teaser frame of Episode 77 (The Elephant & The Bridge) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Wait for the right moment.! మరి రేపటి కథలో... The Elephant & The Bridge... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Wait for the right moment.! But tomorrow in Ep 77 (The Elephant & The Bridge): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 77,
@@ -1768,7 +4200,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Elephant in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Elephant, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Elephant caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Elephant facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Elephant ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Elephant escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Elephant's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Elephant thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Elephant భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Elephant stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 78 (The Little Mouse's Big Idea) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Elephant celebrating with joyful forest animals. Then cuts to teaser frame of Episode 78 (The Little Mouse's Big Idea) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Careful planning protects everyone.! మరి రేపటి కథలో... The Little Mouse's Big Idea... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Careful planning protects everyone.! But tomorrow in Ep 78 (The Little Mouse's Big Idea): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 78,
@@ -1791,7 +4255,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Mouse in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Mouse, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Mouse caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Mouse facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Mouse ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Mouse escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Mouse's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Mouse thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Mouse భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Mouse stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 79 (The Crow's New Nest) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Mouse celebrating with joyful forest animals. Then cuts to teaser frame of Episode 79 (The Crow's New Nest) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! A good idea can come from anyone.! మరి రేపటి కథలో... The Crow's New Nest... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! A good idea can come from anyone.! But tomorrow in Ep 79 (The Crow's New Nest): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 79,
@@ -1814,7 +4310,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Crow in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Crow, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Crow caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Crow facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Crow ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Crow escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Crow's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Crow thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Crow భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Crow stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 80 (The Fox & The Three Doors) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Crow celebrating with joyful forest animals. Then cuts to teaser frame of Episode 80 (The Fox & The Three Doors) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! A safe home needs preparation.! మరి రేపటి కథలో... The Fox & The Three Doors... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! A safe home needs preparation.! But tomorrow in Ep 80 (The Fox & The Three Doors): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 80,
@@ -1837,7 +4365,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Fox in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Fox, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Fox caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Fox facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Fox ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Fox escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Fox's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Fox thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Fox భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Fox stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 81 (The Parrot & The Broken Cage) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Fox celebrating with joyful forest animals. Then cuts to teaser frame of Episode 81 (The Parrot & The Broken Cage) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Think through every option.! మరి రేపటి కథలో... The Parrot & The Broken Cage... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Think through every option.! But tomorrow in Ep 81 (The Parrot & The Broken Cage): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 81,
@@ -1860,7 +4420,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Parrot in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Parrot, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Parrot caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Parrot facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Parrot ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Parrot escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Parrot's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Parrot thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Parrot భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Parrot stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 82 (The Deer & The Falling Fruit) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Parrot celebrating with joyful forest animals. Then cuts to teaser frame of Episode 82 (The Deer & The Falling Fruit) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Freedom is more valuable than comfort.! మరి రేపటి కథలో... The Deer & The Falling Fruit... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Freedom is more valuable than comfort.! But tomorrow in Ep 82 (The Deer & The Falling Fruit): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 82,
@@ -1883,7 +4475,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Deer in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Deer, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Deer caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Deer facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Deer ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Deer escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Deer's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Deer thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Deer భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Deer stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 83 (The Wise Turtle's Shortcut) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Deer celebrating with joyful forest animals. Then cuts to teaser frame of Episode 83 (The Wise Turtle's Shortcut) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Check before you assume.! మరి రేపటి కథలో... The Wise Turtle's Shortcut... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Check before you assume.! But tomorrow in Ep 83 (The Wise Turtle's Shortcut): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 83,
@@ -1906,7 +4530,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Turtle in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Turtle, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Turtle caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Turtle facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Turtle ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Turtle escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Turtle's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Turtle thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Turtle భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Turtle stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 84 (The Lion & The Singing Birds) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Turtle celebrating with joyful forest animals. Then cuts to teaser frame of Episode 84 (The Lion & The Singing Birds) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! The shortest path is not always the safest.! మరి రేపటి కథలో... The Lion & The Singing Birds... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! The shortest path is not always the safest.! But tomorrow in Ep 84 (The Lion & The Singing Birds): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 84,
@@ -1929,7 +4585,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Lion in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Lion, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Lion caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Lion facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Lion ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Lion escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Lion's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Lion thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Lion భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Lion stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 85 (The Monkey & The Hidden Spring) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Lion celebrating with joyful forest animals. Then cuts to teaser frame of Episode 85 (The Monkey & The Hidden Spring) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Listening can reveal what strength misses.! మరి రేపటి కథలో... The Monkey & The Hidden Spring... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Listening can reveal what strength misses.! But tomorrow in Ep 85 (The Monkey & The Hidden Spring): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 85,
@@ -1952,7 +4640,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Monkey in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Monkey, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Monkey caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Monkey facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Monkey ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Monkey escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Monkey's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Monkey thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Monkey భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Monkey stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 86 (The Snake & The Clever Frog) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Monkey celebrating with joyful forest animals. Then cuts to teaser frame of Episode 86 (The Snake & The Clever Frog) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Share useful discoveries.! మరి రేపటి కథలో... The Snake & The Clever Frog... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Share useful discoveries.! But tomorrow in Ep 86 (The Snake & The Clever Frog): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 86,
@@ -1975,7 +4695,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Snake in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Snake, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Snake caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Snake facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Snake ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Snake escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Snake's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Snake thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Snake భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Snake stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 87 (The Elephant & The Festival) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Snake celebrating with joyful forest animals. Then cuts to teaser frame of Episode 87 (The Elephant & The Festival) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Small creatures can defend themselves with strategy.! మరి రేపటి కథలో... The Elephant & The Festival... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Small creatures can defend themselves with strategy.! But tomorrow in Ep 87 (The Elephant & The Festival): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 87,
@@ -1998,7 +4750,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Elephant in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Elephant, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Elephant caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Elephant facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Elephant ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Elephant escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Elephant's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Elephant thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Elephant భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Elephant stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 88 (The Crow & The Shiny Ring) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Elephant celebrating with joyful forest animals. Then cuts to teaser frame of Episode 88 (The Crow & The Shiny Ring) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Celebrate without forgetting others.! మరి రేపటి కథలో... The Crow & The Shiny Ring... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Celebrate without forgetting others.! But tomorrow in Ep 88 (The Crow & The Shiny Ring): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 88,
@@ -2021,7 +4805,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Crow in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Crow, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Crow caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Crow facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Crow ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Crow escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Crow's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Crow thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Crow భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Crow stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 89 (The Rabbit's Impossible Race) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Crow celebrating with joyful forest animals. Then cuts to teaser frame of Episode 89 (The Rabbit's Impossible Race) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Not everything valuable should be taken.! మరి రేపటి కథలో... The Rabbit's Impossible Race... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Not everything valuable should be taken.! But tomorrow in Ep 89 (The Rabbit's Impossible Race): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 89,
@@ -2044,7 +4860,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Rabbit in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Rabbit, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Rabbit caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Rabbit facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Rabbit ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Rabbit escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Rabbit's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Rabbit thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Rabbit భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Rabbit stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 90 (The Little Deer & The Deep River) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Rabbit celebrating with joyful forest animals. Then cuts to teaser frame of Episode 90 (The Little Deer & The Deep River) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Know your strengths.! మరి రేపటి కథలో... The Little Deer & The Deep River... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Know your strengths.! But tomorrow in Ep 90 (The Little Deer & The Deep River): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 90,
@@ -2067,7 +4915,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Deer in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Deer, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Deer caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Deer facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Deer ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Deer escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Deer's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Deer thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Deer భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Deer stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 91 (The Monkey Who Shared His Fruit) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Deer celebrating with joyful forest animals. Then cuts to teaser frame of Episode 91 (The Monkey Who Shared His Fruit) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Ask for help when you need it.! మరి రేపటి కథలో... The Monkey Who Shared His Fruit... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Ask for help when you need it.! But tomorrow in Ep 91 (The Monkey Who Shared His Fruit): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 91,
@@ -2090,7 +4970,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Monkey in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Monkey, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Monkey caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Monkey facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Monkey ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Monkey escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Monkey's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Monkey thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Monkey భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Monkey stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 92 (The Lion & The Empty Cave) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Monkey celebrating with joyful forest animals. Then cuts to teaser frame of Episode 92 (The Lion & The Empty Cave) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Generosity creates friendship.! మరి రేపటి కథలో... The Lion & The Empty Cave... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Generosity creates friendship.! But tomorrow in Ep 92 (The Lion & The Empty Cave): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 92,
@@ -2113,7 +5025,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Lion in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Lion, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Lion caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Lion facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Lion ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Lion escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Lion's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Lion thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Lion భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Lion stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 93 (The Fox & The Echo) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Lion celebrating with joyful forest animals. Then cuts to teaser frame of Episode 93 (The Fox & The Echo) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Look for evidence before believing a story.! మరి రేపటి కథలో... The Fox & The Echo... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Look for evidence before believing a story.! But tomorrow in Ep 93 (The Fox & The Echo): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 93,
@@ -2136,7 +5080,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Fox in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Fox, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Fox caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Fox facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Fox ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Fox escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Fox's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Fox thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Fox భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Fox stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 94 (The Wise Owl's Night Lesson) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Fox celebrating with joyful forest animals. Then cuts to teaser frame of Episode 94 (The Wise Owl's Night Lesson) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Sometimes the voice we fear is our own.! మరి రేపటి కథలో... The Wise Owl's Night Lesson... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Sometimes the voice we fear is our own.! But tomorrow in Ep 94 (The Wise Owl's Night Lesson): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 94,
@@ -2159,7 +5135,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Owl in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Owl, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Owl caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Owl facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Owl ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Owl escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Owl's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Owl thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Owl భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Owl stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 95 (The Tortoise's Lost Shell) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Owl celebrating with joyful forest animals. Then cuts to teaser frame of Episode 95 (The Tortoise's Lost Shell) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Learning from mistakes makes us wiser.! మరి రేపటి కథలో... The Tortoise's Lost Shell... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Learning from mistakes makes us wiser.! But tomorrow in Ep 95 (The Tortoise's Lost Shell): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 95,
@@ -2182,7 +5190,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Tortoise in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Tortoise, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Tortoise caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Tortoise facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Tortoise ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Tortoise escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Tortoise's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Tortoise thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Tortoise భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Tortoise stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 96 (The Rabbit & The Garden Gate) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Tortoise celebrating with joyful forest animals. Then cuts to teaser frame of Episode 96 (The Rabbit & The Garden Gate) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Friends help us recover after setbacks.! మరి రేపటి కథలో... The Rabbit & The Garden Gate... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Friends help us recover after setbacks.! But tomorrow in Ep 96 (The Rabbit & The Garden Gate): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 96,
@@ -2205,7 +5245,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Rabbit in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Rabbit, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Rabbit caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Rabbit facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Rabbit ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Rabbit escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Rabbit's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Rabbit thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Rabbit భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Rabbit stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 97 (The Crow & The Rain Cloud) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Rabbit celebrating with joyful forest animals. Then cuts to teaser frame of Episode 97 (The Crow & The Rain Cloud) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Respect boundaries and ask permission.! మరి రేపటి కథలో... The Crow & The Rain Cloud... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Respect boundaries and ask permission.! But tomorrow in Ep 97 (The Crow & The Rain Cloud): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 97,
@@ -2228,7 +5300,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Crow in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Crow, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Crow caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Crow facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Crow ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Crow escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Crow's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Crow thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Crow భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Crow stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 98 (The Monkey & The Banana Bridge) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Crow celebrating with joyful forest animals. Then cuts to teaser frame of Episode 98 (The Monkey & The Banana Bridge) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Prepare for change.! మరి రేపటి కథలో... The Monkey & The Banana Bridge... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Prepare for change.! But tomorrow in Ep 98 (The Monkey & The Banana Bridge): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 98,
@@ -2251,7 +5355,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Monkey in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Monkey, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Monkey caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Monkey facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Monkey ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Monkey escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Monkey's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Monkey thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Monkey భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Monkey stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 99 (The Lion's Best Friend) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Monkey celebrating with joyful forest animals. Then cuts to teaser frame of Episode 99 (The Lion's Best Friend) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Helping others makes everyone safer.! మరి రేపటి కథలో... The Lion's Best Friend... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Helping others makes everyone safer.! But tomorrow in Ep 99 (The Lion's Best Friend): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 99,
@@ -2274,7 +5410,39 @@ export const episodes = [
     "commentQ": "Would YOU act like Lion in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Lion, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Lion caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Lion facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Lion ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Lion escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Lion's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Lion thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Lion భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Lion stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 100 (The Panchatantra Promise) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Lion celebrating with joyful forest animals. Then cuts to teaser frame of Episode 100 (The Panchatantra Promise) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! True friendship grows through actions.! మరి రేపటి కథలో... The Panchatantra Promise... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! True friendship grows through actions.! But tomorrow in Ep 100 (The Panchatantra Promise): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   },
   {
     "id": 100,
@@ -2297,6 +5465,38 @@ export const episodes = [
     "commentQ": "Would YOU act like Children in this situation? Comment YES or NO!",
     "prompt": "3D Pixar Disney animated film style, cute expressive Children, vibrant lush jungle background, warm golden volumetric lighting, cinematic 8k render, Unreal Engine 5 --ar 9:16",
     "views": 0,
-    "retention": 0
+    "retention": 0,
+    "clips": [
+      {
+        "clipNumber": 1,
+        "timeRange": "00:00 – 00:10 (10 Seconds)",
+        "purpose": "🎯 Thumb-Stopper Hook & Sudden Peril",
+        "cameraAction": "Rapid dynamic push-in on 3D Pixar Children caught in sudden dramatic crisis! Eyes wide in panic, immediate motion in-media-res.",
+        "visualPrompt": "3D Pixar Disney animated film style, extreme close-up of expressive cute Children facing immediate danger in lush jungle, vibrant saturated colors, dramatic volumetric lighting, 8k render, Unreal Engine 5 --ar 9:16",
+        "teluguVO": "\"ఆగండి! ఈ Children ఇంత పెద్ద అపాయం నుండి ఎలా తప్పించుకుంటుందో తెలుసా? కథ మొదలైంది... కానీ అక్కడ పెద్ద చిక్కు వచ్చిపడింది!\"",
+        "englishSub": "\"Wait! Can Children escape this impossible danger before time runs out?! The crisis begins, and trouble closes in!\"",
+        "sfx": "0:01s Loud Cartoon Gasp • 0:03s Magic Shimmer Chime • 0:06s Danger Footsteps • 0:09s Suspense Drumbeat"
+      },
+      {
+        "clipNumber": 2,
+        "timeRange": "00:10 – 00:20 (10 Seconds)",
+        "purpose": "⚠️ Rising Crisis & Brain-over-Brawn Idea",
+        "cameraAction": "The danger escalates to maximum intensity! Escape routes are blocked. Children's eyes narrow into a brilliant idea as brain lightbulb illuminates.",
+        "visualPrompt": "3D Pixar Disney animated film style, medium shot of cute Children thinking cleverly under pressure with a cheeky confident smirk, obstacles surrounding, cinematic depth of field, 8k render --ar 9:16",
+        "teluguVO": "\"అపాయం చుట్టుముట్టింది... శారీరక బలం సరిపోదు! కానీ Children భయపడకుండా తన తెలివితేటలను ఉపయోగించడం మొదలుపెట్టింది!\"",
+        "englishSub": "\"The trap closes in, and strength alone cannot win! But Children stays calm and triggers a brilliant secret plan!\"",
+        "sfx": "0:11s Dramatic Tension Chords • 0:14s Ticking Clock Heartbeat • 0:17s Cartoon Lightbulb 'PING' • 0:19s Fast Movement Whoosh"
+      },
+      {
+        "clipNumber": 3,
+        "timeRange": "00:20 – 00:30 (10 Seconds)",
+        "purpose": "💡 Clever Climax + Moral + NEXT EPISODE TEASER + Follow CTA",
+        "cameraAction": "20–25s: The witty move outsmarts the brute force! Victory celebration. 25–26.5s: Moral takeaway card. 26.5–30s: CUT TO SNEAK PEEK FRAME of EPISODE 1 (The Clever Rabbit & Hungry Fox (Season Replay)) + Bouncing Follow Button!",
+        "visualPrompt": "3D Pixar Disney animated film style, split sequence: happy victorious Children celebrating with joyful forest animals. Then cuts to teaser frame of Episode 1 (The Clever Rabbit & Hungry Fox (Season Replay)) with cute animals in mysterious new adventure, 8k --ar 9:16",
+        "teluguVO": "\"ఉపాయంతో అపాయాన్ని దాటేశారు! Every story teaches us something worth remembering.! మరి రేపటి కథలో... The Clever Rabbit & Hungry Fox (Season Replay)... ఏ అద్భుతం జరిగిందో తెలుసా? రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "\"Brains beat brawn! Every story teaches us something worth remembering.! But tomorrow in Ep 1 (The Clever Rabbit & Hungry Fox (Season Replay)): What secret trick saves the day next?! TAP FOLLOW NOW!\"",
+        "sfx": "0:21s Cartoon Strike Crash • 0:23s Joyful Animal Laughs • 0:25s Triumphant Fanfare • 0:29s High Crystal Bell Chime"
+      }
+    ]
   }
 ];
