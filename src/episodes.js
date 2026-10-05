@@ -28,9 +28,9 @@ export const episodes = [
         "purpose": "🎯 Thumb-Stopper Hook & The Trap",
         "cameraAction": "Fast dynamic tracking shot introducing Rabbit cornered by Fox.",
         "visualPrompt": "3D Pixar Disney style, extreme close-up of cute chubby fluffy brown baby bunny with big expressive dark eyes trapped inside the hollow root base of an ancient banyan tree, hungry red fox with sharp teeth and sneaky grin peering directly into the hole blocking the only exit, warm volumetric jungle sunlight, 8k render, Unreal Engine 5 --ar 9:16",
-        "teluguVO": "\"ఆగండి! చెట్టు తొర్రలో చిక్కుకున్న ఈ బుల్లి కుందేలు... ఆకలితో ఉన్న నక్క నుండి ఎలా తప్పించుకుందో తెలుసా? నక్క బావ తొర్ర ముందే కాపలా కాసింది!\"",
-        "englishSub": "\"Wait! Danger struck the jungle as Rabbit was cornered by Fox! There was nowhere to run!\"",
-        "sfx": "0:01s Cartoon Gasp • 0:03s Dramatic Tension String • 0:08s Menacing Growl"
+        "teluguVO": "\"ఆగండి! చెట్టు తొర్రలో చిక్కుకున్న ఈ బుల్లి కుందేలు... ఆకలితో ఉన్న నక్క నుండి ఎలా తప్పించుకుందో తెలుసా? నక్క బావ తొర్ర ముందే కాపలా కాసింది... కుందేలుకు బయటకు వచ్చే దారే లేదు!\"",
+        "englishSub": "\"Wait! How can a tiny bunny trapped in a tree hollow escape a hungry sly fox?! The fox blocked the only exit... Bunny was completely trapped!\"",
+        "sfx": "0:01s Cartoon Gasp • 0:03s Shimmer Whoosh • 0:06s Sneaky Fox Tiptoe Steps • 0:09s Low Tension Cello Swell"
       },
       {
         "clipNumber": 2,
@@ -39,8 +39,8 @@ export const episodes = [
         "cameraAction": "Medium dynamic action shot showing Rabbit executing the physical trick: Rabbit uses its strong hind bunny legs to violently kick an explosive spray of dry dirt, loose sand, and leaves directly into the fox's wide-open eyes and nostrils..",
         "visualPrompt": "3D Pixar Disney style, medium dynamic action shot, clever brown bunny inside tree hollow kicking his powerful hind legs, blasting a thick dramatic cloud of fine golden sand and dry dirt directly into the face and eyes of the sneaking red fox, fox squinting and coughing in shock, dynamic motion blur, 8k render --ar 9:16",
         "teluguVO": "\"నక్క తొర్రలోకి ముఖం పెట్టి చూసింది! కానీ కుందేలు ఏమాత్రం భయపడలేదు! బుర్ర ఉపయోగించి తన వెనుక కాళ్లతో నేల మీదున్న దుమ్ము, ఇసుకను నక్క కళ్లల్లోకి గట్టిగా తన్నింది!\"",
-        "englishSub": "\"But Rabbit didn't panic! Staying calm, Rabbit used quick wit and executed a brilliant trick!\"",
-        "sfx": "0:12s Whoosh Action Sound • 0:15s Sudden Trick Explosion • 0:18s Antagonist Shock"
+        "englishSub": "\"The fox stuck his snout inside! But Bunny stayed calm... using his strong hind legs, he kicked a thick cloud of dust and sand straight into the fox's eyes!\"",
+        "sfx": "0:11s Sniffing Snort • 0:14s Fast Whoosh Kick • 0:15s Explosive Sand Blast • 0:18s Fox Coughing & Shocked Whimper"
       },
       {
         "clipNumber": 3,
@@ -49,8 +49,8 @@ export const episodes = [
         "cameraAction": "Comical slapstick resolution: Blinded and violently sneezing, the fox stumbles backward blindly, catches its back paw on a thick twisted tree root, flips comically, and crashes face-first SPLAT into a wet brown mud puddle.. Moral card appears, transitioning into teaser of The Monkey & Crocodile.",
         "visualPrompt": "3D Pixar Disney style, comical blinded red fox tripping over a gnarled wooden tree root, flipping and landing face-first with a huge splash in a muddy brown puddle, silly stars circling his head, cute happy bunny skipping past him waving. Then cuts to teaser frame of huge green crocodile in sparkling blue river smiling slyly at a cute little monkey on a branch, 8k --ar 9:16",
         "teluguVO": "\"కళ్లు మండడంతో నక్క వెనక్కి తూలి, చెట్టు వేరు తగిలి బొక్కబోర్లా బురదలో పడింది! ఉపాయం ఉంటే అపాయాన్ని దాటొచ్చు! రేపటి కథలో... తెలివైన కోతి మొసలిని ఎలా బురిడీ కొట్టించిందో చూద్దాం! ఇప్పుడే ఫాలో అవ్వండి!\"",
-        "englishSub": "\"The trick worked! Brain power is always stronger than sharp teeth! Tomorrow: The Monkey & Crocodile! Tap FOLLOW now!\"",
-        "sfx": "0:21s Comical Fall SPLAT • 0:24s Triumphant Marimba Chime • 0:27s Upbeat Telugu Outro Jingle"
+        "englishSub": "\"Blinded, the fox tripped over a tree root and crashed headfirst into the mud! Wit overcomes might! Tomorrow: How the clever Monkey outsmarted the Crocodile! Follow now!\"",
+        "sfx": "0:21s Cartoon Trip Whistle • 0:23s Wet Comical SPLAT-SQUISH • 0:25s Joyful Marimba Chime • 0:28s Upbeat Telugu Jingle"
       }
     ]
   },
@@ -84,7 +84,7 @@ export const episodes = [
         "cameraAction": "Fast dynamic tracking shot introducing Monkey cornered by Crocodile.",
         "visualPrompt": "3D Disney Pixar animation style, 9:16 vertical ratio. High tension scene in a vibrant enchanted jungle. Cute expressive Monkey is suddenly confronted and cornered by Crocodile. Dramatic volumetric sunlight through canopy, detailed fur and textures, cinematic wide push-in, 8k render, Unreal Engine 5.",
         "teluguVO": "\"ఆగండి! నది మధ్యలోకి తీసుకెళ్లి, మొసలి కోతితో... 'నా భార్యకు నీ తియ్యని గుండె కావాలి' అన్నప్పుడు కోతి ప్రాణాలు ఎలా దక్కించుకుందో తెలుసా?\"",
-        "englishSub": "\"Wait! Danger struck the jungle as Monkey was cornered by Crocodile! There was nowhere to run!\"",
+        "englishSub": "\"Wait! In the middle of the river, Crocodile said: 'My wife wants your sweet heart!' How can Monkey escape?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Dramatic Tension String • 0:08s Menacing Growl"
       },
       {
@@ -94,7 +94,7 @@ export const episodes = [
         "cameraAction": "Medium dynamic action shot showing Monkey executing the physical trick: Monkey calmly bursts into laughter: 'Oh friend! Why didn't you say so earlier? I always wash my heart and leave it hanging safely on the high jamun tree branch!'.",
         "visualPrompt": "3D Disney Pixar animation style, 9:16 vertical ratio. Action sequence: Monkey stays brave and executes the clever physical trick: Monkey calmly bursts into laughter: 'Oh friend! Why didn't you say so earlier? I always wash my heart and leave it hanging safely on the high jamun tree branch!'. Clear physical cause and effect with dynamic motion blur, dust particles, and expressive face. Detailed lighting, 8k render.",
         "teluguVO": "\"కోతి ఏమాత్రం భయపడకుండా నవ్వింది! 'మిత్రమా! నా గుండెను చెట్టు కొమ్మపై భద్రంగా దాచాను, పద వెళ్లి తెచ్చుకుందాం' అని మొసలిని నమ్మించింది!\"",
-        "englishSub": "\"But Monkey didn't panic! Staying calm, Monkey used quick wit and executed a brilliant trick!\"",
+        "englishSub": "\"Monkey laughed calmly: 'Dear friend, I kept my heart safe on the tree branch! Let's swim back and get it!'\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Sudden Trick Explosion • 0:18s Antagonist Shock"
       },
       {
@@ -104,7 +104,7 @@ export const episodes = [
         "cameraAction": "Comical slapstick resolution: Foolish crocodile eagerly swims back to the riverbank. Monkey instantly springs onto the high branch, pelting rotten blackberries at crocodile's snout while laughing in safety.. Moral card appears, transitioning into teaser of The Lion & Little Mouse.",
         "visualPrompt": "3D Disney Pixar animation style, 9:16 vertical ratio. Comical victory climax: Foolish crocodile eagerly swims back to the riverbank. Monkey instantly springs onto the high branch, pelting rotten blackberries at crocodile's snout while laughing in safety.. The enemy is outsmarted. Golden moral text banner shines above, followed by a preview frame of The Lion & Little Mouse and a pulsing glowing Follow Button.",
         "teluguVO": "\"ఒడ్డుకు రాగానే కోతి చెట్టుపైకి గెంతి పండ్లతో మొసలిని తరిమేసింది! సమయస్ఫూర్తితో అపాయాన్ని దాటొచ్చు! రేపటి కథలో... చిన్న ఎలుక పెద్ద సింహాన్ని ఎలా కాపాడిందో చూద్దాం! ఇప్పుడే ఫాలో అవ్వండి!\"",
-        "englishSub": "\"The trick worked! Presence of mind in danger turns death into safety! Tomorrow: The Lion & Little Mouse! Tap FOLLOW now!\"",
+        "englishSub": "\"Back on shore, Monkey bounded up the tree and pelted berries at Crocodile! Presence of mind saves lives! Tomorrow: The Lion & Mouse! Follow now!\"",
         "sfx": "0:21s Comical Fall SPLAT • 0:24s Triumphant Marimba Chime • 0:27s Upbeat Telugu Outro Jingle"
       }
     ]
@@ -359,7 +359,7 @@ export const episodes = [
         "cameraAction": "Fast dynamic tracking shot introducing Jackal cornered by True Identity Reveal.",
         "visualPrompt": "3D Disney Pixar style, 9:16 vertical ratio. Scrawny clever jackal accidentally tumbles head-first into a large wooden vat of indigo blue dye behind a dyer's hut. Splashing blue liquid, vibrant saturated colors, Unreal Engine 5.",
         "teluguVO": "\"ఆగండి! ఊరి కుక్కల బారి నుండి తప్పించుకోబోయి నీలి రంగు తొట్టిలో పడిన నక్క... అడవి రాజుగా ఎలా మారిందో తెలుసా?\"",
-        "englishSub": "\"Wait! Danger struck the jungle as Jackal was cornered by True Identity Reveal! There was nowhere to run!\"",
+        "englishSub": "\"Wait! Chased by dogs, a jackal fell into an indigo dye tub and turned deep blue! How did he fool the whole jungle?!\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Dramatic Tension String • 0:08s Menacing Growl"
       },
       {
@@ -369,7 +369,7 @@ export const episodes = [
         "cameraAction": "Medium dynamic action shot showing Jackal executing the physical trick: Jackal struts into the forest claiming: 'Brahma anointed me King of all beasts!' Tigers, bears, and elephants bow down, offering him sweet fruits and honey..",
         "visualPrompt": "3D Disney Pixar style, 9:16 vertical ratio. The glowing sapphire-blue jackal struts proudly into the jungle clearing, pretending to be divine king. Tigers, bears, and deer bow down in reverence, offering platters of fruits and flowers.",
         "teluguVO": "\"నీలి రంగులో మెరిసిపోతూ, 'దేవుడే నన్ను మీ అందరికీ రాజుగా పంపాడు' అని అబద్ధం చెప్పి సింహం, పులులతో సేవలు చేయించుకుంది!\"",
-        "englishSub": "\"But Jackal didn't panic! Staying calm, Jackal used quick wit and executed a brilliant trick!\"",
+        "englishSub": "\"Glowing blue, he lied: 'God sent me to rule you!' Lions and tigers served him fruit and bowed in reverence!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Sudden Trick Explosion • 0:18s Antagonist Shock"
       },
       {
@@ -379,7 +379,7 @@ export const episodes = [
         "cameraAction": "Comical slapstick resolution: At night, wild jackals howl 'Oooo-aaooo!' in the distance. The blue jackal cannot resist his nature, tilts his head back, and howls along loudly! Animals instantly realize the fraud and chase him away.. Moral card appears, transitioning into teaser of The Greedy Dog & The Bone.",
         "visualPrompt": "3D Disney Pixar style, 9:16 vertical ratio. Moonlit clearing. In the distance jackals howl. The blue jackal forgets himself, lifts his snout to the moon, and howls loudly 'Oooo-aaooo!'. The tigers gasp in realization, snarling angrily as the jackal flees in panic. Follow button pulses.",
         "teluguVO": "\"కానీ రాత్రి మిగతా నక్కలు ఊళ వేయగానే, ఈ నక్క కూడా నిజం మర్చిపోయి గట్టిగా ఊళ వేసి దొరికిపోయింది! నటన ఎప్పటికీ నిలవదు! రేపటి కథలో... ఎముక దొరికిన కుక్క నీళ్లలో చూసి ఏం పోగొట్టుకుందో చూద్దాం! ఇప్పుడే ఫాలో అవ్వండి!\"",
-        "englishSub": "\"The trick worked! Faking identity never lasts; nature always exposes deceit! Tomorrow: The Greedy Dog & The Bone! Tap FOLLOW now!\"",
+        "englishSub": "\"When distant jackals howled at night, he howled back and got exposed! Deceit never lasts! Tomorrow: The Greedy Dog & Bone! Follow now!\"",
         "sfx": "0:21s Comical Fall SPLAT • 0:24s Triumphant Marimba Chime • 0:27s Upbeat Telugu Outro Jingle"
       }
     ]
@@ -414,7 +414,7 @@ export const episodes = [
         "cameraAction": "Fast dynamic tracking shot introducing Dog cornered by Greed & Reflection.",
         "visualPrompt": "3D Disney Pixar style, 9:16 vertical ratio. Cute fluffy brown stray dog trotting happily across a narrow rustic wooden plank bridge over a crystal sparkling river, holding a juicy bone proudly in its teeth.",
         "teluguVO": "\"ఆగండి! నోట్లో పెద్ద ఎముక ముక్కను పట్టుకుని చెక్క వంతెన దాటుతున్న కుక్క... నది నీళ్లలోకి చూసి ఏం చేసిందో తెలుసా?\"",
-        "englishSub": "\"Wait! Danger struck the jungle as Dog was cornered by Greed & Reflection! There was nowhere to run!\"",
+        "englishSub": "\"Wait! Carrying a big juicy bone across a wooden bridge, the dog peered into the clear stream! What did he see?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Dramatic Tension String • 0:08s Menacing Growl"
       },
       {
@@ -424,7 +424,7 @@ export const episodes = [
         "cameraAction": "Medium dynamic action shot showing Dog executing the physical trick: Dog spots his own reflection in the still water, mistaking it for another dog carrying a BIGGER bone. Blinded by greed, he decides to snap and steal that bone too!.",
         "visualPrompt": "3D Disney Pixar style, 9:16 vertical ratio. Dog pauses at middle of bridge, peering over the edge into calm glassy water. The reflection shows his mirror image. Dog growls with greedy, wide eyes, preparing to snap.",
         "teluguVO": "\"నీళ్లలో తన నీడను చూసి, అందులో మరో కుక్క ఇంకా పెద్ద ఎముకతో ఉందని భ్రమపడింది! ఆ ఎముకను కూడా లాక్కోవాలని అత్యాశతో నోరు తెరిచింది!\"",
-        "englishSub": "\"But Dog didn't panic! Staying calm, Dog used quick wit and executed a brilliant trick!\"",
+        "englishSub": "\"Seeing his reflection, he thought another dog had a bigger bone! Blinded by greed, he snapped to grab it!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Sudden Trick Explosion • 0:18s Antagonist Shock"
       },
       {
@@ -434,7 +434,7 @@ export const episodes = [
         "cameraAction": "Comical slapstick resolution: Dog opens his jaws wide and barks aggressively 'BOW-WOW!'. The real bone instantly slips from his teeth, splashing 'PLOP' into the fast river current, swept away forever.. Moral card appears, transitioning into teaser of The Farmer & The Snake.",
         "visualPrompt": "3D Disney Pixar style, 9:16 vertical ratio. Dog opens mouth shouting aggressive 'WOOF!'. The bone falls from teeth, splashing with a comical 'PLOP' into the river current, sinking away. Dog whimpers in shock with empty mouth. Next episode teaser pops up with Follow button.",
         "teluguVO": "\" 'భౌ' అని మొరగగానే, నోట్లోని అసలు ఎముక నీళ్లలో పడి కొట్టుకుపోయింది! అత్యాశకు పోతే ఉన్నది కాస్తా ఊడిపోతుంది! రేపటి కథలో... బంగారు నాణెం ఇచ్చే పామును చూసి రైతు కొడుకు ఏం చేశాడో చూద్దాం! ఇప్పుడే ఫాలో అవ్వండి!\"",
-        "englishSub": "\"The trick worked! Greed for what others have destroys what you already possess! Tomorrow: The Farmer & The Snake! Tap FOLLOW now!\"",
+        "englishSub": "\"He barked 'WOOF!' and his real bone splashed into the river, lost forever! Greed loses everything! Tomorrow: The Gold Coin Snake! Follow now!\"",
         "sfx": "0:21s Comical Fall SPLAT • 0:24s Triumphant Marimba Chime • 0:27s Upbeat Telugu Outro Jingle"
       }
     ]

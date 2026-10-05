@@ -358,32 +358,54 @@ def build_complete_episodes_json():
         clip3_vo = f"\"ఉపాయం ఫలించింది! {moralTe} మరి రేపటి కథలో... {s['nextTe']} చూద్దాం! ఇప్పుడే FOLLOW చేయండి!\""
         clip3_sub = f"\"The trick worked! {moral} Tomorrow: {s['nextEpTitle']}! Tap FOLLOW now!\""
 
-        # If it's Episode 1, 2, 3, 4, 5, 6, 7, 8, use the customized lines
+        # Default SFX
+        clip1_sfx = "0:01s Cartoon Gasp • 0:03s Dramatic Tension String • 0:08s Menacing Growl"
+        clip2_sfx = "0:12s Whoosh Action Sound • 0:15s Sudden Trick Explosion • 0:18s Antagonist Shock"
+        clip3_sfx = "0:21s Comical Fall SPLAT • 0:24s Triumphant Marimba Chime • 0:27s Upbeat Telugu Outro Jingle"
+
+        # If it's Episode 1, 2, 7, 8, use the customized lines
         if eid == 1:
-            clip1_vo = "\"ఆగండి! చెట్టు తొర్రలో చిక్కుకున్న ఈ బుల్లి కుందేలు... ఆకలితో ఉన్న నక్క నుండి ఎలా తప్పించుకుందో తెలుసా? నక్క బావ తొర్ర ముందే కాపలా కాసింది!\""
-            clip2_vo = "\"నక్క తొర్రలోకి ముఖం పెట్టి చూసింది! కానీ కుందేలు ఏమాత్రం భయపడలేదు! బుర్ర ఉపయోగించి తన వెనుక కాళ్లతో నేల మీదున్న దుమ్ము, ఇసుకను నక్క కళ్లల్లోకి గట్టిగా తన్నింది!\""
-            clip3_vo = "\"కళ్లు మండడంతో నక్క వెనక్కి తూలి, చెట్టు వేరు తగిలి బొక్కబోర్లా బురదలో పడింది! ఉపాయం ఉంటే అపాయాన్ని దాటొచ్చు! రేపటి కథలో... తెలివైన కోతి మొసలిని ఎలా బురిడీ కొట్టించిందో చూద్దాం! ఇప్పుడే ఫాలో అవ్వండి!\""
+            clip1_vo = "\"ఆగండి! చెట్టు తొర్రలో చిక్కుకున్న ఈ బుల్లి కుందేలు... ఆకలితో ఉన్న నక్క నుండి ఎలా తప్పించుకుందో తెలుసా? నక్క బావ తొర్ర ముందే కాపలా కాసింది... కుందేలుకు బయటకు వచ్చే దారే లేదు!\""
+            clip1_sub = "\"Wait! How can a tiny bunny trapped in a tree hollow escape a hungry sly fox?! The fox blocked the only exit... Bunny was completely trapped!\""
             clip1_prompt = "3D Pixar Disney style, extreme close-up of cute chubby fluffy brown baby bunny with big expressive dark eyes trapped inside the hollow root base of an ancient banyan tree, hungry red fox with sharp teeth and sneaky grin peering directly into the hole blocking the only exit, warm volumetric jungle sunlight, 8k render, Unreal Engine 5 --ar 9:16"
+            clip1_sfx = "0:01s Cartoon Gasp • 0:03s Shimmer Whoosh • 0:06s Sneaky Fox Tiptoe Steps • 0:09s Low Tension Cello Swell"
+
+            clip2_vo = "\"నక్క తొర్రలోకి ముఖం పెట్టి చూసింది! కానీ కుందేలు ఏమాత్రం భయపడలేదు! బుర్ర ఉపయోగించి తన వెనుక కాళ్లతో నేల మీదున్న దుమ్ము, ఇసుకను నక్క కళ్లల్లోకి గట్టిగా తన్నింది!\""
+            clip2_sub = "\"The fox stuck his snout inside! But Bunny stayed calm... using his strong hind legs, he kicked a thick cloud of dust and sand straight into the fox's eyes!\""
             clip2_prompt = "3D Pixar Disney style, medium dynamic action shot, clever brown bunny inside tree hollow kicking his powerful hind legs, blasting a thick dramatic cloud of fine golden sand and dry dirt directly into the face and eyes of the sneaking red fox, fox squinting and coughing in shock, dynamic motion blur, 8k render --ar 9:16"
+            clip2_sfx = "0:11s Sniffing Snort • 0:14s Fast Whoosh Kick • 0:15s Explosive Sand Blast • 0:18s Fox Coughing & Shocked Whimper"
+
+            clip3_vo = "\"కళ్లు మండడంతో నక్క వెనక్కి తూలి, చెట్టు వేరు తగిలి బొక్కబోర్లా బురదలో పడింది! ఉపాయం ఉంటే అపాయాన్ని దాటొచ్చు! రేపటి కథలో... తెలివైన కోతి మొసలిని ఎలా బురిడీ కొట్టించిందో చూద్దాం! ఇప్పుడే ఫాలో అవ్వండి!\""
+            clip3_sub = "\"Blinded, the fox tripped over a tree root and crashed headfirst into the mud! Wit overcomes might! Tomorrow: How the clever Monkey outsmarted the Crocodile! Follow now!\""
             clip3_prompt = "3D Pixar Disney style, comical blinded red fox tripping over a gnarled wooden tree root, flipping and landing face-first with a huge splash in a muddy brown puddle, silly stars circling his head, cute happy bunny skipping past him waving. Then cuts to teaser frame of huge green crocodile in sparkling blue river smiling slyly at a cute little monkey on a branch, 8k --ar 9:16"
+            clip3_sfx = "0:21s Cartoon Trip Whistle • 0:23s Wet Comical SPLAT-SQUISH • 0:25s Joyful Marimba Chime • 0:28s Upbeat Telugu Jingle"
 
         elif eid == 2:
             clip1_vo = "\"ఆగండి! నది మధ్యలోకి తీసుకెళ్లి, మొసలి కోతితో... 'నా భార్యకు నీ తియ్యని గుండె కావాలి' అన్నప్పుడు కోతి ప్రాణాలు ఎలా దక్కించుకుందో తెలుసా?\""
+            clip1_sub = "\"Wait! In the middle of the river, Crocodile said: 'My wife wants your sweet heart!' How can Monkey escape?\""
             clip2_vo = "\"కోతి ఏమాత్రం భయపడకుండా నవ్వింది! 'మిత్రమా! నా గుండెను చెట్టు కొమ్మపై భద్రంగా దాచాను, పద వెళ్లి తెచ్చుకుందాం' అని మొసలిని నమ్మించింది!\""
+            clip2_sub = "\"Monkey laughed calmly: 'Dear friend, I kept my heart safe on the tree branch! Let's swim back and get it!'\""
             clip3_vo = "\"ఒడ్డుకు రాగానే కోతి చెట్టుపైకి గెంతి పండ్లతో మొసలిని తరిమేసింది! సమయస్ఫూర్తితో అపాయాన్ని దాటొచ్చు! రేపటి కథలో... చిన్న ఎలుక పెద్ద సింహాన్ని ఎలా కాపాడిందో చూద్దాం! ఇప్పుడే ఫాలో అవ్వండి!\""
+            clip3_sub = "\"Back on shore, Monkey bounded up the tree and pelted berries at Crocodile! Presence of mind saves lives! Tomorrow: The Lion & Mouse! Follow now!\""
 
         elif eid == 7:
             clip1_vo = "\"ఆగండి! ఊరి కుక్కల బారి నుండి తప్పించుకోబోయి నీలి రంగు తొట్టిలో పడిన నక్క... అడవి రాజుగా ఎలా మారిందో తెలుసా?\""
+            clip1_sub = "\"Wait! Chased by dogs, a jackal fell into an indigo dye tub and turned deep blue! How did he fool the whole jungle?!\""
             clip2_vo = "\"నీలి రంగులో మెరిసిపోతూ, 'దేవుడే నన్ను మీ అందరికీ రాజుగా పంపాడు' అని అబద్ధం చెప్పి సింహం, పులులతో సేవలు చేయించుకుంది!\""
+            clip2_sub = "\"Glowing blue, he lied: 'God sent me to rule you!' Lions and tigers served him fruit and bowed in reverence!\""
             clip3_vo = "\"కానీ రాత్రి మిగతా నక్కలు ఊళ వేయగానే, ఈ నక్క కూడా నిజం మర్చిపోయి గట్టిగా ఊళ వేసి దొరికిపోయింది! నటన ఎప్పటికీ నిలవదు! రేపటి కథలో... ఎముక దొరికిన కుక్క నీళ్లలో చూసి ఏం పోగొట్టుకుందో చూద్దాం! ఇప్పుడే ఫాలో అవ్వండి!\""
+            clip3_sub = "\"When distant jackals howled at night, he howled back and got exposed! Deceit never lasts! Tomorrow: The Greedy Dog & Bone! Follow now!\""
             clip1_prompt = "3D Disney Pixar style, 9:16 vertical ratio. Scrawny clever jackal accidentally tumbles head-first into a large wooden vat of indigo blue dye behind a dyer's hut. Splashing blue liquid, vibrant saturated colors, Unreal Engine 5."
             clip2_prompt = "3D Disney Pixar style, 9:16 vertical ratio. The glowing sapphire-blue jackal struts proudly into the jungle clearing, pretending to be divine king. Tigers, bears, and deer bow down in reverence, offering platters of fruits and flowers."
             clip3_prompt = "3D Disney Pixar style, 9:16 vertical ratio. Moonlit clearing. In the distance jackals howl. The blue jackal forgets himself, lifts his snout to the moon, and howls loudly 'Oooo-aaooo!'. The tigers gasp in realization, snarling angrily as the jackal flees in panic. Follow button pulses."
 
         elif eid == 8:
             clip1_vo = "\"ఆగండి! నోట్లో పెద్ద ఎముక ముక్కను పట్టుకుని చెక్క వంతెన దాటుతున్న కుక్క... నది నీళ్లలోకి చూసి ఏం చేసిందో తెలుసా?\""
+            clip1_sub = "\"Wait! Carrying a big juicy bone across a wooden bridge, the dog peered into the clear stream! What did he see?\""
             clip2_vo = "\"నీళ్లలో తన నీడను చూసి, అందులో మరో కుక్క ఇంకా పెద్ద ఎముకతో ఉందని భ్రమపడింది! ఆ ఎముకను కూడా లాక్కోవాలని అత్యాశతో నోరు తెరిచింది!\""
+            clip2_sub = "\"Seeing his reflection, he thought another dog had a bigger bone! Blinded by greed, he snapped to grab it!\""
             clip3_vo = "\" 'భౌ' అని మొరగగానే, నోట్లోని అసలు ఎముక నీళ్లలో పడి కొట్టుకుపోయింది! అత్యాశకు పోతే ఉన్నది కాస్తా ఊడిపోతుంది! రేపటి కథలో... బంగారు నాణెం ఇచ్చే పామును చూసి రైతు కొడుకు ఏం చేశాడో చూద్దాం! ఇప్పుడే ఫాలో అవ్వండి!\""
+            clip3_sub = "\"He barked 'WOOF!' and his real bone splashed into the river, lost forever! Greed loses everything! Tomorrow: The Gold Coin Snake! Follow now!\""
             clip1_prompt = "3D Disney Pixar style, 9:16 vertical ratio. Cute fluffy brown stray dog trotting happily across a narrow rustic wooden plank bridge over a crystal sparkling river, holding a juicy bone proudly in its teeth."
             clip2_prompt = "3D Disney Pixar style, 9:16 vertical ratio. Dog pauses at middle of bridge, peering over the edge into calm glassy water. The reflection shows his mirror image. Dog growls with greedy, wide eyes, preparing to snap."
             clip3_prompt = "3D Disney Pixar style, 9:16 vertical ratio. Dog opens mouth shouting aggressive 'WOOF!'. The bone falls from teeth, splashing with a comical 'PLOP' into the river current, sinking away. Dog whimpers in shock with empty mouth. Next episode teaser pops up with Follow button."
@@ -419,7 +441,7 @@ def build_complete_episodes_json():
                     "visualPrompt": clip1_prompt,
                     "teluguVO": clip1_vo,
                     "englishSub": clip1_sub,
-                    "sfx": "0:01s Cartoon Gasp • 0:03s Dramatic Tension String • 0:08s Menacing Growl"
+                    "sfx": clip1_sfx
                 },
                 {
                     "clipNumber": 2,
@@ -429,7 +451,7 @@ def build_complete_episodes_json():
                     "visualPrompt": clip2_prompt,
                     "teluguVO": clip2_vo,
                     "englishSub": clip2_sub,
-                    "sfx": "0:12s Whoosh Action Sound • 0:15s Sudden Trick Explosion • 0:18s Antagonist Shock"
+                    "sfx": clip2_sfx
                 },
                 {
                     "clipNumber": 3,
@@ -439,7 +461,7 @@ def build_complete_episodes_json():
                     "visualPrompt": clip3_prompt,
                     "teluguVO": clip3_vo,
                     "englishSub": clip3_sub,
-                    "sfx": "0:21s Comical Fall SPLAT • 0:24s Triumphant Marimba Chime • 0:27s Upbeat Telugu Outro Jingle"
+                    "sfx": clip3_sfx
                 }
             ]
         })
