@@ -1,0 +1,608 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>🐰 Panchatantra Kids Studio — 100-Episode Master Dashboard</title>
+  <meta name="description" content="High-retention short-form storytelling engine for Panchatantra Kids 100-Episode series featuring 3-second hooks, 30-second micro-beat reels, and serialized auto-follow teasers." />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🐰</text></svg>">
+  <link rel="stylesheet" href="./src/style.css" />
+</head>
+<body>
+
+  <!-- =====================================================================
+       ENCRYPTED SECURITY VAULT GATE (PIN PROTECTED)
+       ===================================================================== -->
+  <div id="lockScreen">
+    <div class="vault-card">
+      <div class="vault-icon-wrap">🔒</div>
+      <h1 class="vault-title">Production Vault</h1>
+      <p class="vault-subtitle">Enter your 4-digit Master Security PIN to unlock the Panchatantra Kids 100-Episode Dashboard.</p>
+
+      <!-- Masked PIN Dots -->
+      <div class="pin-display" id="pinDisplay">
+        <div class="pin-dot" id="dot0"></div>
+        <div class="pin-dot" id="dot1"></div>
+        <div class="pin-dot" id="dot2"></div>
+        <div class="pin-dot" id="dot3"></div>
+      </div>
+
+      <!-- Numeric Keypad -->
+      <div class="keypad-grid" id="keypad">
+        <button class="key-btn" data-key="1">1</button>
+        <button class="key-btn" data-key="2">2</button>
+        <button class="key-btn" data-key="3">3</button>
+        <button class="key-btn" data-key="4">4</button>
+        <button class="key-btn" data-key="5">5</button>
+        <button class="key-btn" data-key="6">6</button>
+        <button class="key-btn" data-key="7">7</button>
+        <button class="key-btn" data-key="8">8</button>
+        <button class="key-btn" data-key="9">9</button>
+        <button class="key-btn action" data-key="clear">CLEAR</button>
+        <button class="key-btn" data-key="0">0</button>
+        <button class="key-btn action" data-key="back">⌫</button>
+      </div>
+
+      <div class="vault-feedback" id="vaultFeedback">Enter 4-digit PIN</div>
+
+      <div class="vault-security-note">
+        <span>🛡️ SHA-256 Salted Vault Encryption Active</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- =====================================================================
+       APP ROOT (RENDERED ONCE AUTHENTICATED)
+       ===================================================================== -->
+  <div id="appRoot">
+    <!-- Header -->
+    <header class="app-header">
+      <div class="header-inner">
+        <div class="brand-group">
+          <div class="brand-badge">🐰</div>
+          <div>
+            <div style="display: flex; align-items: center; gap: 0.5rem;">
+              <span class="brand-title">Panchatantra Kids</span>
+              <span class="brand-tag">Studio Pro</span>
+            </div>
+            <div style="font-size: 0.72rem; color: var(--text-dim);">100-Episode Viral Storytelling Engine</div>
+          </div>
+        </div>
+
+        <!-- Navigation Tabs -->
+        <nav class="nav-tabs" id="navTabs">
+          <button class="nav-tab-btn active" data-tab="overview">📊 Overview</button>
+          <button class="nav-tab-btn" data-tab="simulator">📱 30s Reel Player</button>
+          <button class="nav-tab-btn" data-tab="episodes">🎬 100 Episodes</button>
+          <button class="nav-tab-btn" data-tab="characters">🧒 Host Characters</button>
+          <button class="nav-tab-btn" data-tab="retention">🧠 Retention Playbook</button>
+          <button class="nav-tab-btn" data-tab="worksheet">📝 Daily Worksheet</button>
+        </nav>
+
+        <!-- Actions -->
+        <div class="header-actions">
+          <button class="btn-secondary" id="btnExportAll">
+            <span>📥</span> Export JSON
+          </button>
+          <button class="btn-secondary" id="btnLockVault" title="Lock the vault and require PIN">
+            <span>🔒</span> Lock
+          </button>
+        </div>
+      </div>
+    </header>
+
+    <!-- Main Container -->
+    <main class="app-main">
+
+      <!-- =================================================================
+           TAB 1: EXECUTIVE OVERVIEW & ANALYTICS
+           ================================================================= -->
+      <section class="tab-pane active" id="pane-overview">
+        <!-- Hero Banner -->
+        <div class="hero-banner">
+          <div class="hero-content">
+            <div class="hero-pill">⚡ Pro-Level Storytelling Upgrade Active</div>
+            <h2 class="hero-title">100-Episode Panchatantra Cinematic Series</h2>
+            <p class="hero-desc">
+              Engineered for maximum child attention and algorithm distribution. Features an immediate 3-second <strong>Thumb-Stopper Hook</strong>, 
+              relentless 30-second pacing across 5 micro-beats, and an automated <strong>Next-Episode Teaser</strong> that turns viewers into daily binge-followers.
+            </p>
+            <div style="display: flex; gap: 0.75rem; flex-wrap: wrap;">
+              <button class="btn-primary" id="btnLaunchSim">
+                <span>▶️</span> Test 30s Reel Simulator
+              </button>
+              <button class="btn-secondary" id="btnExploreEpisodes">
+                <span>📚</span> Browse All 100 Episodes
+              </button>
+            </div>
+          </div>
+        </div>
+
+        <!-- Metric Cards -->
+        <div class="stats-grid">
+          <div class="stat-card">
+            <div class="stat-header">
+              <span class="stat-title">Total Roadmap</span>
+              <span class="stat-icon">📅</span>
+            </div>
+            <div class="stat-value">100</div>
+            <div class="stat-trend positive">100 Days Serialized Journey</div>
+          </div>
+
+          <div class="stat-card">
+            <div class="stat-header">
+              <span class="stat-title">Micro-Format</span>
+              <span class="stat-icon">⏱️</span>
+            </div>
+            <div class="stat-value">30s</div>
+            <div class="stat-trend highlight">3 clips × 10 seconds</div>
+          </div>
+
+          <div class="stat-card">
+            <div class="stat-header">
+              <span class="stat-title">Target 3s Hook Retention</span>
+              <span class="stat-icon">🎯</span>
+            </div>
+            <div class="stat-value">&gt; 80%</div>
+            <div class="stat-trend positive">Zero slow openings</div>
+          </div>
+
+          <div class="stat-card">
+            <div class="stat-header">
+              <span class="stat-title">Auto-Follow Funnel</span>
+              <span class="stat-icon">🔔</span>
+            </div>
+            <div class="stat-value">1 / 38</div>
+            <div class="stat-trend positive">Followers per views benchmark</div>
+          </div>
+        </div>
+
+        <!-- Retention Curve Comparison -->
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 1.5rem; margin-bottom: 2rem;">
+          <div class="simulator-panel">
+            <h3 style="font-family: var(--font-heading); font-size: 1.2rem; margin-bottom: 1rem; color: #fff;">
+              📉 Old Setup vs. 📈 Upgraded Retention Curve
+            </h3>
+            <p style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 1.25rem;">
+              Child psychology analytics prove why changing the opening 10 seconds is vital for surviving the Reels swipe reflex.
+            </p>
+
+            <div style="display: flex; flex-direction: column; gap: 1rem;">
+              <div>
+                <div style="display: flex; justify-content: space-between; font-size: 0.82rem; margin-bottom: 0.35rem;">
+                  <span style="color: #f43f5e; font-weight: 700;">❌ Original Setup (8s Book Opening Under Tree)</span>
+                  <span style="color: #f43f5e; font-weight: 700;">32% Retention at 5s</span>
+                </div>
+                <div style="height: 10px; background: rgba(255,255,255,0.06); border-radius: var(--radius-full); overflow: hidden;">
+                  <div style="width: 32%; height: 100%; background: #f43f5e;"></div>
+                </div>
+                <div style="font-size: 0.75rem; color: var(--text-dim); margin-top: 0.25rem;">68% swipe away before the animal fable even begins.</div>
+              </div>
+
+              <div>
+                <div style="display: flex; justify-content: space-between; font-size: 0.82rem; margin-bottom: 0.35rem;">
+                  <span style="color: #34d399; font-weight: 700;">✅ Upgraded In-Media-Res 3s Action Hook</span>
+                  <span style="color: #34d399; font-weight: 700;">85% Retention at 5s</span>
+                </div>
+                <div style="height: 10px; background: rgba(255,255,255,0.06); border-radius: var(--radius-full); overflow: hidden;">
+                  <div style="width: 85%; height: 100%; background: linear-gradient(90deg, #10b981, #06b6d4);"></div>
+                </div>
+                <div style="font-size: 0.75rem; color: var(--text-dim); margin-top: 0.25rem;">Immediate curiosity trigger hooks the child's brain instantly.</div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Production Roadbatches -->
+          <div class="simulator-panel">
+            <h3 style="font-family: var(--font-heading); font-size: 1.2rem; margin-bottom: 1rem; color: #fff;">
+              🚀 100-Day Production Batches
+            </h3>
+            <div style="display: grid; gap: 0.75rem;">
+              <div style="background: var(--bg-surface); padding: 0.75rem 1rem; border-radius: var(--radius-sm); border: 1px solid var(--border-subtle); display: flex; justify-content: space-between; align-items: center;">
+                <div>
+                  <div style="font-weight: 700; font-size: 0.88rem;">Batch 1: EP 01 – EP 25</div>
+                  <div style="font-size: 0.75rem; color: var(--text-muted);">Foundation & Wisdom Stories (Rabbit, Fox, Lion)</div>
+                </div>
+                <span class="ep-status Published">Active</span>
+              </div>
+              <div style="background: var(--bg-surface); padding: 0.75rem 1rem; border-radius: var(--radius-sm); border: 1px solid var(--border-subtle); display: flex; justify-content: space-between; align-items: center;">
+                <div>
+                  <div style="font-weight: 700; font-size: 0.88rem;">Batch 2: EP 26 – EP 50</div>
+                  <div style="font-size: 0.75rem; color: var(--text-muted);">Wit & Teamwork Tales (Ant, Dove, Elephant)</div>
+                </div>
+                <span class="ep-status Ready">Ready</span>
+              </div>
+              <div style="background: var(--bg-surface); padding: 0.75rem 1rem; border-radius: var(--radius-sm); border: 1px solid var(--border-subtle); display: flex; justify-content: space-between; align-items: center;">
+                <div>
+                  <div style="font-weight: 700; font-size: 0.88rem;">Batch 3: EP 51 – EP 75</div>
+                  <div style="font-size: 0.75rem; color: var(--text-muted);">Humility & Caution (Peacock, Crow, Owl)</div>
+                </div>
+                <span class="ep-status Scripted">Scripted</span>
+              </div>
+              <div style="background: var(--bg-surface); padding: 0.75rem 1rem; border-radius: var(--radius-sm); border: 1px solid var(--border-subtle); display: flex; justify-content: space-between; align-items: center;">
+                <div>
+                  <div style="font-weight: 700; font-size: 0.88rem;">Batch 4: EP 76 – EP 100</div>
+                  <div style="font-size: 0.75rem; color: var(--text-muted);">The Grand Climax & Panchatantra Promise</div>
+                </div>
+                <span class="ep-status Scripted">Scripted</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- =================================================================
+           TAB 2: 30-SECOND REEL SIMULATOR (INTERACTIVE MOBILE PLAYER)
+           ================================================================= -->
+      <section class="tab-pane" id="pane-simulator">
+        <div style="margin-bottom: 1.5rem;">
+          <h2 style="font-family: var(--font-heading); font-size: 1.8rem; font-weight: 800; color: #fff;">
+            📱 30-Second Micro-Beat Reel Simulator
+          </h2>
+          <p style="color: var(--text-muted); font-size: 0.9rem;">
+            Test the live second-by-second pacing, Telugu narration, bouncing karaoke subtitles, sound effects, and the 26–30s <strong>Next Episode Teaser Engine</strong>.
+          </p>
+        </div>
+
+        <div class="simulator-layout">
+          <!-- Phone Mockup Frame -->
+          <div class="phone-mockup-wrapper">
+            <div class="phone-device">
+              <div class="screen-area" id="simScreen">
+                <!-- Visual Background -->
+                <div class="screen-bg-visual" id="simBg"></div>
+
+                <!-- Persistent Top Series Pill -->
+                <div class="screen-header-pill" id="simTopPill">
+                  Panchatantra Tales • Part 1 of 100
+                </div>
+
+                <!-- Center Action & Micro-Beats -->
+                <div class="screen-center-action">
+                  <div class="beat-badge hook" id="simBeatBadge">0–3s: Thumb-Stopper Hook</div>
+                  <div class="screen-title" id="simTitle">The Clever Rabbit & Hungry Fox</div>
+                  <div class="screen-visual-cue" id="simVisualCue">🐰 Rabbit trapped in hollow log!</div>
+
+                  <!-- Subtitle Karaoke Box -->
+                  <div class="screen-subtitle-box">
+                    <div>
+                      <div class="screen-subtitle-text" id="simSubtitleText">
+                        "Wait! Can this tiny bunny really escape a hungry sly fox?!"
+                      </div>
+                      <span class="screen-telugu-voice" id="simTeluguVoice">
+                        "ఆగండి! ఈ బుల్లి కుందేలు ఆకలితో ఉన్న నక్క నుండి ఎలా తప్పించుకుంటుందో తెలుసా?"
+                      </span>
+                    </div>
+                  </div>
+                </div>
+
+                <!-- Sneak Peek & Follow Overlay (Active 26-30s) -->
+                <div class="screen-teaser-overlay" id="simTeaserOverlay" style="display: none;">
+                  <div class="teaser-badge">🔥 TOMORROW: EPISODE 2</div>
+                  <div class="teaser-preview-frame">🐊 🐒</div>
+                  <div class="teaser-title" id="simTeaserTitle">The Monkey & Crocodile</div>
+                  <div class="teaser-prompt" id="simTeaserPrompt">
+                    Can a monkey escape deep waters? Don't miss Episode 2!
+                  </div>
+                  <button class="bouncing-follow-btn" id="simFollowBtn">
+                    <span>🔔</span> FOLLOW FOR EP 2
+                  </button>
+                </div>
+
+                <!-- Safe Area Bottom Indicator -->
+                <div style="position: relative; z-index: 10; display: flex; justify-content: space-between; font-size: 0.72rem; color: rgba(255,255,255,0.4);">
+                  <span>🎵 Panchatantra Kids Theme</span>
+                  <span>9:16 Reel Safe Zone</span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Simulator Controls -->
+          <div class="simulator-panel">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.25rem;">
+              <h3 style="font-family: var(--font-heading); font-size: 1.25rem; font-weight: 700; color: #fff;">
+                🎬 Playback & Micro-Beat Engine
+              </h3>
+              <div style="display: flex; gap: 0.5rem; align-items: center;">
+                <span style="font-size: 0.8rem; color: var(--text-muted);">Audio SFX:</span>
+                <button class="btn-secondary" id="btnToggleSound" style="padding: 0.35rem 0.75rem;">
+                  <span id="soundIcon">🔊</span> <span id="soundLabel">Sound ON</span>
+                </button>
+              </div>
+            </div>
+
+            <!-- Select Episode -->
+            <div style="margin-bottom: 1.5rem;">
+              <label style="display: block; font-size: 0.82rem; font-weight: 700; color: var(--text-muted); margin-bottom: 0.4rem;">
+                SELECT EPISODE TO PREVIEW:
+              </label>
+              <select id="simEpSelect" class="search-input" style="padding-left: 1rem;"></select>
+            </div>
+
+            <!-- Timeline Scrubber -->
+            <div class="timeline-card">
+              <input type="range" id="simScrubber" class="timeline-scrubber" min="0" max="30" step="0.5" value="0" />
+              <div class="timeline-info">
+                <span id="simTimeDisplay">00:00 / 00:30</span>
+                <span class="timeline-beat-indicator" id="simBeatIndicator">Beat 1: Thumb-Stopper (0–3s)</span>
+              </div>
+            </div>
+
+            <!-- Control Buttons -->
+            <div class="sim-btn-row">
+              <button class="btn-primary" id="btnSimPlay">
+                <span id="playIcon">▶️</span> <span id="playText">Play Reel (30s)</span>
+              </button>
+              <button class="btn-secondary" id="btnSimRestart">
+                <span>🔄</span> Restart
+              </button>
+              <button class="btn-secondary" id="btnSimNext">
+                <span>⏭️</span> Next Episode
+              </button>
+            </div>
+
+            <!-- Micro-Beat Timing Reference -->
+            <div style="background: var(--bg-surface); padding: 1.25rem; border-radius: var(--radius-md); border: 1px solid var(--border-subtle);">
+              <h4 style="font-size: 0.88rem; font-weight: 700; margin-bottom: 0.75rem; color: var(--text-main);">
+                ⏱️ Precision Micro-Beat Blueprint (30s):
+              </h4>
+              <ul style="list-style: none; font-size: 0.8rem; display: flex; flex-direction: column; gap: 0.5rem;">
+                <li style="display: flex; gap: 0.5rem; align-items: center;">
+                  <span class="beat-badge hook" style="margin: 0; padding: 0.15rem 0.5rem;">0–3s</span>
+                  <span><strong>Thumb-Stopper Hook:</strong> In-Media-Res danger or host kid gasp.</span>
+                </li>
+                <li style="display: flex; gap: 0.5rem; align-items: center;">
+                  <span class="beat-badge setup" style="margin: 0; padding: 0.15rem 0.5rem;">3–8s</span>
+                  <span><strong>Setup & Stakes:</strong> Quick magic book portal + villain's threat.</span>
+                </li>
+                <li style="display: flex; gap: 0.5rem; align-items: center;">
+                  <span class="beat-badge crisis" style="margin: 0; padding: 0.15rem 0.5rem;">8–18s</span>
+                  <span><strong>Rising Trouble:</strong> Cornered hero, ticking clock, physical strength fails.</span>
+                </li>
+                <li style="display: flex; gap: 0.5rem; align-items: center;">
+                  <span class="beat-badge climax" style="margin: 0; padding: 0.15rem 0.5rem;">18–25s</span>
+                  <span><strong>Brains-over-Brawn Twist:</strong> Clever trick outsmarts brute force!</span>
+                </li>
+                <li style="display: flex; gap: 0.5rem; align-items: center;">
+                  <span class="beat-badge teaser" style="margin: 0; padding: 0.15rem 0.5rem;">25–30s</span>
+                  <span><strong>Moral + SNEAK PEEK TEASER:</strong> 1.5s preview of tomorrow + Follow CTA!</span>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- =================================================================
+           TAB 3: 100-EPISODE MASTER HUB
+           ================================================================= -->
+      <section class="tab-pane" id="pane-episodes">
+        <div style="display: flex; justify-content: space-between; align-items: flex-end; margin-bottom: 1.5rem; flex-wrap: wrap; gap: 1rem;">
+          <div>
+            <h2 style="font-family: var(--font-heading); font-size: 1.8rem; font-weight: 800; color: #fff;">
+              🎬 100-Episode Master Hub
+            </h2>
+            <p style="color: var(--text-muted); font-size: 0.9rem;">
+              Filter, search, inspect 3s hooks, 3-beat arcs, morals, and interconnected teasers for all 100 episodes.
+            </p>
+          </div>
+          <div style="font-family: var(--font-mono); font-size: 0.85rem; color: var(--secondary);">
+            Showing <span id="epCountDisplay">100</span> / 100 Episodes
+          </div>
+        </div>
+
+        <!-- Filter Bar -->
+        <div class="filter-bar">
+          <div class="search-input-wrap">
+            <span class="search-icon">🔍</span>
+            <input type="text" id="epSearchInput" class="search-input" placeholder="Search by title, character (Rabbit, Fox, Lion), or moral..." />
+          </div>
+
+          <div class="filter-pills" id="batchFilters">
+            <button class="filter-pill active" data-batch="all">All (100)</button>
+            <button class="filter-pill" data-batch="1">Batch 1 (1–25)</button>
+            <button class="filter-pill" data-batch="2">Batch 2 (26–50)</button>
+            <button class="filter-pill" data-batch="3">Batch 3 (51–75)</button>
+            <button class="filter-pill" data-batch="4">Batch 4 (76–100)</button>
+          </div>
+        </div>
+
+        <!-- Episodes Grid -->
+        <div class="episodes-grid" id="episodesGrid">
+          <!-- Rendered via JavaScript -->
+        </div>
+      </section>
+
+      <!-- =================================================================
+           TAB 4: CHARACTER LOCK & AI PROMPT VAULT
+           ================================================================= -->
+      <section class="tab-pane" id="pane-characters">
+        <div style="margin-bottom: 1.75rem;">
+          <h2 style="font-family: var(--font-heading); font-size: 1.8rem; font-weight: 800; color: #fff;">
+            🧒 Host Children — Character Lock & Roles
+          </h2>
+          <p style="color: var(--text-muted); font-size: 0.9rem;">
+            Never redesign these three recurring child hosts between episodes. They provide the warm human anchor and 2-second hook gasps.
+          </p>
+        </div>
+
+        <div class="characters-grid">
+          <!-- Aarav -->
+          <div class="char-card">
+            <div class="char-avatar" style="background: linear-gradient(135deg, #eab308, #f97316);">👦</div>
+            <div class="char-info">
+              <h3>Aarav (ఆరవ్) • Age 7</h3>
+              <div class="char-role">The Adventurous Thinker</div>
+              <p class="char-desc">
+                Short neat black hair, lively hazel-brown eyes, sunny yellow T-shirt, blue denim shorts. 
+                Delivers the high-energy action hooks: <em>"Look how fast the Rabbit has to run!"</em>
+              </p>
+            </div>
+          </div>
+
+          <!-- Ananya -->
+          <div class="char-card">
+            <div class="char-avatar" style="background: linear-gradient(135deg, #ec4899, #f43f5e);">👧</div>
+            <div class="char-info">
+              <h3>Ananya (అనన్య) • Age 7</h3>
+              <div class="char-role">The Empathetic Storykeeper</div>
+              <p class="char-desc">
+                Shoulder-length black hair with pink bow clip, pink floral frock. 
+                Holds the glowing 3D Panchatantra book; delivers the clever brain hints and heartwarming morals.
+              </p>
+            </div>
+          </div>
+
+          <!-- Kabir -->
+          <div class="char-card">
+            <div class="char-avatar" style="background: linear-gradient(135deg, #10b981, #06b6d4);">🧒</div>
+            <div class="char-info">
+              <h3>Kabir (కబీర్) • Age 6</h3>
+              <div class="char-role">The Playful Questioner</div>
+              <p class="char-desc">
+                Bouncy black curls, big expressive mischievous eyes, lime-green T-shirt, khaki shorts. 
+                Delivers comedic gasps and asks the funny viewer comment poll questions.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Master AI Generation Prompts -->
+        <div class="simulator-panel">
+          <h3 style="font-family: var(--font-heading); font-size: 1.3rem; margin-bottom: 0.5rem; color: #fff;">
+            🎨 Master Midjourney / Runway 3D Animation Prompt Blueprint
+          </h3>
+          <p style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 1.25rem;">
+            Use this locked style prompt across all Midjourney, Runway Gen-3, or Luma Dream Machine generations to ensure visual consistency:
+          </p>
+
+          <div class="prompt-box" id="masterPromptBox">
+3D Pixar Disney animated film style, vibrant saturated fairy tale colors, warm golden volumetric sunlight, ultra-detailed expressive animal facial expressions, squash and stretch animation, cute family-friendly aesthetics, cinematic depth of field, 8k render, Octane Render, Unreal Engine 5 aesthetic --ar 9:16 --stylize 250 --v 6.1
+          </div>
+          <div style="margin-top: 0.75rem; text-align: right;">
+            <button class="btn-primary" id="btnCopyPrompt" style="padding: 0.4rem 0.9rem;">
+              <span>📋</span> Copy Prompt
+            </button>
+          </div>
+        </div>
+      </section>
+
+      <!-- =================================================================
+           TAB 5: RETENTION & PSYCHOLOGY PLAYBOOK
+           ================================================================= -->
+      <section class="tab-pane" id="pane-retention">
+        <div style="margin-bottom: 1.75rem;">
+          <h2 style="font-family: var(--font-heading); font-size: 1.8rem; font-weight: 800; color: #fff;">
+            🧠 Child Psychology & Retention Engineering
+          </h2>
+          <p style="color: var(--text-muted); font-size: 0.9rem;">
+            The neuroscience of short-form video for kids: Why they swipe, how to hold attention, and how to command automatic follows.
+          </p>
+        </div>
+
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(360px, 1fr)); gap: 1.5rem;">
+          <!-- Card 1 -->
+          <div class="simulator-panel">
+            <h3 style="font-size: 1.15rem; color: var(--accent-amber); margin-bottom: 0.75rem;">
+              1. The 2.5-Second Swipe Reflex
+            </h3>
+            <p style="font-size: 0.85rem; color: var(--text-muted); line-height: 1.6; margin-bottom: 1rem;">
+              Children and parents scrolling social media have an average attention threshold of 2 seconds. 
+              The brain requires immediate visual contrast or dramatic danger to inhibit the thumb swipe.
+            </p>
+            <div style="background: rgba(0,0,0,0.4); padding: 0.75rem; border-left: 3px solid var(--accent-amber); border-radius: 4px; font-size: 0.8rem;">
+              <strong>Rule:</strong> Never begin on a wide landscape or static title card. Begin directly on high-speed motion, an animal's shocked eyes, or a host gasp.
+            </div>
+          </div>
+
+          <!-- Card 2 -->
+          <div class="simulator-panel">
+            <h3 style="font-size: 1.15rem; color: var(--secondary); margin-bottom: 0.75rem;">
+              2. The 4-Part Binge-Follow Engine
+            </h3>
+            <p style="font-size: 0.85rem; color: var(--text-muted); line-height: 1.6; margin-bottom: 1rem;">
+              To make viewers follow automatically, the final 4 seconds must resolve one emotional beat while immediately opening a brand-new curiosity loop for tomorrow.
+            </p>
+            <ul style="font-size: 0.8rem; color: var(--text-dim); display: flex; flex-direction: column; gap: 0.35rem; list-style: none;">
+              <li>• <strong>Pill Banner:</strong> Part X of 100 (completionist trigger).</li>
+              <li>• <strong>1-Line Moral:</strong> Emotional warmth.</li>
+              <li>• <strong>1.5s Sneak Peek:</strong> Unanswered cliffhanger question.</li>
+              <li>• <strong>Bouncing Follow Sticker:</strong> Direct visual + audio command.</li>
+            </ul>
+          </div>
+
+          <!-- Card 3 -->
+          <div class="simulator-panel">
+            <h3 style="font-size: 1.15rem; color: var(--primary); margin-bottom: 0.75rem;">
+              3. The Micro-SFX Checklist (Audio is 60%)
+            </h3>
+            <p style="font-size: 0.85rem; color: var(--text-muted); line-height: 1.6; margin-bottom: 1rem;">
+              Silent or dialogue-heavy videos fail with young children. Every 30-second episode must have at least 6 to 8 cartoony sound effects.
+            </p>
+            <div style="display: flex; flex-wrap: wrap; gap: 0.4rem;">
+              <span class="filter-pill">0:01s Gasp/Boing</span>
+              <span class="filter-pill">0:03s Magic Chime</span>
+              <span class="filter-pill">0:07s Animal Steps</span>
+              <span class="filter-pill">0:12s Danger Sting</span>
+              <span class="filter-pill">0:21s Splash/Thud</span>
+              <span class="filter-pill">0:25s Fanfare</span>
+              <span class="filter-pill">0:29s Bell Ding</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- =================================================================
+           TAB 6: DAILY PRODUCTION WORKSHEET GENERATOR
+           ================================================================= -->
+      <section class="tab-pane" id="pane-worksheet">
+        <div style="margin-bottom: 1.75rem;">
+          <h2 style="font-family: var(--font-heading); font-size: 1.8rem; font-weight: 800; color: #fff;">
+            📝 Daily Episode Production Worksheet
+          </h2>
+          <p style="color: var(--text-muted); font-size: 0.9rem;">
+            Generate ready-to-execute production worksheets for animators, Telugu voice artists, and video editors with one click.
+          </p>
+        </div>
+
+        <div class="simulator-panel" style="max-width: 860px; margin: 0 auto;">
+          <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.25rem;">
+            <label style="font-weight: 700; font-size: 0.9rem;">Select Episode to Generate:</label>
+            <select id="worksheetEpSelect" class="search-input" style="width: auto; min-width: 260px;"></select>
+          </div>
+
+          <div style="background: var(--bg-surface); padding: 1.5rem; border-radius: var(--radius-md); border: 1px solid var(--border-subtle); font-family: var(--font-mono); font-size: 0.84rem; line-height: 1.7; white-space: pre-wrap; color: #cbd5e1; max-height: 520px; overflow-y: auto;" id="worksheetContent">
+            <!-- Populated dynamically -->
+          </div>
+
+          <div style="margin-top: 1.25rem; display: flex; justify-content: flex-end; gap: 0.75rem;">
+            <button class="btn-secondary" id="btnCopyWorksheet">
+              <span>📋</span> Copy Worksheet Text
+            </button>
+            <button class="btn-primary" id="btnDownloadWorksheet">
+              <span>💾</span> Download Markdown (.md)
+            </button>
+          </div>
+        </div>
+      </section>
+
+    </main>
+  </div>
+
+  <!-- Episode Details Modal -->
+  <div class="modal-backdrop" id="epModal">
+    <div class="modal-card">
+      <div class="modal-header">
+        <h3 id="modalEpTitle" style="font-family: var(--font-heading); font-size: 1.4rem; color: #fff;">Episode Title</h3>
+        <button class="modal-close-btn" id="modalCloseBtn">&times;</button>
+      </div>
+      <div id="modalEpBody" style="font-size: 0.9rem; line-height: 1.6; color: var(--text-muted);">
+        <!-- Populated via JS -->
+      </div>
+    </div>
+  </div>
+
+  <script type="module" src="./src/main.js"></script>
+</body>
+</html>
