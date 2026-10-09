@@ -1,3 +1,6 @@
+// Complete 100 Panchatantra Bespoke Production Scripts
+// Generated with authentic character voices, physical 2-shot interactions, captions, hashtags, and cover art
+
 export const episodes = [
   {
     "id": 1,
@@ -22,14 +25,14 @@ export const episodes = [
     "hashtags": "#TeluguStories #Panchatantra #KidsAnimation #PanchatantraInTelugu #MoralStories #ReelsIndia #KidsStories #TeluguReels",
     "coverPrompt": "A 3D animated family film style vertical 9:16 cover art. Adorable fluffy white baby bunny cheerfully peeks out from the hollow of an ancient tree root waving. Outside, comical crafty orange fox sits face-first in messy mud puddle with silly yellow stars spinning above his head. Fairytale forest background, golden light rays.",
     "coverImage": "/ep01_cover.jpg",
-    "prompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Rabbit (బుల్లి కుందేలు) in enchanted lush jungle, 8k render, Unreal Engine 5.",
+    "prompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Rabbit in enchanted lush jungle, 8k render, Unreal Engine 5.",
     "views": 35350,
     "retention": 82.1,
     "clips": [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
         "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Extreme close-up of cute chubby fluffy white baby bunny with big expressive dark eyes trapped inside the dark hollow root cavity of an ancient banyan tree. Crafty orange fox with yellow eyes thrusts his snout into the hole blocking escape, baring sharp teeth. 8k render.",
         "teluguVO": "[Narrator]: \"చెట్టు తొర్రలో బుల్లి కుందేలు... బయట ఆకలి నక్క!\"\n[నక్క బావ]: \"హాహా! ఇంక నువ్వు నా భోజనం బుజ్జి కుందేలూ!\"",
@@ -40,7 +43,7 @@ export const episodes = [
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
         "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Profile angle showing both characters. Cute fluffy white baby bunny inside hollow tree root turns and uses both powerful hind legs to kick an explosive cloud of golden sand directly into the face of the orange fox. Fox violently recoils coughing and clawing eyes.",
         "teluguVO": "[బుల్లి కుందేలు]: \"నన్నే పట్టుకుంటావా? ఇదిగో నా గిఫ్ట్!\"\n[Narrator]: \"వెనుక కాళ్లతో నక్క కళ్లల్లోకి దుమ్ము ఎగజిమ్మింది!\"\n[నక్క బావ]: \"అమ్మో! నా కళ్లు! ఏమీ కనిపించట్లేదు!\"",
         "englishSub": "[Bunny]: \"Trying to catch me? Take this surprise!\"\n[Narrator]: \"Bunny kicked a cloud of fine dust and sand straight into Fox's eyes!\"\n[Fox]: \"Ouch! My eyes! I can't see anything!\"",
@@ -81,14 +84,14 @@ export const episodes = [
     "hashtags": "#MonkeyAndCrocodile #TeluguStories #PanchatantraTales #KidsReels #TeluguAnimation",
     "coverPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Vertical 9:16 cover. Clever brown monkey laughing on a leafy jamun tree branch holding berries, while a bewildered green crocodile floats in the river below scratching his scaly head. Golden sunlight.",
     "coverImage": "",
-    "prompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Monkey (తెలివైన కోతి) in enchanted lush jungle, 8k render, Unreal Engine 5.",
+    "prompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Monkey in enchanted lush jungle, 8k render, Unreal Engine 5.",
     "views": 35700,
     "retention": 82.2,
     "clips": [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
         "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Wide tracking river shot. Cute brown baby monkey riding on scaly back of a giant green crocodile in the middle of a wide blue river. Crocodile grins sinisterly showing sharp rows of teeth, while monkey looks shocked.",
         "teluguVO": "[Narrator]: \"నది మధ్యలోకి వెళ్లాక మొసలి అసలు గుట్టు బయటపెట్టింది!\"\n[మొసలి]: \"కోతి బావా! మా ఆవిడకు నీ తియ్యని గుండె కావాలంట!\"",
@@ -99,7 +102,7 @@ export const episodes = [
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
         "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Close-up profile on water. Cute brown monkey scratching his chin with a cheeky confident grin, pointing back toward the lush riverbank. Gullible green crocodile blinks with wide innocent eyes, turning his massive tail around in swirling water.",
         "teluguVO": "[తెలివైన కోతి]: \"అయ్యో మిత్రమా! నా గుండెను చెట్టు కొమ్మపై భద్రంగా దాచాను, పద వెళ్లి తెచ్చుకుందాం!\"\n[మొసలి]: \"అలాగా! అయితే త్వరగా పద, తీసుకుందాం!\"",
         "englishSub": "[Monkey]: \"Oh dear friend! Why didn't you say so? I left my heart safely on the tree branch! Let's swim back!\"\n[Crocodile]: \"Really? Then hold tight, let us hurry back!\"",
@@ -140,14 +143,14 @@ export const episodes = [
     "hashtags": "#LionAndMouse #Panchatantra #TrueFriendship #KidsMoralStories #TeluguReels",
     "coverPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. 9:16 vertical poster. Mighty golden lion smiling happily with tiny cute grey mouse sitting right on top of his furry nose holding a piece of chewed rope. Warm glowing forest backdrop.",
     "coverImage": "",
-    "prompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Mouse (చిట్టి ఎలుక) in enchanted lush jungle, 8k render, Unreal Engine 5.",
+    "prompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Mouse in enchanted lush jungle, 8k render, Unreal Engine 5.",
     "views": 36050,
     "retention": 82.3,
     "clips": [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
         "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dramatic low angle. Majestic golden lion with a thick royal mane tangled helplessly inside a heavy thick brown hemp hunter's net in deep jungle, roaring in frustration as ropes tighten.",
         "teluguVO": "[Narrator]: \"వేటగాడి బలమైన తాళ్ల వలలో అడవి రాజు సింహం చిక్కుకుంది!\"\n[సింహం]: \"గర్ర్ర్! నన్ను ఎవరైనా కాపాడండి! నేను కదలలేకపోతున్నాను!\"",
@@ -158,7 +161,7 @@ export const episodes = [
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
         "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Extreme close-up. Tiny brave grey field mouse with large pink ears vigorously gnawing through thick braided rope fibers with its sharp white chisel teeth, wood chips and rope fibers flying.",
         "teluguVO": "[చిట్టి ఎలుక]: \"రాజా! భయపడకండి, నేను వచ్చేసాను!\"\n[Narrator]: \"చిన్న పళ్లతో బలమైన తాళ్లను చకచకా కొరికివేసింది!\"",
         "englishSub": "[Mouse]: \"Don't fear, O King! Your little friend is here!\"\n[Narrator]: \"With tiny razor-sharp front teeth, the little mouse rapidly chewed through the master tension ropes!\"",
@@ -186,7 +189,7 @@ export const episodes = [
     "batch": "Batch 1 (EP 01–25)",
     "status": "Ready",
     "hookEn": "Wait! How did Hare turn this impossible crisis into a clever victory?!",
-    "hookTe": "ఆగండి! చిన్న కుందేలు ఇంత పెద్ద సమస్య నుండి తన అద్భుతమైన తెలివితో ఎలా బయటపడిందో తెలుసా?",
+    "hookTe": "ఆగండి! తెలివైన కుందేలు ఇంత పెద్ద సమస్య నుండి తన అద్భుతమైన తెలివితో ఎలా బయటపడిందో తెలుసా?",
     "beat1": "A tyrannical lion terrorizes the jungle, demanding one animal every day. Tiny hare arrives late, facing the roaring lion's deadly claws.",
     "beat2": "Hare calmly bows and lies: 'O King! Another ferocious lion stopped me at the ancient stone well, claiming HE is the true King!' Hare leads the furious lion straight to the deep well.",
     "beat3": "Lion peers into the dark well, sees his own reflection snarling, roars at it, and furiously lunges downward—crashing into deep water with a massive SPLASH, trapped forever.",
@@ -199,14 +202,14 @@ export const episodes = [
     "hashtags": "#LionAndHare #PanchatantraStories #TeluguMoralStories #WisdomWins #KidsStories",
     "coverPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. 9:16 vertical cover. Clever white hare sitting proudly on rim of mossy stone well, while water droplets splash high into air. Funny surprised lion eyes visible in water reflection.",
     "coverImage": "",
-    "prompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Hare (చిన్న కుందేలు) in enchanted lush jungle, 8k render, Unreal Engine 5.",
+    "prompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Hare in enchanted lush jungle, 8k render, Unreal Engine 5.",
     "views": 36400,
     "retention": 82.4,
     "clips": [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
         "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dramatic confrontation in rocky clearing. Massive fierce roaring lion glaring down with bared claws at a tiny clever white hare who bows respectfully with wide innocent eyes.",
         "teluguVO": "[సింహం]: \"నా ఆహారానికి ఇంత ఆలస్యంగా వస్తావా? నిన్ను చంపి తింటాను!\"\n[కుందేలు]: \"మహారాజా! దారిలో ఇంకో సింహం నన్ను ఆపి తనే రాజు అంది!\"",
@@ -217,7 +220,7 @@ export const episodes = [
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
         "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Medium dynamic shot. Clever little hare pointing dramatic paw toward an ancient mossy stone well overgrown with vines. Furious lion stomps forward, peering over stone edge.",
         "teluguVO": "[సింహం]: \"నాకే ఎదురా? ఎక్కడుంది ఆ సింహం? చూపించు!\"\n[కుందేలు]: \"ఆ ప్రాచీన రాతి బావిలోనే దాక్కుంది... చూడండి రాజా!\"",
         "englishSub": "[Lion]: \"Another lion in MY jungle?! Show me where he hides!\"\n[Hare]: \"He is hiding inside that deep ancient stone well... look inside, O King!\"",
@@ -258,14 +261,14 @@ export const episodes = [
     "hashtags": "#TalkativeTortoise #PanchatantraInTelugu #TeluguStories #MoralReels #KidsAnimation",
     "coverPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. 9:16 vertical cover. Funny round green tortoise clutching a wooden stick with both teeth flying through fluffy white clouds between two majestic geese. Hilarious wide-eyed expressions.",
     "coverImage": "",
-    "prompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Tortoise (వాగుడు తాబేలు) in enchanted lush jungle, 8k render, Unreal Engine 5.",
+    "prompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Tortoise in enchanted lush jungle, 8k render, Unreal Engine 5.",
     "views": 36750,
     "retention": 82.5,
     "clips": [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
         "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Wide majestic aerial shot. Two graceful white geese flying high across bright blue sky, holding a wooden stick across their beaks. A cute round green tortoise bites the middle of stick with tight jaws.",
         "teluguVO": "[హంసలు]: \"తాబేలు మిత్రమా! కర్రను గట్టిగా పట్టుకో, ఆకాశంలో అస్సలు నోరు తెరవకు!\"\n[తాబేలు]: \"సరే! నేను ఒక్క మాట కూడా మాట్లాడను!\"",
@@ -276,7 +279,7 @@ export const episodes = [
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
         "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Medium dynamic aerial shot. Below, funny village kids point upward laughing. Up in sky, green tortoise gets red cheeks of anger, losing temper and opening wide mouth shouting.",
         "teluguVO": "[కింద జనం]: \"అరెరే! ఆకాశంలో ఎగిరే తాబేలును చూడండి! ఎంత వింతగా ఉందో!\"\n[తాబేలు (కోపంతో)]: \"నన్నే చూసి నవ్వుతారా? ఆపండి!\"",
         "englishSub": "[Crowd below]: \"Look! A flying turtle holding a stick! How ridiculous!\"\n[Tortoise (furious)]: \"Hey! Are you laughing at ME?! Stop it!\"",
@@ -317,14 +320,14 @@ export const episodes = [
     "hashtags": "#CrowAndSnake #PanchatantraWisdom #TeluguStoriesForKids #CleverTricks #KidsReels",
     "coverPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. 9:16 vertical cover. Glossy black crow perched high above hollow banyan tree winking with pride, holding a glittering ruby necklace in beak, while royal guards chase a snake below.",
     "coverImage": "",
-    "prompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Crow (తెలివైన కాకి) in enchanted lush jungle, 8k render, Unreal Engine 5.",
+    "prompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Crow in enchanted lush jungle, 8k render, Unreal Engine 5.",
     "views": 37100,
     "retention": 82.6,
     "clips": [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
         "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High tension shot. Fierce black cobra hissing with flared hood near the root hole of an ancient banyan tree. Up on branch, clever black crow glares down with determined flashing eyes.",
         "teluguVO": "[Narrator]: \"చెట్టు తొర్రలోని నల్లత్రాచు పాము రోజు కాకి గుడ్లను తినేస్తోంది!\"\n[కాకి]: \"ఈ దుష్ట పాముకు తగిన గుణపాఠం చెప్పాల్సిందే!\"",
@@ -335,7 +338,7 @@ export const episodes = [
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
         "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action flying shot. Glossy black crow flying low through palace garden with a glittering royal gold and ruby necklace clamped in beak, diving straight toward the hollow tree entrance.",
         "teluguVO": "[కాకి]: \"రాణిగారి బంగారు హారాన్ని పుట్టలో వేస్తే భటులే పని పడతారు!\"\n[Narrator]: \"హారాన్ని నోట కరుచుకుని వచ్చి పాము పుట్టలో పడేసింది!\"",
         "englishSub": "[Crow]: \"If I drop the Queen's ruby gold necklace in the snake pit, the royal guards will do the work!\"\n[Narrator]: \"Crow snatched the glittering necklace and dropped it right into the cobra's den!\"",
@@ -376,14 +379,14 @@ export const episodes = [
     "hashtags": "#BlueJackal #PanchatantraReels #TeluguStories #MoralLessons #KidsAnimation",
     "coverPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. 9:16 vertical poster. Glowing sapphire-blue jackal sitting on a rocky throne with a leaf crown, smiling smugly while wild animals look on in amazement. Fairytale moonlit forest.",
     "coverImage": "",
-    "prompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Jackal (నీలి నక్క) in enchanted lush jungle, 8k render, Unreal Engine 5.",
+    "prompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Jackal in enchanted lush jungle, 8k render, Unreal Engine 5.",
     "views": 37450,
     "retention": 82.7,
     "clips": [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
         "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Surrealistic vibrant shot. Scrawny clever jackal completely drenched in bright glowing indigo blue dye struts out of town alley into enchanted green jungle, fur glowing like sapphire.",
         "teluguVO": "[Narrator]: \"కుక్కల భయంతో రంగుల తొట్టిలో పడిన నక్క నీలి రంగుగా మారింది!\"\n[నీలి నక్క]: \"అడవి జంతువులారా! దేవుడే నన్ను మీ అందరికీ రాజుగా పంపాడు!\"",
@@ -394,7 +397,7 @@ export const episodes = [
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
         "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical court scene. Glowing blue jackal reclines lazily on a mossy rock throne while a big gentle tiger and black bear fan him with giant banana leaves, bowing respectfully.",
         "teluguVO": "[అడవి జంతువులు]: \"మహారాజా! మీ ఆజ్ఞ మాకు శిరోధార్యం!\"\n[Narrator]: \"సింహం, పులులతో నక్క రాజభోగాలు అనుభవించింది!\"",
         "englishSub": "[Animals]: \"Hail our Divine King! Your command is our law!\"\n[Narrator]: \"Frightened lions, tigers, and bears served fresh honeycomb and fruits to the blue impostor!\"",
@@ -435,14 +438,14 @@ export const episodes = [
     "hashtags": "#GreedyDog #PanchatantraInTelugu #TeluguShorts #KidsMoralStories #AnimationIndia",
     "coverPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. 9:16 vertical cover. Cute fluffy brown dog peering over a wooden bridge at its mirror reflection in glassy water, holding a large bone. Colorful nature scenery.",
     "coverImage": "",
-    "prompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dog (దురాశ కుక్క) in enchanted lush jungle, 8k render, Unreal Engine 5.",
+    "prompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dog in enchanted lush jungle, 8k render, Unreal Engine 5.",
     "views": 37800,
     "retention": 82.8,
     "clips": [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
         "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Cute fluffy brown dog happily trotting across a narrow wooden log bridge over a crystal-clear sparkling mountain stream, holding a large white marrow bone clamped firmly in jaws.",
         "teluguVO": "[Narrator]: \"నోట్లో పెద్ద ఎముకతో చెక్క వంతెన దాటుతున్న కుక్క నీళ్లలోకి చూసింది!\"\n[దురాశ కుక్క]: \"ఆహా! నీళ్లలో మరో కుక్క నాకంటే పెద్ద ఎముకతో ఉంది!\"",
@@ -453,7 +456,7 @@ export const episodes = [
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
         "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic comic close-up. Fluffy brown dog leaning over wooden railing barking aggressively with bulging greedy eyes. A white bone tumbles from its open mouth toward the water with motion blur.",
         "teluguVO": "[దురాశ కుక్క]: \"ఆ ఎముక కూడా నాకే కావాలి! భౌ భౌ!\"\n[Narrator]: \"నోరు తెరిచి మొరగగానే, నోట్లోని అసలు ఎముక నీళ్లలో పడిపోయింది!\"",
         "englishSub": "[Dog]: \"I must have that bone too! WOOF WOOF!\"\n[Narrator]: \"The moment he opened his mouth to bark greedily, his real bone dropped straight into the river!\"",
@@ -494,14 +497,14 @@ export const episodes = [
     "hashtags": "#FarmerAndSnake #PanchatantraTales #TeluguStories #KidsMoralStories #AnimationTelugu",
     "coverPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. 9:16 vertical cover. Majestic golden cobra with flared hood resting on an ancient mossy mound next to a clay saucer of milk, sparkling gold coins glistening under sunny sky.",
     "coverImage": "",
-    "prompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Snake (బంగారు నాణేల పాము) in enchanted lush jungle, 8k render, Unreal Engine 5.",
+    "prompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Snake in enchanted lush jungle, 8k render, Unreal Engine 5.",
     "views": 38150,
     "retention": 82.9,
     "clips": [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
         "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Mystical anthill clearing in wheat field. A noble golden cobra resting near a terracotta bowl with a sparkling gold coin in front of it. In shadows, greedy young man clutches a heavy wooden stick.",
         "teluguVO": "[Narrator]: \"పుట్టలో ఉన్న పాము పాలు తాగి రోజూ ఒక బంగారు నాణెం బహుమతిగా ఇచ్చేది!\"\n[రైతు కొడుకు]: \"పుట్టలో చాలా నిధి ఉండాలి, పామును చంపి మొత్తం కొట్టేస్తా!\"",
@@ -512,7 +515,7 @@ export const episodes = [
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
         "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Fast action shot. Heavy wooden club smashes harmlessly into dry earth kicking up dust, while golden cobra smoothly dodges with flared hood and glowing eyes, hissing fiercely.",
         "teluguVO": "[Narrator]: \"కొడుకు కర్రతో కొట్టబోగా, పాము మెరుపులా తప్పించుకుంది!\"\n[పాము]: \"దురాశతో నాపైకే కర్ర ఎత్తుతావా? ఇక నీకు బంగారమూ లేదు, ఏమీ లేదు!\"",
         "englishSub": "[Narrator]: \"As the son swung his heavy stick, the cobra dodged with lightning speed!\"\n[Cobra]: \"You try to strike me out of pure greed? Your golden reward ends forever!\"",
@@ -553,14 +556,14 @@ export const episodes = [
     "hashtags": "#FoolishDeer #PanchatantraInTelugu #TeluguMoralReels #KidsAnimationStories #ShortsIndia",
     "coverPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. 9:16 vertical poster. Graceful spotted young deer with majestic antlers leaping over wild forest flowers in golden morning mist, looking back with wide cheerful eyes.",
     "coverImage": "",
-    "prompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Deer (చక్కని జింక) in enchanted lush jungle, 8k render, Unreal Engine 5.",
+    "prompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Deer in enchanted lush jungle, 8k render, Unreal Engine 5.",
     "views": 38500,
     "retention": 83.0,
     "clips": [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
         "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Beautiful woodland pool. Handsome spotted deer admiring magnificent curving branching antlers in mirror-like pond water, looking down discontentedly at its thin spindly hooves.",
         "teluguVO": "[జింక]: \"ఆహా! నా కొమ్ములు ఎంత అందంగా ఉన్నాయో! కానీ నా కాళ్లే ఇంత సన్నగా ఉన్నాయి!\"\n[Narrator]: \"అప్పుడే అడవిలో వేటకుక్కల అరుపులు వినిపించాయి!\"",
@@ -571,7 +574,7 @@ export const episodes = [
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
         "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action shot in dense thorny thicket. The galloping deer's wide curved antlers caught tight in tangled wild rose briars and vines, tugging frantically while hounds approach in background.",
         "teluguVO": "[Narrator]: \"సన్నని కాళ్లతో జింక మెరుపులా పరుగెత్తింది, కానీ అందమైన కొమ్ములు ముళ్ల తీగల్లో ఇరుక్కుపోయాయి!\"\n[జింక]: \"అయ్యో! నా కొమ్ములే నన్ను బంధించాయి!\"",
         "englishSub": "[Narrator]: \"On slender legs the deer sprinted fast, but his proud antlers got hopelessly tangled in thorny vines!\"\n[Deer]: \"Oh no! The very horns I boasted about have trapped me!\"",
@@ -619,21 +622,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Sparrow (తెలివైన పిచ్చుక) cornered by Fierce Hawk (వేట డేగ) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో తెలివైన పిచ్చుకకు అనుకోకుండా వేట డేగ ఎదురైంది!\"\n[తెలివైన పిచ్చుక]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Sparrow suddenly faced Fierce Hawk!\"\n[Sparrow]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Sparrow (తెలివైన పిచ్చుక) cornered by Fierce Hawk (వేట డేగ) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"తెలివైన పిచ్చుక వేట డేగ బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[తెలివైన పిచ్చుక]: \"అయ్యో! వేట డేగ నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Sparrow]: \"Oh no! How can I safely escape from Fierce Hawk?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Sparrow bravely executes the physical trick: Wise sparrow chirps signal, luring diving hawk into thick wild thorny rose bush where broad wings get trapped.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[తెలివైన పిచ్చుక]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"తెలివైన పిచ్చుక వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Sparrow]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Sparrow sprang into action and executed the clever plan: Wise sparrow chirps signal, luring diving hawk into thick wild thorny rose bush where broad wings get trapped.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Sparrow and Fierce Hawk in the frame. Sparrow executes the physical trick: Wise sparrow chirps signal, luring diving hawk into thick wild thorny rose bush where broad wings get trapped.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[తెలివైన పిచ్చుక]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"తెలివైన పిచ్చుక ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Sparrow]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Sparrow executed the clever plan: Wise sparrow chirps signal, luring diving hawk into thick wild thorny rose bush where broad wings get trapped.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -641,9 +644,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Hawk flaps helplessly tangled in thorns while tiny sparrows flit safely out.. The threat is outsmarted while Sparrow bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, తెలివైన పిచ్చుక సురక్షితంగా బయటపడింది! ముళ్ల పొదలోకి డేగను రప్పించి రెక్కలు ఇరుక్కునేలా చేసి పిచ్చుకలు తప్పించుకున్నాయి. రేపు: చీమల దండు ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Brain navigates thorns where wings cannot flap! Tomorrow: The Elephant & The Tiny Ants! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Hawk flaps helplessly tangled in thorns while tiny sparrows flit safely out.. The threat is outsmarted while Sparrow celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, తెలివైన పిచ్చుక సురక్షితంగా బయటపడింది! ముళ్ల పొదలోకి డేగను రప్పించి రెక్కలు ఇరుక్కునేలా చేసి పిచ్చుకలు తప్పించుకున్నాయి. రేపు: చీమల దండు ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Hawk flaps helplessly tangled in thorns while tiny sparrows flit safely out. Brain navigates thorns where wings cannot flap! Tomorrow: The Elephant & The Tiny Ants! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -667,9 +670,9 @@ export const episodes = [
     "teaserEn": "Tomorrow in Ep 13: The Rabbit & The Elephant Herd! TAP FOLLOW NOW!",
     "teaserTe": "మరి రేపటి కథలో... చిన్న కుందేలు ఎలాంటి అద్భుత సాహసం చేసిందో! రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!",
     "commentQ": "Would YOU act like Ants in this situation? Comment YES or NO!",
-    "caption": "చీమల దండు కథ: కష్టం వచ్చినప్పుడు ఉపాయంతో ఎలా నెగ్గాలో చూడండి! ✨\n\nనీతి: ఏనుగు తొండంలోకి చీమలు దూరి తుమ్ములు తెప్పించి గర్వాన్ని అణచాయి.\n\n🔔 రేపటి కథ: చిన్న కుందేలు ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!",
-    "hashtags": "#TeluguStories #Panchatantra #KidsAnimation #PanchatantraInTelugu #MoralStories #ReelsIndia",
-    "coverPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. 9:16 vertical cover poster. Cute Ants (చీమల దండు) celebrating triumphantly in an enchanted sunlit jungle after outsmarting Arrogant Elephant. Pixar 3D aesthetic.",
+    "caption": "ఏనుగు గర్వాన్ని అణచిన చిన్న చీమల దండు! 🐘🐜✨\n\nపరిమాణం కాదు ముఖ్యం, కలిసికట్టుగా పోరాడితే ఎంతటి బలవంతుడినైనా ఓడించవచ్చు!\n🔔 రేపటి కథ: చంద్ర సరస్సు కుందేలు కథ! ఇప్పుడే FOLLOW చేయండి!",
+    "hashtags": "#ElephantAndAnts #PanchatantraInTelugu #TeluguMoralStories #KidsCartoons #TeluguReels",
+    "coverPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. 9:16 vertical poster. Comical giant elephant holding a white tissue flag with trunk sneezing violently, while cheerful tiny ants celebrate triumphantly on a stone below.",
     "coverImage": "",
     "prompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Ants in enchanted lush jungle, 8k render, Unreal Engine 5.",
     "views": 39200,
@@ -678,21 +681,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Ants (చీమల దండు) cornered by Arrogant Elephant (మదపుటేనుగు) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో చీమల దండుకు అనుకోకుండా మదపుటేనుగు ఎదురైంది!\"\n[చీమల దండు]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Ants suddenly faced Arrogant Elephant!\"\n[Ants]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Giant arrogant elephant laughing mockingly as its heavy foot stamps on an anthill. Tiny black ants gather in furious defense under ancient jungle trees. 8k render.",
+        "teluguVO": "[మదపుటేనుగు]: \"హాహా! ఇంత చిన్న చీమలు నన్ను ఏం చేస్తాయి?\"\n[చీమల నాయకుడు]: \"మా ఇంటిని తొక్కినందుకు నీకు తగిన బుద్ధి చెబుతాం!\"",
+        "englishSub": "[Elephant]: \"Haha! What can such tiny ants do to a giant like me?\"\n[Ant Leader]: \"You crushed our home, now we will teach you a lesson!\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Ants bravely executes the physical trick: Army of tiny black ants marches up the sleeping tusker's trunk and tickles the sensitive inner lining.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[చీమల దండు]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"చీమల దండు వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Ants]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Ants sprang into action and executed the clever plan: Army of tiny black ants marches up the sleeping tusker's trunk and tickles the sensitive inner lining.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Macro close-up and dynamic two-shot. The giant elephant sleeping under a tree, while an army of tiny brave black ants marches inside the elephant's trunk and tickles the sensitive lining. Elephant begins twitching and gasping frantically. 8k.",
+        "teluguVO": "[చీమల దండు]: \"మిత్రులారా, తొండంలోకి దూరి గిలిగింతలు పెట్టండి!\"\n[Narrator]: \"చీమలన్నీ ఏనుగు తొండంలోకి దూరి కుట్టడంతో ఏనుగు విలవిలలాడింది!\"",
+        "englishSub": "[Ants]: \"March into the trunk and tickle the inside!\"\n[Narrator]: \"As ants marched inside the sensitive trunk, the elephant squirmed in agony!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -700,9 +703,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Giant elephant sneezes violently, shakes massive head, and bows in humble apology to the tiny ants.. The threat is outsmarted while Ants bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, చీమల దండు సురక్షితంగా బయటపడింది! ఏనుగు తొండంలోకి చీమలు దూరి తుమ్ములు తెప్పించి గర్వాన్ని అణచాయి. రేపు: చిన్న కుందేలు ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Never underestimate united small forces against a giant! Tomorrow: The Rabbit & The Elephant Herd! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical slapstick resolution. Giant elephant sneezes violently with massive ACHOO, blowing leaves away, shaking head frantically and bowing trunk in humble apology to the tiny ants cheering below. 8k render.",
+        "teluguVO": "[మదపుటేనుగు]: \"ఆఛూ! అమ్మో, నన్ను వదిలేయండి... నన్ను క్షమించండి!\"\n[Narrator]: \"ఎవరినీ తక్కువ అంచనా వేయకూడదు! రేపు: చంద్ర సరస్సు కుందేలు! FOLLOW చేయండి!\"",
+        "englishSub": "[Elephant]: \"Achoo! Please leave me... I apologize!\"\n[Narrator]: \"Never underestimate united small forces! Tomorrow: The Rabbit & The Moon! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -726,9 +729,9 @@ export const episodes = [
     "teaserEn": "Tomorrow in Ep 14: The Crow & The Pitcher! TAP FOLLOW NOW!",
     "teaserTe": "మరి రేపటి కథలో... తెలివైన కాకి ఎలాంటి అద్భుత సాహసం చేసిందో! రేపటి ఎపిసోడ్ కోసం ఇప్పుడే FOLLOW చేయండి!",
     "commentQ": "Would YOU act like Rabbit in this situation? Comment YES or NO!",
-    "caption": "చిన్న కుందేలు కథ: కష్టం వచ్చినప్పుడు ఉపాయంతో ఎలా నెగ్గాలో చూడండి! ✨\n\nనీతి: చంద్రుడి ప్రతిబింబాన్ని కదిలించి చంద్ర భగవానుడు కోపంగా ఉన్నాడని కుందేలు ఏనుగులను వెనక్కి పంపింది.\n\n🔔 రేపటి కథ: తెలివైన కాకి ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!",
-    "hashtags": "#TeluguStories #Panchatantra #KidsAnimation #PanchatantraInTelugu #MoralStories #ReelsIndia",
-    "coverPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. 9:16 vertical cover poster. Cute Rabbit (చిన్న కుందేలు) celebrating triumphantly in an enchanted sunlit jungle after outsmarting Thirsty Herd. Pixar 3D aesthetic.",
+    "caption": "చంద్రుడి ప్రతిబింబంతో ఏనుగుల గుంపును తరిమికొట్టిన చిన్న కుందేలు! 🐰🐘🌕✨\n\nఎంతటి బలమైన శత్రువైనా బుద్ధిబలంతో సులువుగా జయించవచ్చు!\n🔔 రేపటి కథ: తెలివైన కాకి & కూజా! ఇప్పుడే FOLLOW చేయండి!",
+    "hashtags": "#RabbitAndElephants #PanchatantraInTelugu #TeluguStories #KidsCartoons #MoralStories",
+    "coverPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. 9:16 vertical poster. Cute tiny white rabbit sitting on a moonlit rock waving playfully, while a giant humbled elephant bows respectfully next to a shimmering enchanted pool. Starry sky.",
     "coverImage": "",
     "prompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Rabbit in enchanted lush jungle, 8k render, Unreal Engine 5.",
     "views": 39550,
@@ -742,27 +745,27 @@ export const episodes = [
         "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Thundering herd of giant wild elephants marches toward rabbit burrows under ancient jungle trees. Cute Rabbit (చిన్న కుందేలు) leaps onto a tall boulder, waving paws to stop the herd. Dynamic lighting, detailed textures, 8k.",
         "teluguVO": "[Narrator]: \"దాహంతో ఉన్న ఏనుగుల గుంపు కుందేళ్ల కాలనీపైకి దూసుకొచ్చింది!\"\n[చిన్న కుందేలు]: \"ఆగండి! మా సరస్సును తాకితే చంద్ర దేవుడు ఆగ్రహిస్తాడు! నాతో రండి!\"",
         "englishSub": "[Narrator]: \"A thirsty herd of giant elephants rushed toward the rabbit burrows!\"\n[Rabbit]: \"Stop! Do not touch our lake or the Moon God will be enraged! Follow me!\"",
-        "sfx": "0:01s Earth Tremor Stomp • 0:03s Cartoon Gasp • 0:08s Foley Beat"
+        "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
-        "purpose": "⚠️ The Moonlit Lake Confrontation (The Tangible Physical Upayam)",
-        "cameraAction": "Wide-to-medium dramatic night shot of the Elephant King and Rabbit at the lake.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, cinematic midnight blue lighting. Moonlight enchanted lake. Giant Elephant King (గజరాజు) towers over the water looking down nervously. Cute tiny white Rabbit sits on a mossy rock, gently touching the lake surface with a paw, causing the bright silver full moon reflection to ripple and shake wildly. 8k render, Unreal Engine 5.",
+        "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters, cinematic midnight blue lighting. Moonlight enchanted lake. Giant Elephant King (గజరాజు) towers over the water looking down nervously. Cute tiny white Rabbit sits on a mossy rock, gently touching the lake surface with a paw, causing the bright silver full moon reflection to ripple and shake wildly. 8k render, Unreal Engine 5.",
         "teluguVO": "[చిన్న కుందేలు]: \"గజరాజా, చూడు! మా నివాసాలను తొక్కినందుకు సరస్సులోని చంద్రుడు కోపంతో ఎలా వణుకుతున్నాడో!\"\n[గజరాజు]: \"అయ్యో! చంద్ర భగవానుడు నిజంగానే ఆగ్రహంతో ఊగిపోతున్నాడు!\"",
         "englishSub": "[Rabbit]: \"Elephant King, look! Because you trampled our homes, the Moon God in the lake is trembling with fury!\"\n[Elephant King]: \"Oh heavens! The Moon God is indeed shaking with anger!\"",
-        "sfx": "0:11s Water Ripple Splash • 0:14s Mystery Tension Swell • 0:18s Elephant Trumpet Yelp"
+        "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
         "clipNumber": 3,
         "timeRange": "00:20 – 00:30 (10 Seconds)",
-        "purpose": "💡 Apology Payoff + Moral + Teaser + Follow CTA",
-        "cameraAction": "Comical reverent apology, morning triumph, and snappy teaser cut.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft morning glow. Comical resolution. Giant Elephant King raises trunk high, bows reverently to the lake in humble apology, and leads the elephant herd away into the misty horizon. Little rabbit leaps and giggles happily under golden sunbeams. 8k render.",
+        "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
+        "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters, soft morning glow. Comical resolution. Giant Elephant King raises trunk high, bows reverently to the lake in humble apology, and leads the elephant herd away into the misty horizon. Little rabbit leaps and giggles happily under golden sunbeams. 8k render.",
         "teluguVO": "[గజరాజు]: \"చంద్ర దేవా, మమ్మల్ని క్షమించు! మేము ఇంకెప్పుడూ ఇటు రాము!\"\n[Narrator]: \"శారీరక బలం కంటే బుద్ధిబలమే గొప్పది! రేపు: తెలివైన కాకి కథ... FOLLOW చేయండి!\"",
         "englishSub": "[Elephant King]: \"Forgive us, O Moon God! We will never return here again!\"\n[Narrator]: \"Wit and intellect triumph over brute physical strength! Tomorrow: The Thirsty Crow! Tap FOLLOW now!\"",
-        "sfx": "0:21s Reverent Bell Chime • 0:24s Cheerful Rabbit Giggle • 0:27s Telugu Outro Jingle"
+        "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
   },
@@ -789,14 +792,14 @@ export const episodes = [
     "hashtags": "#ThirstyCrow #PanchatantraInTelugu #TeluguMoralStories #KidsAnimationShorts #PatienceWins",
     "coverPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. 9:16 vertical poster. Cute glossy black crow perched on the edge of a rustic terracotta clay pitcher dropping a shiny stone, with clean water sparkling in the sun.",
     "coverImage": "",
-    "prompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Crow (తెలివైన కాకి) in enchanted lush jungle, 8k render, Unreal Engine 5.",
+    "prompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Crow in enchanted lush jungle, 8k render, Unreal Engine 5.",
     "views": 39900,
     "retention": 83.4,
     "clips": [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
         "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Sunny arid meadow. A glossy black crow panting with beak open in scorching heat, landing beside a tall narrow terracotta clay pitcher under an acacia tree.",
         "teluguVO": "[కాకి]: \"ఎండకు గొంతు ఎండిపోతోంది... నీళ్లు ఎక్కడా లేవా?\"\n[Narrator]: \"అప్పుడే కాకికి ఒక మట్టి కూజా కనిపించింది, కానీ నీళ్లు అడుగున ఉన్నాయి!\"",
@@ -807,7 +810,7 @@ export const episodes = [
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
         "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action shot. Clever black crow holding a smooth grey river pebble in its beak, carefully dropping it into the narrow neck of the pitcher with a comical 'PLINK!'. Small pile of stones nearby.",
         "teluguVO": "[కాకి]: \"ముక్కు అందట్లేదని వదిలేస్తానా? ఇదిగో ఉపాయం!\"\n[Narrator]: \"ఒక్కో గులకరాయిని ఏరి కూజాలో వేయడం మొదలుపెట్టింది!\"",
         "englishSub": "[Crow]: \"My beak cannot reach? I will not give up! Here is my plan!\"\n[Narrator]: \"The clever crow began picking up smooth pebbles one by one and dropping them inside!\"",
@@ -855,21 +858,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Goose (బంగారు బాతు) cornered by Greedy Farmer (దురాశ రైతు) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో బంగారు బాతుకు అనుకోకుండా దురాశ రైతు ఎదురైంది!\"\n[బంగారు బాతు]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Goose suddenly faced Greedy Farmer!\"\n[Goose]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Goose (బంగారు బాతు) cornered by Greedy Farmer (దురాశ రైతు) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"బంగారు బాతు దురాశ రైతు బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[బంగారు బాతు]: \"అయ్యో! దురాశ రైతు నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Goose]: \"Oh no! How can I safely escape from Greedy Farmer?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Goose bravely executes the physical trick: Greedy farmer grabs meat cleaver to cut open goose's belly expecting a hidden mine of gold.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[బంగారు బాతు]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"బంగారు బాతు వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Goose]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Goose sprang into action and executed the clever plan: Greedy farmer grabs meat cleaver to cut open goose's belly expecting a hidden mine of gold.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Goose and Greedy Farmer in the frame. Goose executes the physical trick: Greedy farmer grabs meat cleaver to cut open goose's belly expecting a hidden mine of gold.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[బంగారు బాతు]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"బంగారు బాతు ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Goose]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Goose executed the clever plan: Greedy farmer grabs meat cleaver to cut open goose's belly expecting a hidden mine of gold.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -877,9 +880,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Finds nothing inside; goose flies away to freedom, leaving the crying farmer penniless.. The threat is outsmarted while Goose bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, బంగారు బాతు సురక్షితంగా బయటపడింది! కడుపు కోస్తే ఒకేసారి బంగారమంతా దొరుకుతుందనుకున్న రైతు ఉన్న బాతును పోగొట్టుకున్నాడు. రేపు: తెలివైన కుందేలు ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Wanting all eggs at once leaves you with an empty barn! Tomorrow: The Foolish Lion & The Echo! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Finds nothing inside; goose flies away to freedom, leaving the crying farmer penniless.. The threat is outsmarted while Goose celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, బంగారు బాతు సురక్షితంగా బయటపడింది! కడుపు కోస్తే ఒకేసారి బంగారమంతా దొరుకుతుందనుకున్న రైతు ఉన్న బాతును పోగొట్టుకున్నాడు. రేపు: తెలివైన కుందేలు ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Finds nothing inside; goose flies away to freedom, leaving the crying farmer penniless. Wanting all eggs at once leaves you with an empty barn! Tomorrow: The Foolish Lion & The Echo! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -914,21 +917,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Hare (తెలివైన కుందేలు) cornered by Roaring Lion (భయంకర సింహం) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో తెలివైన కుందేలుకు అనుకోకుండా భయంకర సింహం ఎదురైంది!\"\n[తెలివైన కుందేలు]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Hare suddenly faced Roaring Lion!\"\n[Hare]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Hare (తెలివైన కుందేలు) cornered by Roaring Lion (భయంకర సింహం) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"తెలివైన కుందేలు భయంకర సింహం బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[తెలివైన కుందేలు]: \"అయ్యో! భయంకర సింహం నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Hare]: \"Oh no! How can I safely escape from Roaring Lion?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Hare bravely executes the physical trick: Hare hides inside acoustic cave and echoes the lion's roar twice as loud with rumbling bass vibrations.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[తెలివైన కుందేలు]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"తెలివైన కుందేలు వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Hare]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Hare sprang into action and executed the clever plan: Hare hides inside acoustic cave and echoes the lion's roar twice as loud with rumbling bass vibrations.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Hare and Roaring Lion in the frame. Hare executes the physical trick: Hare hides inside acoustic cave and echoes the lion's roar twice as loud with rumbling bass vibrations.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[తెలివైన కుందేలు]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"తెలివైన కుందేలు ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Hare]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Hare executed the clever plan: Hare hides inside acoustic cave and echoes the lion's roar twice as loud with rumbling bass vibrations.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -936,9 +939,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Terrified lion tucks tail between legs and sprints away from the 'Cave Monster'.. The threat is outsmarted while Hare bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, తెలివైన కుందేలు సురక్షితంగా బయటపడింది! ఖాళీ గుహలోంచి కుందేలు పెద్దగా అరిచి తనకంటే పెద్ద మృగం ఉందని సింహాన్ని భయపెట్టింది. రేపు: జిత్తులమారి నక్క ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Your own arrogant noise can be turned into your terror! Tomorrow: The Jackal & The War Drum! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Terrified lion tucks tail between legs and sprints away from the 'Cave Monster'.. The threat is outsmarted while Hare celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, తెలివైన కుందేలు సురక్షితంగా బయటపడింది! ఖాళీ గుహలోంచి కుందేలు పెద్దగా అరిచి తనకంటే పెద్ద మృగం ఉందని సింహాన్ని భయపెట్టింది. రేపు: జిత్తులమారి నక్క ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Terrified lion tucks tail between legs and sprints away from the 'Cave Monster'. Your own arrogant noise can be turned into your terror! Tomorrow: The Jackal & The War Drum! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -973,21 +976,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Jackal (జిత్తులమారి నక్క) cornered by Booming Sound (యుద్ధ భేరి శబ్దం) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో జిత్తులమారి నక్కకు అనుకోకుండా యుద్ధ భేరి శబ్దం ఎదురైంది!\"\n[జిత్తులమారి నక్క]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Jackal suddenly faced Booming Sound!\"\n[Jackal]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Jackal (జిత్తులమారి నక్క) cornered by Booming Sound (యుద్ధ భేరి శబ్దం) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"జిత్తులమారి నక్క యుద్ధ భేరి శబ్దం బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[జిత్తులమారి నక్క]: \"అయ్యో! యుద్ధ భేరి శబ్దం నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Jackal]: \"Oh no! How can I safely escape from Booming Sound?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Jackal bravely executes the physical trick: Jackal creeps up through tall reeds to inspect loud boom; discovers wind-blown tree branch striking abandoned leather drum.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[జిత్తులమారి నక్క]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"జిత్తులమారి నక్క వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Jackal]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Jackal sprang into action and executed the clever plan: Jackal creeps up through tall reeds to inspect loud boom; discovers wind-blown tree branch striking abandoned leather drum.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Jackal and Booming Sound in the frame. Jackal executes the physical trick: Jackal creeps up through tall reeds to inspect loud boom; discovers wind-blown tree branch striking abandoned leather drum.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[జిత్తులమారి నక్క]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"జిత్తులమారి నక్క ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Jackal]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Jackal executed the clever plan: Jackal creeps up through tall reeds to inspect loud boom; discovers wind-blown tree branch striking abandoned leather drum.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -995,9 +998,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Jackal tears leather open, finding rich dried honeycomb and grease inside.. The threat is outsmarted while Jackal bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, జిత్తులమారి నక్క సురక్షితంగా బయటపడింది! భయంకర శబ్దం చేసేది కర్ర తగిలిన చర్మపు డ్రమ్ అని తెలుసుకుని నక్క అందులోని ఆహారాన్ని తిన్నది. రేపు: మోసగాడు కోతి ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Investigate scary noises before fleeing in terror! Tomorrow: The Two Cats & The Clever Monkey! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Jackal tears leather open, finding rich dried honeycomb and grease inside.. The threat is outsmarted while Jackal celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, జిత్తులమారి నక్క సురక్షితంగా బయటపడింది! భయంకర శబ్దం చేసేది కర్ర తగిలిన చర్మపు డ్రమ్ అని తెలుసుకుని నక్క అందులోని ఆహారాన్ని తిన్నది. రేపు: మోసగాడు కోతి ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Jackal tears leather open, finding rich dried honeycomb and grease inside. Investigate scary noises before fleeing in terror! Tomorrow: The Two Cats & The Clever Monkey! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -1012,7 +1015,7 @@ export const episodes = [
     "batch": "Batch 1 (EP 01–25)",
     "status": "Ready",
     "hookEn": "Wait! How did Monkey turn this impossible crisis into a clever victory?!",
-    "hookTe": "ఆగండి! మోసగాడు కోతి ఇంత పెద్ద సమస్య నుండి తన అద్భుతమైన తెలివితో ఎలా బయటపడిందో తెలుసా?",
+    "hookTe": "ఆగండి! జిత్తులమారి కోతి ఇంత పెద్ద సమస్య నుండి తన అద్భుతమైన తెలివితో ఎలా బయటపడిందో తెలుసా?",
     "beat1": "Monkey encounters sudden danger from Greedy Cats in the jungle!",
     "beat2": "Monkey uses wooden scale to 'equalize' bread, taking a huge bite from whichever side dips lower.",
     "beat3": "Keeps nibbling alternately until the entire bread loaf vanishes into monkey's cheek pouches!",
@@ -1025,14 +1028,14 @@ export const episodes = [
     "hashtags": "#TwoCatsAndMonkey #PanchatantraInTelugu #TeluguStories #KidsCartoons #MoralReels",
     "coverPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. 9:16 vertical poster. Cheeky brown monkey holding a wooden balancing scale with slices of bread, grinning widely while a fluffy ginger cat and black cat look on in dismay.",
     "coverImage": "",
-    "prompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Monkey (మోసగాడు కోతి) in enchanted lush jungle, 8k render, Unreal Engine 5.",
+    "prompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Monkey in enchanted lush jungle, 8k render, Unreal Engine 5.",
     "views": 41300,
     "retention": 83.8,
     "clips": [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
         "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Village doorstep. Two funny fluffy cats (one ginger, one black-and-white) hissing and clawing over a large loaf of flatbread. Sly brown monkey arrives holding a wooden balancing scale.",
         "teluguVO": "[పిల్లులు]: \"నాకే ఎక్కువ ముక్క కావాలి! లేదు నాకే ఎక్కువ!\"\n[కోతి]: \"మిత్రులారా! గొడవపడకండి, నా త్రాసుతో ఇద్దరికీ సమానంగా పంచుతాను!\"",
@@ -1043,7 +1046,7 @@ export const episodes = [
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
         "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical medium shot. Brown monkey holding balancing scale with cheek pouches stuffed full of bread, taking a huge comical bite out of the heavier pan while the two cats watch in stunned silence.",
         "teluguVO": "[కోతి]: \"అయ్యో! ఈ వైపు ఎక్కువైంది, కొంచెం తింటాను... ఇప్పుడు ఆ వైపు ఎక్కువైంది!\"\n[Narrator]: \"సరిచేస్తున్నట్లు నటిస్తూ మొత్తం రొట్టెను కోతే తినేసింది!\"",
         "englishSub": "[Monkey]: \"Oops! This side is heavier, let me take a bite... Now the other side is heavier!\"\n[Narrator]: \"Pretending to balance the scale, the monkey kept nibbling until the entire bread was eaten!\"",
@@ -1091,21 +1094,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Turtle (నీటి తాబేలు) cornered by Flash Flood (వరద ఉధృతి) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో నీటి తాబేలుకు అనుకోకుండా వరద ఉధృతి ఎదురైంది!\"\n[నీటి తాబేలు]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Turtle suddenly faced Flash Flood!\"\n[Turtle]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Turtle (నీటి తాబేలు) cornered by Flash Flood (వరద ఉధృతి) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"నీటి తాబేలు వరద ఉధృతి బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[నీటి తాబేలు]: \"అయ్యో! వరద ఉధృతి నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Turtle]: \"Oh no! How can I safely escape from Flash Flood?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Turtle bravely executes the physical trick: Turtle floats like a sturdy raft, allowing shivering baby rabbits to climb safely onto his broad hard shell.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[నీటి తాబేలు]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"నీటి తాబేలు వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Turtle]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Turtle sprang into action and executed the clever plan: Turtle floats like a sturdy raft, allowing shivering baby rabbits to climb safely onto his broad hard shell.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Turtle and Flash Flood in the frame. Turtle executes the physical trick: Turtle floats like a sturdy raft, allowing shivering baby rabbits to climb safely onto his broad hard shell.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[నీటి తాబేలు]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"నీటి తాబేలు ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Turtle]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Turtle executed the clever plan: Turtle floats like a sturdy raft, allowing shivering baby rabbits to climb safely onto his broad hard shell.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -1113,9 +1116,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Turtle paddles smoothly across raging torrent to sunny dry riverbanks; animals cheer.. The threat is outsmarted while Turtle bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, నీటి తాబేలు సురక్షితంగా బయటపడింది! వరద వచ్చినప్పుడు తాబేలు తన వీపుపై కుందేలు పిల్లలను ఎక్కించుకుని సురక్షితంగా దాటించింది. రేపు: స్నేహశీలి కాకి ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! What seems slow on land is a lifesaver in water! Tomorrow: The Deer, Crow & Jackal! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Turtle paddles smoothly across raging torrent to sunny dry riverbanks; animals cheer.. The threat is outsmarted while Turtle celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, నీటి తాబేలు సురక్షితంగా బయటపడింది! వరద వచ్చినప్పుడు తాబేలు తన వీపుపై కుందేలు పిల్లలను ఎక్కించుకుని సురక్షితంగా దాటించింది. రేపు: స్నేహశీలి కాకి ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Turtle paddles smoothly across raging torrent to sunny dry riverbanks; animals cheer. What seems slow on land is a lifesaver in water! Tomorrow: The Deer, Crow & Jackal! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -1150,21 +1153,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Crow (స్నేహశీలి కాకి) cornered by Hunter & Traitor Jackal (వేటగాడు, నక్క) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో స్నేహశీలి కాకికు అనుకోకుండా వేటగాడు, నక్క ఎదురైంది!\"\n[స్నేహశీలి కాకి]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Crow suddenly faced Hunter & Traitor Jackal!\"\n[Crow]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Crow (స్నేహశీలి కాకి) cornered by Hunter & Traitor Jackal (వేటగాడు, నక్క) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"స్నేహశీలి కాకి వేటగాడు, నక్క బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[స్నేహశీలి కాకి]: \"అయ్యో! వేటగాడు, నక్క నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Crow]: \"Oh no! How can I safely escape from Hunter & Traitor Jackal?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Crow bravely executes the physical trick: Crow instructs trapped deer to puff belly and play dead with stiff legs; crow caws when hunter removes net.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[స్నేహశీలి కాకి]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"స్నేహశీలి కాకి వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Crow]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Crow sprang into action and executed the clever plan: Crow instructs trapped deer to puff belly and play dead with stiff legs; crow caws when hunter removes net.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Crow and Hunter & Traitor Jackal in the frame. Crow executes the physical trick: Crow instructs trapped deer to puff belly and play dead with stiff legs; crow caws when hunter removes net.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[స్నేహశీలి కాకి]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"స్నేహశీలి కాకి ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Crow]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Crow executed the clever plan: Crow instructs trapped deer to puff belly and play dead with stiff legs; crow caws when hunter removes net.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -1172,9 +1175,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Deer springs up and vanishes; hunter's thrown stick misses deer and accidentally whacks the treacherous jackal!. The threat is outsmarted while Crow bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, స్నేహశీలి కాకి సురక్షితంగా బయటపడింది! జింకను చనిపోయినట్లు నటించమని కాకి చెప్పి, వేటగాడు వల తీయగానే కాపాడింది. రేపు: జిత్తులమారి నక్క ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! True friends devise escapes; false friends lead to traps! Tomorrow: The Lion, Fox & The Donkey! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Deer springs up and vanishes; hunter's thrown stick misses deer and accidentally whacks the treacherous jackal!. The threat is outsmarted while Crow celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, స్నేహశీలి కాకి సురక్షితంగా బయటపడింది! జింకను చనిపోయినట్లు నటించమని కాకి చెప్పి, వేటగాడు వల తీయగానే కాపాడింది. రేపు: జిత్తులమారి నక్క ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Deer springs up and vanishes; hunter's thrown stick misses deer and accidentally whacks the treacherous jackal! True friends devise escapes; false friends lead to traps! Tomorrow: The Lion, Fox & The Donkey! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -1209,21 +1212,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Fox (జిత్తులమారి నక్క) cornered by Hungry Lion (ఆకలి సింహం) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో జిత్తులమారి నక్కకు అనుకోకుండా ఆకలి సింహం ఎదురైంది!\"\n[జిత్తులమారి నక్క]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Fox suddenly faced Hungry Lion!\"\n[Fox]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Fox (జిత్తులమారి నక్క) cornered by Hungry Lion (ఆకలి సింహం) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"జిత్తులమారి నక్క ఆకలి సింహం బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[జిత్తులమారి నక్క]: \"అయ్యో! ఆకలి సింహం నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Fox]: \"Oh no! How can I safely escape from Hungry Lion?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Fox bravely executes the physical trick: Fox cunningly eats donkey's brain while lion washes; claims: 'If donkey had a brain, would he walk into a lion's den?'. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[జిత్తులమారి నక్క]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"జిత్తులమారి నక్క వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Fox]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Fox sprang into action and executed the clever plan: Fox cunningly eats donkey's brain while lion washes; claims: 'If donkey had a brain, would he walk into a lion's den?'!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Fox and Hungry Lion in the frame. Fox executes the physical trick: Fox cunningly eats donkey's brain while lion washes; claims: 'If donkey had a brain, would he walk into a lion's den?'. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[జిత్తులమారి నక్క]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"జిత్తులమారి నక్క ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Fox]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Fox executed the clever plan: Fox cunningly eats donkey's brain while lion washes; claims: 'If donkey had a brain, would he walk into a lion's den?'!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -1231,9 +1234,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Lion nods foolishly in agreement; fox chuckles enjoying the feast in safety.. The threat is outsmarted while Fox bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, జిత్తులమారి నక్క సురక్షితంగా బయటపడింది! సింహం వేటాడిన గాడిద చెవులు, గుండెను నక్క తిని 'గాడిదకు బుర్రే లేదు' అని సింహాన్ని నమ్మించింది. రేపు: ఒంటె ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! The cunning servant always outwits the raging master! Tomorrow: The Camel & The Lion! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Lion nods foolishly in agreement; fox chuckles enjoying the feast in safety.. The threat is outsmarted while Fox celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, జిత్తులమారి నక్క సురక్షితంగా బయటపడింది! సింహం వేటాడిన గాడిద చెవులు, గుండెను నక్క తిని 'గాడిదకు బుర్రే లేదు' అని సింహాన్ని నమ్మించింది. రేపు: ఒంటె ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Lion nods foolishly in agreement; fox chuckles enjoying the feast in safety. The cunning servant always outwits the raging master! Tomorrow: The Camel & The Lion! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -1268,21 +1271,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Camel (ఒంటె) cornered by Betraying Minions (నక్క, కాకి మోసం) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో ఒంటెకు అనుకోకుండా నక్క, కాకి మోసం ఎదురైంది!\"\n[ఒంటె]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Camel suddenly faced Betraying Minions!\"\n[Camel]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Camel (ఒంటె) cornered by Betraying Minions (నక్క, కాకి మోసం) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"ఒంటె నక్క, కాకి మోసం బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[ఒంటె]: \"అయ్యో! నక్క, కాకి మోసం నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Camel]: \"Oh no! How can I safely escape from Betraying Minions?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Camel bravely executes the physical trick: Camel spots fox whispering to lion, feigns sudden wild desert cough, and bolts at gallop across sand dunes.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[ఒంటె]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"ఒంటె వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Camel]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Camel sprang into action and executed the clever plan: Camel spots fox whispering to lion, feigns sudden wild desert cough, and bolts at gallop across sand dunes.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Camel and Betraying Minions in the frame. Camel executes the physical trick: Camel spots fox whispering to lion, feigns sudden wild desert cough, and bolts at gallop across sand dunes.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[ఒంటె]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"ఒంటె ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Camel]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Camel executed the clever plan: Camel spots fox whispering to lion, feigns sudden wild desert cough, and bolts at gallop across sand dunes.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -1290,9 +1293,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Heavy lion sinks into sand; camel glides away safely to the desert horizon.. The threat is outsmarted while Camel bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, ఒంటె సురక్షితంగా బయటపడింది! సింహానికి ఆహారంగా ఇవ్వాలని చూసిన నక్క కుట్రను పసిగట్టి ఒంటె చాకచక్యంగా పారిపోయింది. రేపు: గూఢచారి కాకి ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Never trust sycophants who offer you as food! Tomorrow: The Crow & The Owl's Castle! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Heavy lion sinks into sand; camel glides away safely to the desert horizon.. The threat is outsmarted while Camel celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, ఒంటె సురక్షితంగా బయటపడింది! సింహానికి ఆహారంగా ఇవ్వాలని చూసిన నక్క కుట్రను పసిగట్టి ఒంటె చాకచక్యంగా పారిపోయింది. రేపు: గూఢచారి కాకి ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Heavy lion sinks into sand; camel glides away safely to the desert horizon. Never trust sycophants who offer you as food! Tomorrow: The Crow & The Owl's Castle! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -1327,21 +1330,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Crow (గూఢచారి కాకి) cornered by Owl King (గుడ్లగూబల గుంపు) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో గూఢచారి కాకికు అనుకోకుండా గుడ్లగూబల గుంపు ఎదురైంది!\"\n[గూఢచారి కాకి]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Crow suddenly faced Owl King!\"\n[Crow]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Crow (గూఢచారి కాకి) cornered by Owl King (గుడ్లగూబల గుంపు) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"గూఢచారి కాకి గుడ్లగూబల గుంపు బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[గూఢచారి కాకి]: \"అయ్యో! గుడ్లగూబల గుంపు నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Crow]: \"Oh no! How can I safely escape from Owl King?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Crow bravely executes the physical trick: Crow acts as outcast friend, deposits dry cedar twigs at mouth of owl cave over weeks.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[గూఢచారి కాకి]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"గూఢచారి కాకి వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Crow]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Crow sprang into action and executed the clever plan: Crow acts as outcast friend, deposits dry cedar twigs at mouth of owl cave over weeks.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Crow and Owl King in the frame. Crow executes the physical trick: Crow acts as outcast friend, deposits dry cedar twigs at mouth of owl cave over weeks.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[గూఢచారి కాకి]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"గూఢచారి కాకి ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Crow]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Crow executed the clever plan: Crow acts as outcast friend, deposits dry cedar twigs at mouth of owl cave over weeks.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -1349,9 +1352,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Crow drops a spark; cave entrance blazes in smoke, clearing the nocturnal predators away.. The threat is outsmarted while Crow bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, గూఢచారి కాకి సురక్షితంగా బయటపడింది! గుడ్లగూబల గుహ ముఖద్వారం వద్ద ఎండుపుల్లలు పేర్చి కాకులు నిప్పు పెట్టి శత్రువులను తరిమాయి. రేపు: చిట్టి ఎలుక ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Patience and undercover strategy topples fortress walls! Tomorrow: The Mouse & The Cat Trap! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Crow drops a spark; cave entrance blazes in smoke, clearing the nocturnal predators away.. The threat is outsmarted while Crow celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, గూఢచారి కాకి సురక్షితంగా బయటపడింది! గుడ్లగూబల గుహ ముఖద్వారం వద్ద ఎండుపుల్లలు పేర్చి కాకులు నిప్పు పెట్టి శత్రువులను తరిమాయి. రేపు: చిట్టి ఎలుక ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Crow drops a spark; cave entrance blazes in smoke, clearing the nocturnal predators away. Patience and undercover strategy topples fortress walls! Tomorrow: The Mouse & The Cat Trap! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -1386,21 +1389,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Mouse (చిట్టి ఎలుక) cornered by Caged Cat (బోనులో పిల్లి) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో చిట్టి ఎలుకకు అనుకోకుండా బోనులో పిల్లి ఎదురైంది!\"\n[చిట్టి ఎలుక]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Mouse suddenly faced Caged Cat!\"\n[Mouse]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Mouse (చిట్టి ఎలుక) cornered by Caged Cat (బోనులో పిల్లి) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"చిట్టి ఎలుక బోనులో పిల్లి బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[చిట్టి ఎలుక]: \"అయ్యో! బోనులో పిల్లి నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Mouse]: \"Oh no! How can I safely escape from Caged Cat?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Mouse bravely executes the physical trick: Trapped mouse makes pact with caged cat to chew rope if cat shields from owl; cuts rope at final strand.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[చిట్టి ఎలుక]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"చిట్టి ఎలుక వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Mouse]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Mouse sprang into action and executed the clever plan: Trapped mouse makes pact with caged cat to chew rope if cat shields from owl; cuts rope at final strand.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Mouse and Caged Cat in the frame. Mouse executes the physical trick: Trapped mouse makes pact with caged cat to chew rope if cat shields from owl; cuts rope at final strand.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[చిట్టి ఎలుక]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"చిట్టి ఎలుక ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Mouse]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Mouse executed the clever plan: Trapped mouse makes pact with caged cat to chew rope if cat shields from owl; cuts rope at final strand.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -1408,9 +1411,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Mouse dives into narrow rock crevice just as cat lunges, keeping safe distance forever.. The threat is outsmarted while Mouse bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, చిట్టి ఎలుక సురక్షితంగా బయటపడింది! పిల్లికి సహాయం చేసి ప్రాణాలు కాపాడుకుని, పని కాగానే కలుగులోకి దూరి ఎలుక రక్షించుకుంది. రేపు: టోపీల వ్యాపారి ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Alliances with natural enemies are purely temporary! Tomorrow: The Monkey & The Cap Seller! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Mouse dives into narrow rock crevice just as cat lunges, keeping safe distance forever.. The threat is outsmarted while Mouse celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, చిట్టి ఎలుక సురక్షితంగా బయటపడింది! పిల్లికి సహాయం చేసి ప్రాణాలు కాపాడుకుని, పని కాగానే కలుగులోకి దూరి ఎలుక రక్షించుకుంది. రేపు: టోపీల వ్యాపారి ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Mouse dives into narrow rock crevice just as cat lunges, keeping safe distance forever. Alliances with natural enemies are purely temporary! Tomorrow: The Monkey & The Cap Seller! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -1422,7 +1425,7 @@ export const episodes = [
     "leadChar": "Merchant",
     "moral": "Turn the enemy's copycat behavior into their downfall!",
     "category": "Wisdom & Strategy",
-    "batch": "Batch 1 (EP 01–50)",
+    "batch": "Batch 1 (EP 01–25)",
     "status": "Ready",
     "hookEn": "Wait! How did Merchant turn this impossible crisis into a clever victory?!",
     "hookTe": "ఆగండి! టోపీల వ్యాపారి ఇంత పెద్ద సమస్య నుండి తన అద్భుతమైన తెలివితో ఎలా బయటపడిందో తెలుసా?",
@@ -1438,14 +1441,14 @@ export const episodes = [
     "hashtags": "#CapSellerAndMonkeys #PanchatantraInTelugu #CleverIdeas #TeluguKidsReels #AnimationShorts",
     "coverPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. 9:16 vertical poster. Happy Indian cap seller smiling with a large woven basket overflowing with colorful caps, while funny monkeys in tree branches scratch their heads in confusion.",
     "coverImage": "",
-    "prompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Merchant (టోపీల వ్యాపారి) in enchanted lush jungle, 8k render, Unreal Engine 5.",
+    "prompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Merchant in enchanted lush jungle, 8k render, Unreal Engine 5.",
     "views": 43750,
     "retention": 84.5,
     "clips": [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
         "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Shady banyan tree clearing. Weary cap seller in traditional dhoti rubbing eyes beside an empty woven basket. Up in the lush leafy branches, a troupe of funny brown monkeys wear bright red, yellow, and blue caps.",
         "teluguVO": "[వ్యాపారి]: \"అయ్యో! నిద్రలేచేసరికి నా బుట్టలోని రంగు రంగుల టోపీలన్నీ కోతులు ఎత్తుకెళ్లాయే!\"\n[కోతులు (చెట్టుపై)]: \"ఖీ ఖీ ఖీ! మేం టోపీలు పెట్టుకున్నాం!\"",
@@ -1456,7 +1459,7 @@ export const episodes = [
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
         "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic split reaction shot. Cap seller on ground throwing his red velvet cap down onto the dirt with dramatic flourish. In tree branches, all the monkeys copy his movement, grabbing their caps.",
         "teluguVO": "[వ్యాపారి]: \"నేను పిడికిలి విసిరితే కోతులూ పిడికిలి విసిరాయి! ఆహా, నాకో ఉపాయం తట్టింది!\"\n[Narrator]: \"తన తలపై ఉన్న టోపీని నేలకేసి కోపంగా కొట్టాడు!\"",
         "englishSub": "[Merchant]: \"When I shake my fist, they shake their fists! Aha, they copy everything I do!\"\n[Narrator]: \"The merchant took off his own cap and slammed it onto the ground in mock anger!\"",
@@ -1504,21 +1507,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Partridge (తీతువు పిట్ట) cornered by Bird Catcher (వేటగాడి వల) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో తీతువు పిట్టకు అనుకోకుండా వేటగాడి వల ఎదురైంది!\"\n[తీతువు పిట్ట]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Partridge suddenly faced Bird Catcher!\"\n[Partridge]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Partridge (తీతువు పిట్ట) cornered by Bird Catcher (వేటగాడి వల) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"తీతువు పిట్ట వేటగాడి వల బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[తీతువు పిట్ట]: \"అయ్యో! వేటగాడి వల నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Partridge]: \"Oh no! How can I safely escape from Bird Catcher?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Partridge bravely executes the physical trick: Partridge refuses hunter's bribe to lure flock; instead flutters wing kicking dust into hunter's eyes.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[తీతువు పిట్ట]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"తీతువు పిట్ట వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Partridge]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Partridge sprang into action and executed the clever plan: Partridge refuses hunter's bribe to lure flock; instead flutters wing kicking dust into hunter's eyes.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Partridge and Bird Catcher in the frame. Partridge executes the physical trick: Partridge refuses hunter's bribe to lure flock; instead flutters wing kicking dust into hunter's eyes.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[తీతువు పిట్ట]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"తీతువు పిట్ట ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Partridge]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Partridge executed the clever plan: Partridge refuses hunter's bribe to lure flock; instead flutters wing kicking dust into hunter's eyes.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -1526,9 +1529,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Hunter blinks; partridge bursts into flight through the canopy.. The threat is outsmarted while Partridge bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, తీతువు పిట్ట సురక్షితంగా బయటపడింది! తోటి పక్షులను మోసం చేయనని చెప్పి తీతువు పిట్ట వేటగాడి చేతి నుండి తప్పించుకుంది. రేపు: తెలివైన ఎండ్రకాయ ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! A traitor who betrays his kin deserves zero mercy! Tomorrow: The Heron & The Crab! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Hunter blinks; partridge bursts into flight through the canopy.. The threat is outsmarted while Partridge celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, తీతువు పిట్ట సురక్షితంగా బయటపడింది! తోటి పక్షులను మోసం చేయనని చెప్పి తీతువు పిట్ట వేటగాడి చేతి నుండి తప్పించుకుంది. రేపు: తెలివైన ఎండ్రకాయ ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Hunter blinks; partridge bursts into flight through the canopy. A traitor who betrays his kin deserves zero mercy! Tomorrow: The Heron & The Crab! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -1563,21 +1566,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Crab (తెలివైన ఎండ్రకాయ) cornered by Greedy Heron (కపట కొంగ) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో తెలివైన ఎండ్రకాయకు అనుకోకుండా కపట కొంగ ఎదురైంది!\"\n[తెలివైన ఎండ్రకాయ]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Crab suddenly faced Greedy Heron!\"\n[Crab]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Crab (తెలివైన ఎండ్రకాయ) cornered by Greedy Heron (కపట కొంగ) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"తెలివైన ఎండ్రకాయ కపట కొంగ బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[తెలివైన ఎండ్రకాయ]: \"అయ్యో! కపట కొంగ నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Crab]: \"Oh no! How can I safely escape from Greedy Heron?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Crab bravely executes the physical trick: Crab notices fish bones on rock; realizes heron's flying taxi is a slaughterhouse! Crab clamps sharp claws on heron's neck.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[తెలివైన ఎండ్రకాయ]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"తెలివైన ఎండ్రకాయ వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Crab]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Crab sprang into action and executed the clever plan: Crab notices fish bones on rock; realizes heron's flying taxi is a slaughterhouse! Crab clamps sharp claws on heron's neck.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Crab and Greedy Heron in the frame. Crab executes the physical trick: Crab notices fish bones on rock; realizes heron's flying taxi is a slaughterhouse! Crab clamps sharp claws on heron's neck.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[తెలివైన ఎండ్రకాయ]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"తెలివైన ఎండ్రకాయ ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Crab]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Crab executed the clever plan: Crab notices fish bones on rock; realizes heron's flying taxi is a slaughterhouse! Crab clamps sharp claws on heron's neck.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -1585,9 +1588,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Heron squawks and begs, forced to crash-land gently into the safety of the pond.. The threat is outsmarted while Crab bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, తెలివైన ఎండ్రకాయ సురక్షితంగా బయటపడింది! కొంగ మోసాన్ని గ్రహించిన ఎండ్రకాయ తన పదునైన కొమ్ములతో కొంగ మెడను నలిపేసింది. రేపు: చిన్న చేప ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Cunning tricksters meet their end when greed blinds them! Tomorrow: The Little Fish & The Net! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Heron squawks and begs, forced to crash-land gently into the safety of the pond.. The threat is outsmarted while Crab celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, తెలివైన ఎండ్రకాయ సురక్షితంగా బయటపడింది! కొంగ మోసాన్ని గ్రహించిన ఎండ్రకాయ తన పదునైన కొమ్ములతో కొంగ మెడను నలిపేసింది. రేపు: చిన్న చేప ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Heron squawks and begs, forced to crash-land gently into the safety of the pond. Cunning tricksters meet their end when greed blinds them! Tomorrow: The Little Fish & The Net! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -1622,21 +1625,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Fish (చిన్న చేప) cornered by Fishing Net (చేపల వల) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో చిన్న చేపకు అనుకోకుండా చేపల వల ఎదురైంది!\"\n[చిన్న చేప]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Fish suddenly faced Fishing Net!\"\n[Fish]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Fish (చిన్న చేప) cornered by Fishing Net (చేపల వల) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"చిన్న చేప చేపల వల బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[చిన్న చేప]: \"అయ్యో! చేపల వల నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Fish]: \"Oh no! How can I safely escape from Fishing Net?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Fish bravely executes the physical trick: Tiny silver fish folds fins and wiggles through the narrow nylon mesh diamond holes.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[చిన్న చేప]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"చిన్న చేప వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Fish]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Fish sprang into action and executed the clever plan: Tiny silver fish folds fins and wiggles through the narrow nylon mesh diamond holes.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Fish and Fishing Net in the frame. Fish executes the physical trick: Tiny silver fish folds fins and wiggles through the narrow nylon mesh diamond holes.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[చిన్న చేప]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"చిన్న చేప ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Fish]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Fish executed the clever plan: Tiny silver fish folds fins and wiggles through the narrow nylon mesh diamond holes.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -1644,9 +1647,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Big predator fish get dragged into boat; tiny fish swims into coral reef laughing.. The threat is outsmarted while Fish bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, చిన్న చేప సురక్షితంగా బయటపడింది! వల కళ్ల సందుల్లోంచి చిన్న చేప సులువుగా జారుకుని లోతైన నీళ్లలోకి వెళ్లిపోయింది. రేపు: నిలకడ తాబేలు ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Small size slips through barriers where large bodies get caught! Tomorrow: The Hare & The Tortoise! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Big predator fish get dragged into boat; tiny fish swims into coral reef laughing.. The threat is outsmarted while Fish celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, చిన్న చేప సురక్షితంగా బయటపడింది! వల కళ్ల సందుల్లోంచి చిన్న చేప సులువుగా జారుకుని లోతైన నీళ్లలోకి వెళ్లిపోయింది. రేపు: నిలకడ తాబేలు ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Big predator fish get dragged into boat; tiny fish swims into coral reef laughing. Small size slips through barriers where large bodies get caught! Tomorrow: The Hare & The Tortoise! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -1681,21 +1684,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Tortoise (నిలకడ తాబేలు) cornered by Overconfident Hare (గర్విష్ఠి కుందేలు) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో నిలకడ తాబేలుకు అనుకోకుండా గర్విష్ఠి కుందేలు ఎదురైంది!\"\n[నిలకడ తాబేలు]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Tortoise suddenly faced Overconfident Hare!\"\n[Tortoise]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Tortoise (నిలకడ తాబేలు) cornered by Overconfident Hare (గర్విష్ఠి కుందేలు) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"నిలకడ తాబేలు గర్విష్ఠి కుందేలు బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[నిలకడ తాబేలు]: \"అయ్యో! గర్విష్ఠి కుందేలు నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Tortoise]: \"Oh no! How can I safely escape from Overconfident Hare?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Tortoise bravely executes the physical trick: While arrogant hare naps under sweet shade, tortoise marches step by step without a pause.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[నిలకడ తాబేలు]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"నిలకడ తాబేలు వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Tortoise]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Tortoise sprang into action and executed the clever plan: While arrogant hare naps under sweet shade, tortoise marches step by step without a pause.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Tortoise and Overconfident Hare in the frame. Tortoise executes the physical trick: While arrogant hare naps under sweet shade, tortoise marches step by step without a pause.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[నిలకడ తాబేలు]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"నిలకడ తాబేలు ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Tortoise]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Tortoise executed the clever plan: While arrogant hare naps under sweet shade, tortoise marches step by step without a pause.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -1703,9 +1706,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Hare wakes up blinking in panic as tortoise taps the finish line tree to roar of crowd.. The threat is outsmarted while Tortoise bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, నిలకడ తాబేలు సురక్షితంగా బయటపడింది! నిద్రపోయిన కుందేలును దాటుకుని తాబేలు ఆగకుండా నడిచి గెలుపు గీతను తాకింది. రేపు: చిట్టి చీమ ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Slow and steady consistency always defeats careless arrogance! Tomorrow: The Ant & The Dove! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Hare wakes up blinking in panic as tortoise taps the finish line tree to roar of crowd.. The threat is outsmarted while Tortoise celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, నిలకడ తాబేలు సురక్షితంగా బయటపడింది! నిద్రపోయిన కుందేలును దాటుకుని తాబేలు ఆగకుండా నడిచి గెలుపు గీతను తాకింది. రేపు: చిట్టి చీమ ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Hare wakes up blinking in panic as tortoise taps the finish line tree to roar of crowd. Slow and steady consistency always defeats careless arrogance! Tomorrow: The Ant & The Dove! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -1740,21 +1743,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Ant (చిట్టి చీమ) cornered by Hunter's Arrow (వేటగాడి బాణం) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో చిట్టి చీమకు అనుకోకుండా వేటగాడి బాణం ఎదురైంది!\"\n[చిట్టి చీమ]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Ant suddenly faced Hunter's Arrow!\"\n[Ant]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Ant (చిట్టి చీమ) cornered by Hunter's Arrow (వేటగాడి బాణం) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"చిట్టి చీమ వేటగాడి బాణం బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[చిట్టి చీమ]: \"అయ్యో! వేటగాడి బాణం నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Ant]: \"Oh no! How can I safely escape from Hunter's Arrow?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Ant bravely executes the physical trick: Dove saved drowning ant with leaf. Later, hunter aims arrow at dove; ant climbs hunter's foot and BITES hard!. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[చిట్టి చీమ]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"చిట్టి చీమ వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Ant]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Ant sprang into action and executed the clever plan: Dove saved drowning ant with leaf. Later, hunter aims arrow at dove; ant climbs hunter's foot and BITES hard!!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Ant and Hunter's Arrow in the frame. Ant executes the physical trick: Dove saved drowning ant with leaf. Later, hunter aims arrow at dove; ant climbs hunter's foot and BITES hard!. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[చిట్టి చీమ]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"చిట్టి చీమ ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Ant]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Ant executed the clever plan: Dove saved drowning ant with leaf. Later, hunter aims arrow at dove; ant climbs hunter's foot and BITES hard!!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -1762,9 +1765,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Hunter yells in pain 'OUCH!', drops bow; dove flies away to safety.. The threat is outsmarted while Ant bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, చిట్టి చీమ సురక్షితంగా బయటపడింది! పావురాన్ని కొట్టబోతున్న వేటగాడి కాలిని చీమ బలంగా కుట్టడంతో బాణం గురితప్పింది. రేపు: చిన్న పిచ్చుక ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! One good turn deserves another in nature's circle! Tomorrow: The Sparrow & The Rogue Elephant! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Hunter yells in pain 'OUCH!', drops bow; dove flies away to safety.. The threat is outsmarted while Ant celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, చిట్టి చీమ సురక్షితంగా బయటపడింది! పావురాన్ని కొట్టబోతున్న వేటగాడి కాలిని చీమ బలంగా కుట్టడంతో బాణం గురితప్పింది. రేపు: చిన్న పిచ్చుక ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Hunter yells in pain 'OUCH!', drops bow; dove flies away to safety. One good turn deserves another in nature's circle! Tomorrow: The Sparrow & The Rogue Elephant! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -1799,21 +1802,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Sparrow (చిన్న పిచ్చుక) cornered by Rogue Tusker (దుష్ట ఏనుగు) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో చిన్న పిచ్చుకకు అనుకోకుండా దుష్ట ఏనుగు ఎదురైంది!\"\n[చిన్న పిచ్చుక]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Sparrow suddenly faced Rogue Tusker!\"\n[Sparrow]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Sparrow (చిన్న పిచ్చుక) cornered by Rogue Tusker (దుష్ట ఏనుగు) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"చిన్న పిచ్చుక దుష్ట ఏనుగు బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[చిన్న పిచ్చుక]: \"అయ్యో! దుష్ట ఏనుగు నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Sparrow]: \"Oh no! How can I safely escape from Rogue Tusker?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Sparrow bravely executes the physical trick: Woodpecker pecks elephant's eyes; flies buzz in ears; frog croaks near cliff edge tricking thirsty blind elephant.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[చిన్న పిచ్చుక]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"చిన్న పిచ్చుక వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Sparrow]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Sparrow sprang into action and executed the clever plan: Woodpecker pecks elephant's eyes; flies buzz in ears; frog croaks near cliff edge tricking thirsty blind elephant.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Sparrow and Rogue Tusker in the frame. Sparrow executes the physical trick: Woodpecker pecks elephant's eyes; flies buzz in ears; frog croaks near cliff edge tricking thirsty blind elephant.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[చిన్న పిచ్చుక]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"చిన్న పిచ్చుక ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Sparrow]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Sparrow executed the clever plan: Woodpecker pecks elephant's eyes; flies buzz in ears; frog croaks near cliff edge tricking thirsty blind elephant.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -1821,9 +1824,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Elephant walks toward croaking sounds, stepping safely into deep soft mud bog, neutralized.. The threat is outsmarted while Sparrow bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, చిన్న పిచ్చుక సురక్షితంగా బయటపడింది! ఈగ, కప్ప, వడ్రంగిపిట్ట సాయంతో ఏనుగును లోయలోకి నడిపించి పిచ్చుక ప్రతీకారం తీర్చుకుంది. రేపు: వడ్రంగి ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! United clever minds topple even the largest bully! Tomorrow: The Monkey & The Wood Wedge! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Elephant walks toward croaking sounds, stepping safely into deep soft mud bog, neutralized.. The threat is outsmarted while Sparrow celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, చిన్న పిచ్చుక సురక్షితంగా బయటపడింది! ఈగ, కప్ప, వడ్రంగిపిట్ట సాయంతో ఏనుగును లోయలోకి నడిపించి పిచ్చుక ప్రతీకారం తీర్చుకుంది. రేపు: వడ్రంగి ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Elephant walks toward croaking sounds, stepping safely into deep soft mud bog, neutralized. United clever minds topple even the largest bully! Tomorrow: The Monkey & The Wood Wedge! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -1858,21 +1861,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Carpenter (వడ్రంగి) cornered by Inquisitive Monkey (దురుసు కోతి) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో వడ్రంగికు అనుకోకుండా దురుసు కోతి ఎదురైంది!\"\n[వడ్రంగి]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Carpenter suddenly faced Inquisitive Monkey!\"\n[Carpenter]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Carpenter (వడ్రంగి) cornered by Inquisitive Monkey (దురుసు కోతి) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"వడ్రంగి దురుసు కోతి బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[వడ్రంగి]: \"అయ్యో! దురుసు కోతి నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Carpenter]: \"Oh no! How can I safely escape from Inquisitive Monkey?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Carpenter bravely executes the physical trick: Silly monkey sits on half-split timber log and pulls out the wooden wedge.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[వడ్రంగి]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"వడ్రంగి వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Carpenter]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Carpenter sprang into action and executed the clever plan: Silly monkey sits on half-split timber log and pulls out the wooden wedge.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Carpenter and Inquisitive Monkey in the frame. Carpenter executes the physical trick: Silly monkey sits on half-split timber log and pulls out the wooden wedge.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[వడ్రంగి]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"వడ్రంగి ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Carpenter]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Carpenter executed the clever plan: Silly monkey sits on half-split timber log and pulls out the wooden wedge.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -1880,9 +1883,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. The split snaps shut like a steel bear trap, pinning monkey's tail; monkey screams in regret.. The threat is outsmarted while Carpenter bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, వడ్రంగి సురక్షితంగా బయటపడింది! కొయ్య దుంగలోని చీలిక కర్రను అనవసరంగా లాగిన కోతి తోక ఇరుక్కుని నానా బాధలు పడింది. రేపు: తెలివైన నక్క ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Mind your own business; meddling in unknown crafts hurts! Tomorrow: The Jackal & The Lion's Feast! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. The split snaps shut like a steel bear trap, pinning monkey's tail; monkey screams in regret.. The threat is outsmarted while Carpenter celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, వడ్రంగి సురక్షితంగా బయటపడింది! కొయ్య దుంగలోని చీలిక కర్రను అనవసరంగా లాగిన కోతి తోక ఇరుక్కుని నానా బాధలు పడింది. రేపు: తెలివైన నక్క ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! The split snaps shut like a steel bear trap, pinning monkey's tail; monkey screams in regret. Mind your own business; meddling in unknown crafts hurts! Tomorrow: The Jackal & The Lion's Feast! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -1917,21 +1920,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Jackal (తెలివైన నక్క) cornered by Fierce Lion (సింహం పంజా) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో తెలివైన నక్కకు అనుకోకుండా సింహం పంజా ఎదురైంది!\"\n[తెలివైన నక్క]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Jackal suddenly faced Fierce Lion!\"\n[Jackal]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Jackal (తెలివైన నక్క) cornered by Fierce Lion (సింహం పంజా) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"తెలివైన నక్క సింహం పంజా బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[తెలివైన నక్క]: \"అయ్యో! సింహం పంజా నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Jackal]: \"Oh no! How can I safely escape from Fierce Lion?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Jackal bravely executes the physical trick: Jackal bows to ground, declaring: 'O King, all the finest antelope meat belongs to your majesty!'. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[తెలివైన నక్క]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"తెలివైన నక్క వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Jackal]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Jackal sprang into action and executed the clever plan: Jackal bows to ground, declaring: 'O King, all the finest antelope meat belongs to your majesty!'!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Jackal and Fierce Lion in the frame. Jackal executes the physical trick: Jackal bows to ground, declaring: 'O King, all the finest antelope meat belongs to your majesty!'. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[తెలివైన నక్క]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"తెలివైన నక్క ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Jackal]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Jackal executed the clever plan: Jackal bows to ground, declaring: 'O King, all the finest antelope meat belongs to your majesty!'!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -1939,9 +1942,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Lion takes choice cuts and happily leaves the rest for clever jackal.. The threat is outsmarted while Jackal bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, తెలివైన నక్క సురక్షితంగా బయటపడింది! సింహానికి గౌరవంగా ఆహారాన్ని సమర్పించి నక్క తన ప్రాణాలను దక్కించుకుంది. రేపు: ముందుచూపు చేప ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Flattery and timely deference keeps your head on your neck! Tomorrow: The Wise Fish & The Drying Pool! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Lion takes choice cuts and happily leaves the rest for clever jackal.. The threat is outsmarted while Jackal celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, తెలివైన నక్క సురక్షితంగా బయటపడింది! సింహానికి గౌరవంగా ఆహారాన్ని సమర్పించి నక్క తన ప్రాణాలను దక్కించుకుంది. రేపు: ముందుచూపు చేప ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Lion takes choice cuts and happily leaves the rest for clever jackal. Flattery and timely deference keeps your head on your neck! Tomorrow: The Wise Fish & The Drying Pool! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -1976,21 +1979,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Fish (ముందుచూపు చేప) cornered by Mud Pool (ఎండిపోతున్న గుంట) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో ముందుచూపు చేపకు అనుకోకుండా ఎండిపోతున్న గుంట ఎదురైంది!\"\n[ముందుచూపు చేప]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Fish suddenly faced Mud Pool!\"\n[Fish]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Fish (ముందుచూపు చేప) cornered by Mud Pool (ఎండిపోతున్న గుంట) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"ముందుచూపు చేప ఎండిపోతున్న గుంట బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[ముందుచూపు చేప]: \"అయ్యో! ఎండిపోతున్న గుంట నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Fish]: \"Oh no! How can I safely escape from Mud Pool?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Fish bravely executes the physical trick: Wise fish notices water level dropping 2 inches; swims through narrow overflow channel into deep river at dawn.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[ముందుచూపు చేప]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"ముందుచూపు చేప వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Fish]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Fish sprang into action and executed the clever plan: Wise fish notices water level dropping 2 inches; swims through narrow overflow channel into deep river at dawn.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Fish and Mud Pool in the frame. Fish executes the physical trick: Wise fish notices water level dropping 2 inches; swims through narrow overflow channel into deep river at dawn.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[ముందుచూపు చేప]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"ముందుచూపు చేప ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Fish]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Fish executed the clever plan: Wise fish notices water level dropping 2 inches; swims through narrow overflow channel into deep river at dawn.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -1998,9 +2001,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Lazy fish wait and get caught in nets; wise fish swims free in vast blue currents.. The threat is outsmarted while Fish bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, ముందుచూపు చేప సురక్షితంగా బయటపడింది! నీళ్లు ఎండిపోయేలోపే కాలువ గుండా నదిలోకి ఈది మొదటి చేప ప్రాణాలు కాపాడుకుంది. రేపు: సమయస్ఫూర్తి చేప ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Anticipate the drought before the fisherman's basket arrives! Tomorrow: The Three Fish! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Lazy fish wait and get caught in nets; wise fish swims free in vast blue currents.. The threat is outsmarted while Fish celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, ముందుచూపు చేప సురక్షితంగా బయటపడింది! నీళ్లు ఎండిపోయేలోపే కాలువ గుండా నదిలోకి ఈది మొదటి చేప ప్రాణాలు కాపాడుకుంది. రేపు: సమయస్ఫూర్తి చేప ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Lazy fish wait and get caught in nets; wise fish swims free in vast blue currents. Anticipate the drought before the fisherman's basket arrives! Tomorrow: The Three Fish! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -2035,21 +2038,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Fish (సమయస్ఫూర్తి చేప) cornered by Fishermen (వేటగాళ్లు) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో సమయస్ఫూర్తి చేపకు అనుకోకుండా వేటగాళ్లు ఎదురైంది!\"\n[సమయస్ఫూర్తి చేప]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Fish suddenly faced Fishermen!\"\n[Fish]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Fish (సమయస్ఫూర్తి చేప) cornered by Fishermen (వేటగాళ్లు) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"సమయస్ఫూర్తి చేప వేటగాళ్లు బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[సమయస్ఫూర్తి చేప]: \"అయ్యో! వేటగాళ్లు నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Fish]: \"Oh no! How can I safely escape from Fishermen?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Fish bravely executes the physical trick: Second fish plays dead, floating belly up with stiff gills. Fisherman tosses 'rotten' fish back into water.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[సమయస్ఫూర్తి చేప]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"సమయస్ఫూర్తి చేప వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Fish]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Fish sprang into action and executed the clever plan: Second fish plays dead, floating belly up with stiff gills. Fisherman tosses 'rotten' fish back into water.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Fish and Fishermen in the frame. Fish executes the physical trick: Second fish plays dead, floating belly up with stiff gills. Fisherman tosses 'rotten' fish back into water.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[సమయస్ఫూర్తి చేప]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"సమయస్ఫూర్తి చేప ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Fish]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Fish executed the clever plan: Second fish plays dead, floating belly up with stiff gills. Fisherman tosses 'rotten' fish back into water.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -2057,9 +2060,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Fish immediately flips fin and dives like a torpedo to safety.. The threat is outsmarted while Fish bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, సమయస్ఫూర్తి చేప సురక్షితంగా బయటపడింది! చనిపోయినట్లు నటిస్తూ వలలోంచి నీటిలోకి జారిపోయి రెండో చేప తప్పించుకుంది. రేపు: ఎండ్రకాయ ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Quick thinking saves where panic or fatalism perishes! Tomorrow: The Crab & The Crane! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Fish immediately flips fin and dives like a torpedo to safety.. The threat is outsmarted while Fish celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, సమయస్ఫూర్తి చేప సురక్షితంగా బయటపడింది! చనిపోయినట్లు నటిస్తూ వలలోంచి నీటిలోకి జారిపోయి రెండో చేప తప్పించుకుంది. రేపు: ఎండ్రకాయ ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Fish immediately flips fin and dives like a torpedo to safety. Quick thinking saves where panic or fatalism perishes! Tomorrow: The Crab & The Crane! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -2094,21 +2097,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Crab (ఎండ్రకాయ) cornered by Old Crane (ముసలి కొంగ) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో ఎండ్రకాయకు అనుకోకుండా ముసలి కొంగ ఎదురైంది!\"\n[ఎండ్రకాయ]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Crab suddenly faced Old Crane!\"\n[Crab]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Crab (ఎండ్రకాయ) cornered by Old Crane (ముసలి కొంగ) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"ఎండ్రకాయ ముసలి కొంగ బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[ఎండ్రకాయ]: \"అయ్యో! ముసలి కొంగ నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Crab]: \"Oh no! How can I safely escape from Old Crane?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Crab bravely executes the physical trick: Crane carries crab over rocky mountain. Crab spots carpet of fish bones; instantly clamps pincers around crane's windpipe.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[ఎండ్రకాయ]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"ఎండ్రకాయ వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Crab]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Crab sprang into action and executed the clever plan: Crane carries crab over rocky mountain. Crab spots carpet of fish bones; instantly clamps pincers around crane's windpipe.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Crab and Old Crane in the frame. Crab executes the physical trick: Crane carries crab over rocky mountain. Crab spots carpet of fish bones; instantly clamps pincers around crane's windpipe.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[ఎండ్రకాయ]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"ఎండ్రకాయ ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Crab]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Crab executed the clever plan: Crane carries crab over rocky mountain. Crab spots carpet of fish bones; instantly clamps pincers around crane's windpipe.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -2116,9 +2119,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Forces crane down to water, diving under mud while crane squawks and retreats.. The threat is outsmarted while Crab bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, ఎండ్రకాయ సురక్షితంగా బయటపడింది! ఎండ్రకాయ కొంగ మెడను పట్టి నొక్కి నీటిలోకి దూకి తన జాతిని కాపాడింది. రేపు: కాకుల జంట ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Never trust an old predator offering free relocation! Tomorrow: The Snake & The Crow's Jewels! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Forces crane down to water, diving under mud while crane squawks and retreats.. The threat is outsmarted while Crab celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, ఎండ్రకాయ సురక్షితంగా బయటపడింది! ఎండ్రకాయ కొంగ మెడను పట్టి నొక్కి నీటిలోకి దూకి తన జాతిని కాపాడింది. రేపు: కాకుల జంట ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Forces crane down to water, diving under mud while crane squawks and retreats. Never trust an old predator offering free relocation! Tomorrow: The Snake & The Crow's Jewels! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -2153,21 +2156,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Crows (కాకుల జంట) cornered by Tree Cobra (చెట్టు తొర్రలోని పాము) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో కాకుల జంటకు అనుకోకుండా చెట్టు తొర్రలోని పాము ఎదురైంది!\"\n[కాకుల జంట]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Crows suddenly faced Tree Cobra!\"\n[Crows]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Crows (కాకుల జంట) cornered by Tree Cobra (చెట్టు తొర్రలోని పాము) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"కాకుల జంట చెట్టు తొర్రలోని పాము బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[కాకుల జంట]: \"అయ్యో! చెట్టు తొర్రలోని పాము నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Crows]: \"Oh no! How can I safely escape from Tree Cobra?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Crows bravely executes the physical trick: Father crow snatches gold armlet from king's open chariot; drops it with loud clatter into snake's den.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[కాకుల జంట]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"కాకుల జంట వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Crows]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Crows sprang into action and executed the clever plan: Father crow snatches gold armlet from king's open chariot; drops it with loud clatter into snake's den.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Crows and Tree Cobra in the frame. Crows executes the physical trick: Father crow snatches gold armlet from king's open chariot; drops it with loud clatter into snake's den.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[కాకుల జంట]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"కాకుల జంట ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Crows]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Crows executed the clever plan: Father crow snatches gold armlet from king's open chariot; drops it with loud clatter into snake's den.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -2175,9 +2178,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Royal soldiers arrive with digging spades, driving the serpent away for good.. The threat is outsmarted while Crows bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, కాకుల జంట సురక్షితంగా బయటపడింది! రాజుగారి మంత్రుల ముందు బంగారు గొలుసును పాము పుట్టలో వేసి పామును అంతం చేయించారు. రేపు: గూఢచారి కాకి ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Power of kings can be weaponized against private bullies! Tomorrow: The Owl & The Crow War! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Royal soldiers arrive with digging spades, driving the serpent away for good.. The threat is outsmarted while Crows celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, కాకుల జంట సురక్షితంగా బయటపడింది! రాజుగారి మంత్రుల ముందు బంగారు గొలుసును పాము పుట్టలో వేసి పామును అంతం చేయించారు. రేపు: గూఢచారి కాకి ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Royal soldiers arrive with digging spades, driving the serpent away for good. Power of kings can be weaponized against private bullies! Tomorrow: The Owl & The Crow War! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -2212,21 +2215,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Crow (గూఢచారి కాకి) cornered by Owl King (గుడ్లగూబల సేన) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో గూఢచారి కాకికు అనుకోకుండా గుడ్లగూబల సేన ఎదురైంది!\"\n[గూఢచారి కాకి]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Crow suddenly faced Owl King!\"\n[Crow]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Crow (గూఢచారి కాకి) cornered by Owl King (గుడ్లగూబల సేన) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"గూఢచారి కాకి గుడ్లగూబల సేన బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[గూఢచారి కాకి]: \"అయ్యో! గుడ్లగూబల సేన నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Crow]: \"Oh no! How can I safely escape from Owl King?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Crow bravely executes the physical trick: Crow feigns being battered by his flock, gains shelter in owl cavern; notes daytime sleep cycle.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[గూఢచారి కాకి]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"గూఢచారి కాకి వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Crow]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Crow sprang into action and executed the clever plan: Crow feigns being battered by his flock, gains shelter in owl cavern; notes daytime sleep cycle.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Crow and Owl King in the frame. Crow executes the physical trick: Crow feigns being battered by his flock, gains shelter in owl cavern; notes daytime sleep cycle.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[గూఢచారి కాకి]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"గూఢచారి కాకి ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Crow]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Crow executed the clever plan: Crow feigns being battered by his flock, gains shelter in owl cavern; notes daytime sleep cycle.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -2234,9 +2237,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Leads crow army at high noon when owls are blind in sun; chases them out of forest.. The threat is outsmarted while Crow bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, గూఢచారి కాకి సురక్షితంగా బయటపడింది! పగటిపూట గుడ్లగూబల స్థావరాన్ని కనుగొని కాకులన్నీ కలిసి విజయం సాధించాయి. రేపు: చిట్టి కుందేలు ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Infiltrate with meekness, strike with illumination! Tomorrow: The Elephant & The Rabbit Moon! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Leads crow army at high noon when owls are blind in sun; chases them out of forest.. The threat is outsmarted while Crow celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, గూఢచారి కాకి సురక్షితంగా బయటపడింది! పగటిపూట గుడ్లగూబల స్థావరాన్ని కనుగొని కాకులన్నీ కలిసి విజయం సాధించాయి. రేపు: చిట్టి కుందేలు ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Leads crow army at high noon when owls are blind in sun; chases them out of forest. Infiltrate with meekness, strike with illumination! Tomorrow: The Elephant & The Rabbit Moon! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -2271,21 +2274,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Rabbit (చిట్టి కుందేలు) cornered by Elephant Herd (మదగజాలు) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో చిట్టి కుందేలుకు అనుకోకుండా మదగజాలు ఎదురైంది!\"\n[చిట్టి కుందేలు]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Rabbit suddenly faced Elephant Herd!\"\n[Rabbit]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Rabbit (చిట్టి కుందేలు) cornered by Elephant Herd (మదగజాలు) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"చిట్టి కుందేలు మదగజాలు బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[చిట్టి కుందేలు]: \"అయ్యో! మదగజాలు నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Rabbit]: \"Oh no! How can I safely escape from Elephant Herd?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Rabbit bravely executes the physical trick: Rabbit positions himself beside still crystal pool, drops twig to ripple moon's face: 'Moon God is trembling!'. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[చిట్టి కుందేలు]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"చిట్టి కుందేలు వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Rabbit]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Rabbit sprang into action and executed the clever plan: Rabbit positions himself beside still crystal pool, drops twig to ripple moon's face: 'Moon God is trembling!'!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Rabbit and Elephant Herd in the frame. Rabbit executes the physical trick: Rabbit positions himself beside still crystal pool, drops twig to ripple moon's face: 'Moon God is trembling!'. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[చిట్టి కుందేలు]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"చిట్టి కుందేలు ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Rabbit]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Rabbit executed the clever plan: Rabbit positions himself beside still crystal pool, drops twig to ripple moon's face: 'Moon God is trembling!'!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -2293,9 +2296,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Elephant bows massive tusks in remorse and commands herd never to step near.. The threat is outsmarted while Rabbit bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, చిట్టి కుందేలు సురక్షితంగా బయటపడింది! చంద్ర సరోవరాన్ని తాకవద్దని కుందేలు హెచ్చరించడంతో ఏనుగులు వెనక్కి తగ్గాయి. రేపు: తెలివైన కోతి ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Create sacred illusions to steer destructive giants! Tomorrow: The Monkey & The Banana Trap! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Elephant bows massive tusks in remorse and commands herd never to step near.. The threat is outsmarted while Rabbit celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, చిట్టి కుందేలు సురక్షితంగా బయటపడింది! చంద్ర సరోవరాన్ని తాకవద్దని కుందేలు హెచ్చరించడంతో ఏనుగులు వెనక్కి తగ్గాయి. రేపు: తెలివైన కోతి ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Elephant bows massive tusks in remorse and commands herd never to step near. Create sacred illusions to steer destructive giants! Tomorrow: The Monkey & The Banana Trap! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -2330,21 +2333,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Monkey (తెలివైన కోతి) cornered by Narrow Jar Trap (ఇరుకైన కూజా బోను) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో తెలివైన కోతికు అనుకోకుండా ఇరుకైన కూజా బోను ఎదురైంది!\"\n[తెలివైన కోతి]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Monkey suddenly faced Narrow Jar Trap!\"\n[Monkey]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Monkey (తెలివైన కోతి) cornered by Narrow Jar Trap (ఇరుకైన కూజా బోను) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"తెలివైన కోతి ఇరుకైన కూజా బోను బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[తెలివైన కోతి]: \"అయ్యో! ఇరుకైన కూజా బోను నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Monkey]: \"Oh no! How can I safely escape from Narrow Jar Trap?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Monkey bravely executes the physical trick: Monkey reaches hand into hollow coconut to grab banana; clenched fist gets stuck. Hunter approaches!. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[తెలివైన కోతి]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"తెలివైన కోతి వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Monkey]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Monkey sprang into action and executed the clever plan: Monkey reaches hand into hollow coconut to grab banana; clenched fist gets stuck. Hunter approaches!!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Monkey and Narrow Jar Trap in the frame. Monkey executes the physical trick: Monkey reaches hand into hollow coconut to grab banana; clenched fist gets stuck. Hunter approaches!. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[తెలివైన కోతి]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"తెలివైన కోతి ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Monkey]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Monkey executed the clever plan: Monkey reaches hand into hollow coconut to grab banana; clenched fist gets stuck. Hunter approaches!!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -2352,9 +2355,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Monkey drops the banana, slips slender flat hand out in a flash, and leaps up into bamboo tree.. The threat is outsmarted while Monkey bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, తెలివైన కోతి సురక్షితంగా బయటపడింది! కూజాలోంచి పిడికిలి విప్పి పండును వదిలేసి కోతి తన చేతిని బయటకు లాక్కుంది. రేపు: ఒంటె ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Letting go of greed is the only key to instant freedom! Tomorrow: The Jackal & The Camel in Sugarcane! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Monkey drops the banana, slips slender flat hand out in a flash, and leaps up into bamboo tree.. The threat is outsmarted while Monkey celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, తెలివైన కోతి సురక్షితంగా బయటపడింది! కూజాలోంచి పిడికిలి విప్పి పండును వదిలేసి కోతి తన చేతిని బయటకు లాక్కుంది. రేపు: ఒంటె ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Monkey drops the banana, slips slender flat hand out in a flash, and leaps up into bamboo tree. Letting go of greed is the only key to instant freedom! Tomorrow: The Jackal & The Camel in Sugarcane! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -2389,21 +2392,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Camel (ఒంటె) cornered by Selfish Jackal (స్వార్థ నక్క) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో ఒంటెకు అనుకోకుండా స్వార్థ నక్క ఎదురైంది!\"\n[ఒంటె]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Camel suddenly faced Selfish Jackal!\"\n[Camel]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Camel (ఒంటె) cornered by Selfish Jackal (స్వార్థ నక్క) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"ఒంటె స్వార్థ నక్క బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[ఒంటె]: \"అయ్యో! స్వార్థ నక్క నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Camel]: \"Oh no! How can I safely escape from Selfish Jackal?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Camel bravely executes the physical trick: Jackal howls in farmer's cane field to get camel beaten. On river return, camel dips deep: 'I love rolling in water!'. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[ఒంటె]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"ఒంటె వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Camel]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Camel sprang into action and executed the clever plan: Jackal howls in farmer's cane field to get camel beaten. On river return, camel dips deep: 'I love rolling in water!'!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Camel and Selfish Jackal in the frame. Camel executes the physical trick: Jackal howls in farmer's cane field to get camel beaten. On river return, camel dips deep: 'I love rolling in water!'. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[ఒంటె]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"ఒంటె ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Camel]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Camel executed the clever plan: Jackal howls in farmer's cane field to get camel beaten. On river return, camel dips deep: 'I love rolling in water!'!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -2411,9 +2414,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Jackal washed off camel's back into shallows, spluttering muddy water.. The threat is outsmarted while Camel bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, ఒంటె సురక్షితంగా బయటపడింది! నక్క పొలంలో కేకలు వేసి రైతులను రప్పించడంతో, ఒంటె నదిలో మునిగి నక్కకు తగిన గుణపాఠం చెప్పింది. రేపు: జింక ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Tit-for-tat justice teaches selfish pranksters a lesson! Tomorrow: The Deer & The Hunter's Net! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Jackal washed off camel's back into shallows, spluttering muddy water.. The threat is outsmarted while Camel celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, ఒంటె సురక్షితంగా బయటపడింది! నక్క పొలంలో కేకలు వేసి రైతులను రప్పించడంతో, ఒంటె నదిలో మునిగి నక్కకు తగిన గుణపాఠం చెప్పింది. రేపు: జింక ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Jackal washed off camel's back into shallows, spluttering muddy water. Tit-for-tat justice teaches selfish pranksters a lesson! Tomorrow: The Deer & The Hunter's Net! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -2448,21 +2451,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Deer (జింక) cornered by Iron Snare (వేటగాడి ఉచ్చు) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో జింకకు అనుకోకుండా వేటగాడి ఉచ్చు ఎదురైంది!\"\n[జింక]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Deer suddenly faced Iron Snare!\"\n[Deer]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Deer (జింక) cornered by Iron Snare (వేటగాడి ఉచ్చు) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"జింక వేటగాడి ఉచ్చు బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[జింక]: \"అయ్యో! వేటగాడి ఉచ్చు నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Deer]: \"Oh no! How can I safely escape from Iron Snare?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Deer bravely executes the physical trick: Turtle distracts hunter, crow spots from air, mouse chews rope strands, deer bolts the second rope snaps.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[జింక]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"జింక వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Deer]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Deer sprang into action and executed the clever plan: Turtle distracts hunter, crow spots from air, mouse chews rope strands, deer bolts the second rope snaps.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Deer and Iron Snare in the frame. Deer executes the physical trick: Turtle distracts hunter, crow spots from air, mouse chews rope strands, deer bolts the second rope snaps.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[జింక]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"జింక ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Deer]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Deer executed the clever plan: Turtle distracts hunter, crow spots from air, mouse chews rope strands, deer bolts the second rope snaps.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -2470,9 +2473,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Hunter left holding empty frayed ropes, scratching his head.. The threat is outsmarted while Deer bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, జింక సురక్షితంగా బయటపడింది! తాబేలు దృష్టి మళ్లించగా, ఎలుక వలను కొరికి, కాకి చూస్తుండగా జింక పారిపోయింది. రేపు: తాబేలు ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Four coordinated friends break any hunter's snare! Tomorrow: The Four Loyal Friends! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Hunter left holding empty frayed ropes, scratching his head.. The threat is outsmarted while Deer celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, జింక సురక్షితంగా బయటపడింది! తాబేలు దృష్టి మళ్లించగా, ఎలుక వలను కొరికి, కాకి చూస్తుండగా జింక పారిపోయింది. రేపు: తాబేలు ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Hunter left holding empty frayed ropes, scratching his head. Four coordinated friends break any hunter's snare! Tomorrow: The Four Loyal Friends! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -2507,21 +2510,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Turtle (తాబేలు) cornered by Greedy Poacher (వేటగాడు) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో తాబేలుకు అనుకోకుండా వేటగాడు ఎదురైంది!\"\n[తాబేలు]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Turtle suddenly faced Greedy Poacher!\"\n[Turtle]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Turtle (తాబేలు) cornered by Greedy Poacher (వేటగాడు) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"తాబేలు వేటగాడు బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[తాబేలు]: \"అయ్యో! వేటగాడు నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Turtle]: \"Oh no! How can I safely escape from Greedy Poacher?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Turtle bravely executes the physical trick: Crow drops leaves, deer plays dead in hunter's path; hunter drops bag containing turtle to chase deer.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[తాబేలు]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"తాబేలు వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Turtle]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Turtle sprang into action and executed the clever plan: Crow drops leaves, deer plays dead in hunter's path; hunter drops bag containing turtle to chase deer.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Turtle and Greedy Poacher in the frame. Turtle executes the physical trick: Crow drops leaves, deer plays dead in hunter's path; hunter drops bag containing turtle to chase deer.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[తాబేలు]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"తాబేలు ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Turtle]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Turtle executed the clever plan: Crow drops leaves, deer plays dead in hunter's path; hunter drops bag containing turtle to chase deer.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -2529,9 +2532,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Mouse chews open turtle bag; all four reunite safely in lotus pond.. The threat is outsmarted while Turtle bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, తాబేలు సురక్షితంగా బయటపడింది! నలుగురు స్నేహితులు ఒకరికొకరు సహాయం చేసుకుంటూ వేటగాడిని ఆటపట్టించారు. రేపు: బలమైన ఎద్దులు ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Unbroken brotherhood conquers all solitary predators! Tomorrow: The Lion & The Three Strong Bulls! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Mouse chews open turtle bag; all four reunite safely in lotus pond.. The threat is outsmarted while Turtle celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, తాబేలు సురక్షితంగా బయటపడింది! నలుగురు స్నేహితులు ఒకరికొకరు సహాయం చేసుకుంటూ వేటగాడిని ఆటపట్టించారు. రేపు: బలమైన ఎద్దులు ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Mouse chews open turtle bag; all four reunite safely in lotus pond. Unbroken brotherhood conquers all solitary predators! Tomorrow: The Lion & The Three Strong Bulls! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -2566,21 +2569,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Bulls (బలమైన ఎద్దులు) cornered by Scheming Lion (కుట్ర సింహం) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో బలమైన ఎద్దులుకు అనుకోకుండా కుట్ర సింహం ఎదురైంది!\"\n[బలమైన ఎద్దులు]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Bulls suddenly faced Scheming Lion!\"\n[Bulls]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Bulls (బలమైన ఎద్దులు) cornered by Scheming Lion (కుట్ర సింహం) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"బలమైన ఎద్దులు కుట్ర సింహం బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[బలమైన ఎద్దులు]: \"అయ్యో! కుట్ర సింహం నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Bulls]: \"Oh no! How can I safely escape from Scheming Lion?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Bulls bravely executes the physical trick: Three bulls stand with horns facing outward in a triangular wall; lion charges and gets poked by sharp horns.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[బలమైన ఎద్దులు]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"బలమైన ఎద్దులు వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Bulls]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Bulls sprang into action and executed the clever plan: Three bulls stand with horns facing outward in a triangular wall; lion charges and gets poked by sharp horns.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Bulls and Scheming Lion in the frame. Bulls executes the physical trick: Three bulls stand with horns facing outward in a triangular wall; lion charges and gets poked by sharp horns.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[బలమైన ఎద్దులు]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"బలమైన ఎద్దులు ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Bulls]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Bulls executed the clever plan: Three bulls stand with horns facing outward in a triangular wall; lion charges and gets poked by sharp horns.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -2588,9 +2591,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Lion retreats nursing bruised nose; bulls graze in peace.. The threat is outsmarted while Bulls bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, బలమైన ఎద్దులు సురక్షితంగా బయటపడింది! కలిసి ఉన్నంత కాలం ఎద్దులను సింహం ఏమీ చేయలేకపోయింది. రేపు: నక్క ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! United you stand invincible; divided by gossip you fall! Tomorrow: The Jackal & The Drum Echo! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Lion retreats nursing bruised nose; bulls graze in peace.. The threat is outsmarted while Bulls celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, బలమైన ఎద్దులు సురక్షితంగా బయటపడింది! కలిసి ఉన్నంత కాలం ఎద్దులను సింహం ఏమీ చేయలేకపోయింది. రేపు: నక్క ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Lion retreats nursing bruised nose; bulls graze in peace. United you stand invincible; divided by gossip you fall! Tomorrow: The Jackal & The Drum Echo! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -2625,21 +2628,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Jackal (నక్క) cornered by Scary Forest Noise (అడవి గర్జన) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో నక్కకు అనుకోకుండా అడవి గర్జన ఎదురైంది!\"\n[నక్క]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Jackal suddenly faced Scary Forest Noise!\"\n[Jackal]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Jackal (నక్క) cornered by Scary Forest Noise (అడవి గర్జన) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"నక్క అడవి గర్జన బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[నక్క]: \"అయ్యో! అడవి గర్జన నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Jackal]: \"Oh no! How can I safely escape from Scary Forest Noise?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Jackal bravely executes the physical trick: Jackal peers beneath camouflage leaves, sees oak twig flapping against taut canvas drum skin.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[నక్క]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"నక్క వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Jackal]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Jackal sprang into action and executed the clever plan: Jackal peers beneath camouflage leaves, sees oak twig flapping against taut canvas drum skin.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Jackal and Scary Forest Noise in the frame. Jackal executes the physical trick: Jackal peers beneath camouflage leaves, sees oak twig flapping against taut canvas drum skin.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[నక్క]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"నక్క ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Jackal]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Jackal executed the clever plan: Jackal peers beneath camouflage leaves, sees oak twig flapping against taut canvas drum skin.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -2647,9 +2650,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Stops trembling, struts over proudly and eats berries in peace.. The threat is outsmarted while Jackal bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, నక్క సురక్షితంగా బయటపడింది! చెట్టు కొమ్మ డ్రమ్మును కొట్టడం చూసి నక్క భయం పోగొట్టుకుంది. రేపు: చిన్న కోతి ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Unmask the mystery; fear only lives in ignorance! Tomorrow: The Monkey & The Heavy Log! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Stops trembling, struts over proudly and eats berries in peace.. The threat is outsmarted while Jackal celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, నక్క సురక్షితంగా బయటపడింది! చెట్టు కొమ్మ డ్రమ్మును కొట్టడం చూసి నక్క భయం పోగొట్టుకుంది. రేపు: చిన్న కోతి ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Stops trembling, struts over proudly and eats berries in peace. Unmask the mystery; fear only lives in ignorance! Tomorrow: The Monkey & The Heavy Log! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -2684,21 +2687,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Monkey (చిన్న కోతి) cornered by Rolling Log (దొర్లే చెక్క దుంగ) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో చిన్న కోతికు అనుకోకుండా దొర్లే చెక్క దుంగ ఎదురైంది!\"\n[చిన్న కోతి]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Monkey suddenly faced Rolling Log!\"\n[Monkey]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Monkey (చిన్న కోతి) cornered by Rolling Log (దొర్లే చెక్క దుంగ) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"చిన్న కోతి దొర్లే చెక్క దుంగ బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[చిన్న కోతి]: \"అయ్యో! దొర్లే చెక్క దుంగ నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Monkey]: \"Oh no! How can I safely escape from Rolling Log?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Monkey bravely executes the physical trick: Monkey notices timber rolling down slope; grabs hanging vine, swinging up just as log crashes below.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[చిన్న కోతి]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"చిన్న కోతి వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Monkey]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Monkey sprang into action and executed the clever plan: Monkey notices timber rolling down slope; grabs hanging vine, swinging up just as log crashes below.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Monkey and Rolling Log in the frame. Monkey executes the physical trick: Monkey notices timber rolling down slope; grabs hanging vine, swinging up just as log crashes below.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[చిన్న కోతి]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"చిన్న కోతి ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Monkey]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Monkey executed the clever plan: Monkey notices timber rolling down slope; grabs hanging vine, swinging up just as log crashes below.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -2706,9 +2709,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Dust clears; monkey munches wild fig high in branches.. The threat is outsmarted while Monkey bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, చిన్న కోతి సురక్షితంగా బయటపడింది! దుంగ దొర్లే మార్గాన్ని గమనించి కోతి చివరి క్షణంలో పక్కకు దూకింది. రేపు: వెండి చేప ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Look at leverage before pulling structural pins! Tomorrow: The Crane & The Silver Fish! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Dust clears; monkey munches wild fig high in branches.. The threat is outsmarted while Monkey celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, చిన్న కోతి సురక్షితంగా బయటపడింది! దుంగ దొర్లే మార్గాన్ని గమనించి కోతి చివరి క్షణంలో పక్కకు దూకింది. రేపు: వెండి చేప ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Dust clears; monkey munches wild fig high in branches. Look at leverage before pulling structural pins! Tomorrow: The Crane & The Silver Fish! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -2743,21 +2746,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Fish (వెండి చేప) cornered by Hungry Crane (ఆకలి కొంగ) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో వెండి చేపకు అనుకోకుండా ఆకలి కొంగ ఎదురైంది!\"\n[వెండి చేప]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Fish suddenly faced Hungry Crane!\"\n[Fish]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Fish (వెండి చేప) cornered by Hungry Crane (ఆకలి కొంగ) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"వెండి చేప ఆకలి కొంగ బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[వెండి చేప]: \"అయ్యో! ఆకలి కొంగ నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Fish]: \"Oh no! How can I safely escape from Hungry Crane?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Fish bravely executes the physical trick: Fish swishes tail in rapid concentric circles, creating refraction waves on water surface.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[వెండి చేప]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"వెండి చేప వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Fish]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Fish sprang into action and executed the clever plan: Fish swishes tail in rapid concentric circles, creating refraction waves on water surface.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Fish and Hungry Crane in the frame. Fish executes the physical trick: Fish swishes tail in rapid concentric circles, creating refraction waves on water surface.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[వెండి చేప]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"వెండి చేప ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Fish]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Fish executed the clever plan: Fish swishes tail in rapid concentric circles, creating refraction waves on water surface.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -2765,9 +2768,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Crane stabs beak blindly at distorted image, hitting muddy riverbed while fish darts away.. The threat is outsmarted while Fish bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, వెండి చేప సురక్షితంగా బయటపడింది! నీటిలో అలలు సృష్టించి కొంగ ముక్కు గురితప్పేలా చేప చేసింది. రేపు: నీలి పక్షి ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Use water ripples to distort the spear-beak's aim! Tomorrow: The Blue Bird's Secret! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Crane stabs beak blindly at distorted image, hitting muddy riverbed while fish darts away.. The threat is outsmarted while Fish celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, వెండి చేప సురక్షితంగా బయటపడింది! నీటిలో అలలు సృష్టించి కొంగ ముక్కు గురితప్పేలా చేప చేసింది. రేపు: నీలి పక్షి ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Crane stabs beak blindly at distorted image, hitting muddy riverbed while fish darts away. Use water ripples to distort the spear-beak's aim! Tomorrow: The Blue Bird's Secret! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -2802,21 +2805,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Bird (నీలి పక్షి) cornered by Envious Crow (ఈర్ష్య కాకి) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో నీలి పక్షికు అనుకోకుండా ఈర్ష్య కాకి ఎదురైంది!\"\n[నీలి పక్షి]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Bird suddenly faced Envious Crow!\"\n[Bird]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Bird (నీలి పక్షి) cornered by Envious Crow (ఈర్ష్య కాకి) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"నీలి పక్షి ఈర్ష్య కాకి బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[నీలి పక్షి]: \"అయ్యో! ఈర్ష్య కాకి నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Bird]: \"Oh no! How can I safely escape from Envious Crow?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Bird bravely executes the physical trick: Crow tapes blue peacock feathers to back; opens beak to sing, letting out ugly screech 'CAW!'.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[నీలి పక్షి]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"నీలి పక్షి వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Bird]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Bird sprang into action and executed the clever plan: Crow tapes blue peacock feathers to back; opens beak to sing, letting out ugly screech 'CAW!'.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Bird and Envious Crow in the frame. Bird executes the physical trick: Crow tapes blue peacock feathers to back; opens beak to sing, letting out ugly screech 'CAW!'.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[నీలి పక్షి]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"నీలి పక్షి ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Bird]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Bird executed the clever plan: Crow tapes blue peacock feathers to back; opens beak to sing, letting out ugly screech 'CAW!'.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -2824,9 +2827,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Peacock feathers fall off; animals laugh as sweet blue bird sings melodies.. The threat is outsmarted while Bird bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, నీలి పక్షి సురక్షితంగా బయటపడింది! నెమలి ఈకలు గుచ్చుకున్న కాకి అరుపు వినగానే అసలు రంగు బయటపడింది. రేపు: చిట్టి ఎలుక ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Natural sweet voice triumphs over stolen colored feathers! Tomorrow: The Elephant Who Forgot! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Peacock feathers fall off; animals laugh as sweet blue bird sings melodies.. The threat is outsmarted while Bird celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, నీలి పక్షి సురక్షితంగా బయటపడింది! నెమలి ఈకలు గుచ్చుకున్న కాకి అరుపు వినగానే అసలు రంగు బయటపడింది. రేపు: చిట్టి ఎలుక ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Peacock feathers fall off; animals laugh as sweet blue bird sings melodies. Natural sweet voice triumphs over stolen colored feathers! Tomorrow: The Elephant Who Forgot! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -2861,21 +2864,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Mouse (చిట్టి ఎలుక) cornered by Stuck Elephant (బురదలో ఏనుగు) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో చిట్టి ఎలుకకు అనుకోకుండా బురదలో ఏనుగు ఎదురైంది!\"\n[చిట్టి ఎలుక]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Mouse suddenly faced Stuck Elephant!\"\n[Mouse]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Mouse (చిట్టి ఎలుక) cornered by Stuck Elephant (బురదలో ఏనుగు) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"చిట్టి ఎలుక బురదలో ఏనుగు బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[చిట్టి ఎలుక]: \"అయ్యో! బురదలో ఏనుగు నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Mouse]: \"Oh no! How can I safely escape from Stuck Elephant?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Mouse bravely executes the physical trick: Mouse brings sweet sugarcane reed, waving it near elephant's trunk while whistling childhood tune.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[చిట్టి ఎలుక]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"చిట్టి ఎలుక వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Mouse]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Mouse sprang into action and executed the clever plan: Mouse brings sweet sugarcane reed, waving it near elephant's trunk while whistling childhood tune.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Mouse and Stuck Elephant in the frame. Mouse executes the physical trick: Mouse brings sweet sugarcane reed, waving it near elephant's trunk while whistling childhood tune.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[చిట్టి ఎలుక]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"చిట్టి ఎలుక ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Mouse]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Mouse executed the clever plan: Mouse brings sweet sugarcane reed, waving it near elephant's trunk while whistling childhood tune.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -2883,9 +2886,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Elephant perks up ears, trumpets with joy, and powers his legs out of the marsh.. The threat is outsmarted while Mouse bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, చిట్టి ఎలుక సురక్షితంగా బయటపడింది! చిన్న ఉపాయంతో ఏనుగుకు పాత జ్ఞాపకం గుర్తుచేసి బురదలోంచి బయటకు రప్పించింది. రేపు: సాదా కాకి ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! A mouse's reminder restores a titan's memory! Tomorrow: The Proud Peacock & The Crane! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Elephant perks up ears, trumpets with joy, and powers his legs out of the marsh.. The threat is outsmarted while Mouse celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, చిట్టి ఎలుక సురక్షితంగా బయటపడింది! చిన్న ఉపాయంతో ఏనుగుకు పాత జ్ఞాపకం గుర్తుచేసి బురదలోంచి బయటకు రప్పించింది. రేపు: సాదా కాకి ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Elephant perks up ears, trumpets with joy, and powers his legs out of the marsh. A mouse's reminder restores a titan's memory! Tomorrow: The Proud Peacock & The Crane! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -2897,7 +2900,7 @@ export const episodes = [
     "leadChar": "Crow",
     "moral": "Feathers attract eyes, but wings must fly during storm!",
     "category": "Friendship & Unity",
-    "batch": "Batch 2 (EP 26–75)",
+    "batch": "Batch 2 (EP 26–50)",
     "status": "Ready",
     "hookEn": "Wait! How did Crow turn this impossible crisis into a clever victory?!",
     "hookTe": "ఆగండి! సాదా కాకి ఇంత పెద్ద సమస్య నుండి తన అద్భుతమైన తెలివితో ఎలా బయటపడిందో తెలుసా?",
@@ -2920,21 +2923,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Crow (సాదా కాకి) cornered by Showy Peacock (గర్వపు నెమలి) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో సాదా కాకికు అనుకోకుండా గర్వపు నెమలి ఎదురైంది!\"\n[సాదా కాకి]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Crow suddenly faced Showy Peacock!\"\n[Crow]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Crow (సాదా కాకి) cornered by Showy Peacock (గర్వపు నెమలి) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"సాదా కాకి గర్వపు నెమలి బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[సాదా కాకి]: \"అయ్యో! గర్వపు నెమలి నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Crow]: \"Oh no! How can I safely escape from Showy Peacock?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Crow bravely executes the physical trick: Sudden rainstorm drenches peacock's heavy tail feathers, pinning him to ground like a soaked sponge.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[సాదా కాకి]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"సాదా కాకి వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Crow]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Crow sprang into action and executed the clever plan: Sudden rainstorm drenches peacock's heavy tail feathers, pinning him to ground like a soaked sponge.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Crow and Showy Peacock in the frame. Crow executes the physical trick: Sudden rainstorm drenches peacock's heavy tail feathers, pinning him to ground like a soaked sponge.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[సాదా కాకి]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"సాదా కాకి ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Crow]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Crow executed the clever plan: Sudden rainstorm drenches peacock's heavy tail feathers, pinning him to ground like a soaked sponge.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -2942,9 +2945,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Humble nimble crow flies easily under wide banyan leaf shelter, sipping rainwater.. The threat is outsmarted while Crow bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, సాదా కాకి సురక్షితంగా బయటపడింది! వర్షం వచ్చినప్పుడు నెమలి తడిసి ముద్దవగా, కాకి చెట్టు కింద సురక్షితంగా తలదాచుకుంది. రేపు: నక్క బావ ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Feathers attract eyes, but wings must fly during storm! Tomorrow: The Fox & The Sour Grapes! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Humble nimble crow flies easily under wide banyan leaf shelter, sipping rainwater.. The threat is outsmarted while Crow celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, సాదా కాకి సురక్షితంగా బయటపడింది! వర్షం వచ్చినప్పుడు నెమలి తడిసి ముద్దవగా, కాకి చెట్టు కింద సురక్షితంగా తలదాచుకుంది. రేపు: నక్క బావ ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Humble nimble crow flies easily under wide banyan leaf shelter, sipping rainwater. Feathers attract eyes, but wings must fly during storm! Tomorrow: The Fox & The Sour Grapes! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -2979,21 +2982,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Fox (నక్క బావ) cornered by High Grape Trellis (ఎత్తైన ద్రాక్ష పందిరి) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో నక్క బావకు అనుకోకుండా ఎత్తైన ద్రాక్ష పందిరి ఎదురైంది!\"\n[నక్క బావ]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Fox suddenly faced High Grape Trellis!\"\n[Fox]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Fox (నక్క బావ) cornered by High Grape Trellis (ఎత్తైన ద్రాక్ష పందిరి) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"నక్క బావ ఎత్తైన ద్రాక్ష పందిరి బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[నక్క బావ]: \"అయ్యో! ఎత్తైన ద్రాక్ష పందిరి నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Fox]: \"Oh no! How can I safely escape from High Grape Trellis?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Fox bravely executes the physical trick: Fox leaps 5 times for juicy purple grapes hanging high on wooden trellis; scrapes chin on pole.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[నక్క బావ]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"నక్క బావ వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Fox]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Fox sprang into action and executed the clever plan: Fox leaps 5 times for juicy purple grapes hanging high on wooden trellis; scrapes chin on pole.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Fox and High Grape Trellis in the frame. Fox executes the physical trick: Fox leaps 5 times for juicy purple grapes hanging high on wooden trellis; scrapes chin on pole.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[నక్క బావ]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"నక్క బావ ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Fox]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Fox executed the clever plan: Fox leaps 5 times for juicy purple grapes hanging high on wooden trellis; scrapes chin on pole.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -3001,9 +3004,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Walks away nose in air sniffing: 'Those grapes are definitely sour anyway!'. The threat is outsmarted while Fox bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, నక్క బావ సురక్షితంగా బయటపడింది! ఎంత ఎగిరినా అందకపోవడంతో 'ద్రాక్ష పండ్లు పుల్లన' అని నక్క సర్దుకుంది. రేపు: బూటకపు కాకి ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Do not belittle what you lack the discipline to attain! Tomorrow: The Crow & The Peacock Feathers! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Walks away nose in air sniffing: 'Those grapes are definitely sour anyway!'. The threat is outsmarted while Fox celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, నక్క బావ సురక్షితంగా బయటపడింది! ఎంత ఎగిరినా అందకపోవడంతో 'ద్రాక్ష పండ్లు పుల్లన' అని నక్క సర్దుకుంది. రేపు: బూటకపు కాకి ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Walks away nose in air sniffing: 'Those grapes are definitely sour anyway!' Do not belittle what you lack the discipline to attain! Tomorrow: The Crow & The Peacock Feathers! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -3038,21 +3041,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Crow (బూటకపు కాకి) cornered by Forest Flock (పక్షుల సభ) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో బూటకపు కాకికు అనుకోకుండా పక్షుల సభ ఎదురైంది!\"\n[బూటకపు కాకి]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Crow suddenly faced Forest Flock!\"\n[Crow]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Crow (బూటకపు కాకి) cornered by Forest Flock (పక్షుల సభ) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"బూటకపు కాకి పక్షుల సభ బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[బూటకపు కాకి]: \"అయ్యో! పక్షుల సభ నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Crow]: \"Oh no! How can I safely escape from Forest Flock?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Crow bravely executes the physical trick: Crow glues dropped peacock plumage to tail; struts into peacock gathering. Wind blows glue dry!. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[బూటకపు కాకి]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"బూటకపు కాకి వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Crow]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Crow sprang into action and executed the clever plan: Crow glues dropped peacock plumage to tail; struts into peacock gathering. Wind blows glue dry!!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Crow and Forest Flock in the frame. Crow executes the physical trick: Crow glues dropped peacock plumage to tail; struts into peacock gathering. Wind blows glue dry!. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[బూటకపు కాకి]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"బూటకపు కాకి ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Crow]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Crow executed the clever plan: Crow glues dropped peacock plumage to tail; struts into peacock gathering. Wind blows glue dry!!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -3060,9 +3063,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Feathers scatter in breeze; crows peck him out of their flock for being fake.. The threat is outsmarted while Crow bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, బూటకపు కాకి సురక్షితంగా బయటపడింది! అరువు తెచ్చుకున్న ఈకలతో నెమలిలా నటించిన కాకి పరువు పోగొట్టుకుంది. రేపు: కుందేలు ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Be proud of your own wings; borrowed glamour always falls! Tomorrow: The Rabbit & The Mango Tree! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Feathers scatter in breeze; crows peck him out of their flock for being fake.. The threat is outsmarted while Crow celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, బూటకపు కాకి సురక్షితంగా బయటపడింది! అరువు తెచ్చుకున్న ఈకలతో నెమలిలా నటించిన కాకి పరువు పోగొట్టుకుంది. రేపు: కుందేలు ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Feathers scatter in breeze; crows peck him out of their flock for being fake. Be proud of your own wings; borrowed glamour always falls! Tomorrow: The Rabbit & The Mango Tree! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -3097,21 +3100,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Rabbit (కుందేలు) cornered by Mischievous Monkey (కొంటె కోతి) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో కుందేలుకు అనుకోకుండా కొంటె కోతి ఎదురైంది!\"\n[కుందేలు]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Rabbit suddenly faced Mischievous Monkey!\"\n[Rabbit]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Rabbit (కుందేలు) cornered by Mischievous Monkey (కొంటె కోతి) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"కుందేలు కొంటె కోతి బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[కుందేలు]: \"అయ్యో! కొంటె కోతి నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Rabbit]: \"Oh no! How can I safely escape from Mischievous Monkey?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Rabbit bravely executes the physical trick: Rabbit trades crisp orange wild carrot for ripe golden mango from monkey on branch.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[కుందేలు]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"కుందేలు వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Rabbit]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Rabbit sprang into action and executed the clever plan: Rabbit trades crisp orange wild carrot for ripe golden mango from monkey on branch.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Rabbit and Mischievous Monkey in the frame. Rabbit executes the physical trick: Rabbit trades crisp orange wild carrot for ripe golden mango from monkey on branch.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[కుందేలు]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"కుందేలు ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Rabbit]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Rabbit executed the clever plan: Rabbit trades crisp orange wild carrot for ripe golden mango from monkey on branch.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -3119,9 +3122,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Both sit side-by-side enjoying forest treats together.. The threat is outsmarted while Rabbit bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, కుందేలు సురక్షితంగా బయటపడింది! తాజా క్యారెట్ ఇచ్చి తియ్యని మామిడి పండును కుందేలు కోతి నుండి పొందింది. రేపు: ఉడుత ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Generous trades build sweet lasting alliances! Tomorrow: The Squirrel & The Elephant! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Both sit side-by-side enjoying forest treats together.. The threat is outsmarted while Rabbit celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, కుందేలు సురక్షితంగా బయటపడింది! తాజా క్యారెట్ ఇచ్చి తియ్యని మామిడి పండును కుందేలు కోతి నుండి పొందింది. రేపు: ఉడుత ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Both sit side-by-side enjoying forest treats together. Generous trades build sweet lasting alliances! Tomorrow: The Squirrel & The Elephant! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -3156,21 +3159,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Squirrel (ఉడుత) cornered by Falling Trees (కూలుతున్న చెట్టు) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో ఉడుతకు అనుకోకుండా కూలుతున్న చెట్టు ఎదురైంది!\"\n[ఉడుత]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Squirrel suddenly faced Falling Trees!\"\n[Squirrel]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Squirrel (ఉడుత) cornered by Falling Trees (కూలుతున్న చెట్టు) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"ఉడుత కూలుతున్న చెట్టు బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[ఉడుత]: \"అయ్యో! కూలుతున్న చెట్టు నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Squirrel]: \"Oh no! How can I safely escape from Falling Trees?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Squirrel bravely executes the physical trick: Tiny squirrel dips in water, rolls in sand, shakes dust into bridge cracks between giant boulders.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[ఉడుత]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"ఉడుత వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Squirrel]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Squirrel sprang into action and executed the clever plan: Tiny squirrel dips in water, rolls in sand, shakes dust into bridge cracks between giant boulders.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Squirrel and Falling Trees in the frame. Squirrel executes the physical trick: Tiny squirrel dips in water, rolls in sand, shakes dust into bridge cracks between giant boulders.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[ఉడుత]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"ఉడుత ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Squirrel]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Squirrel executed the clever plan: Tiny squirrel dips in water, rolls in sand, shakes dust into bridge cracks between giant boulders.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -3178,9 +3181,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Elephant bows tusks in respect at squirrel's grand contribution.. The threat is outsmarted while Squirrel bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, ఉడుత సురక్షితంగా బయటపడింది! రాళ్ల సందుల్లో చిన్న ఇసుక రేణువులు పోసి వంతెనను పటిష్టం చేసిన ఉడుత భక్తి. రేపు: రామచిలుక ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Small persistent stones help bridge great oceans! Tomorrow: The Wise Parrot in the Golden Cage! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Elephant bows tusks in respect at squirrel's grand contribution.. The threat is outsmarted while Squirrel celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, ఉడుత సురక్షితంగా బయటపడింది! రాళ్ల సందుల్లో చిన్న ఇసుక రేణువులు పోసి వంతెనను పటిష్టం చేసిన ఉడుత భక్తి. రేపు: రామచిలుక ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Elephant bows tusks in respect at squirrel's grand contribution. Small persistent stones help bridge great oceans! Tomorrow: The Wise Parrot in the Golden Cage! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -3215,21 +3218,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Parrot (రామచిలుక) cornered by Golden Prison (బంగారు పంజరం) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో రామచిలుకకు అనుకోకుండా బంగారు పంజరం ఎదురైంది!\"\n[రామచిలుక]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Parrot suddenly faced Golden Prison!\"\n[Parrot]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Parrot (రామచిలుక) cornered by Golden Prison (బంగారు పంజరం) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"రామచిలుక బంగారు పంజరం బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[రామచిలుక]: \"అయ్యో! బంగారు పంజరం నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Parrot]: \"Oh no! How can I safely escape from Golden Prison?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Parrot bravely executes the physical trick: Parrot lies motionless on bottom of cage, eyes rolled back with stiff claws. Guard opens door to check.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[రామచిలుక]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"రామచిలుక వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Parrot]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Parrot sprang into action and executed the clever plan: Parrot lies motionless on bottom of cage, eyes rolled back with stiff claws. Guard opens door to check.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Parrot and Golden Prison in the frame. Parrot executes the physical trick: Parrot lies motionless on bottom of cage, eyes rolled back with stiff claws. Guard opens door to check.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[రామచిలుక]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"రామచిలుక ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Parrot]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Parrot executed the clever plan: Parrot lies motionless on bottom of cage, eyes rolled back with stiff claws. Guard opens door to check.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -3237,9 +3240,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Parrot shoots out like a green arrow through window into azure sky.. The threat is outsmarted while Parrot bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, రామచిలుక సురక్షితంగా బయటపడింది! చనిపోయినట్లు నటించి పంజరం తలుపు తీయగానే చిలుక ఆకాశంలోకి ఎగిరిపోయింది. రేపు: నిజాయితీ చిలుక ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Freedom to fly in skies is sweeter than golden bars! Tomorrow: The King & The Truthful Parrot! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Parrot shoots out like a green arrow through window into azure sky.. The threat is outsmarted while Parrot celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, రామచిలుక సురక్షితంగా బయటపడింది! చనిపోయినట్లు నటించి పంజరం తలుపు తీయగానే చిలుక ఆకాశంలోకి ఎగిరిపోయింది. రేపు: నిజాయితీ చిలుక ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Parrot shoots out like a green arrow through window into azure sky. Freedom to fly in skies is sweeter than golden bars! Tomorrow: The King & The Truthful Parrot! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -3274,21 +3277,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Parrot (నిజాయితీ చిలుక) cornered by Flattering Courtiers (కపట మంత్రులు) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో నిజాయితీ చిలుకకు అనుకోకుండా కపట మంత్రులు ఎదురైంది!\"\n[నిజాయితీ చిలుక]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Parrot suddenly faced Flattering Courtiers!\"\n[Parrot]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Parrot (నిజాయితీ చిలుక) cornered by Flattering Courtiers (కపట మంత్రులు) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"నిజాయితీ చిలుక కపట మంత్రులు బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[నిజాయితీ చిలుక]: \"అయ్యో! కపట మంత్రులు నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Parrot]: \"Oh no! How can I safely escape from Flattering Courtiers?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Parrot bravely executes the physical trick: Parrot squawks warning: 'Enemy soldiers hiding in grain wagons at city gate!'. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[నిజాయితీ చిలుక]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"నిజాయితీ చిలుక వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Parrot]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Parrot sprang into action and executed the clever plan: Parrot squawks warning: 'Enemy soldiers hiding in grain wagons at city gate!'!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Parrot and Flattering Courtiers in the frame. Parrot executes the physical trick: Parrot squawks warning: 'Enemy soldiers hiding in grain wagons at city gate!'. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[నిజాయితీ చిలుక]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"నిజాయితీ చిలుక ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Parrot]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Parrot executed the clever plan: Parrot squawks warning: 'Enemy soldiers hiding in grain wagons at city gate!'!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -3296,9 +3299,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. King orders inspection; captures ambush forces and awards parrot golden perch.. The threat is outsmarted while Parrot bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, నిజాయితీ చిలుక సురక్షితంగా బయటపడింది! రాజ్యంలో పొంచి ఉన్న శత్రువుల గురించి రాజుకు చిలుక నిజం చెప్పి కాపాడింది. రేపు: పక్షుల గుంపు ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Truthful counsel protects the kingdom better than flattery! Tomorrow: The Old Tree & The Woodcutters! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. King orders inspection; captures ambush forces and awards parrot golden perch.. The threat is outsmarted while Parrot celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, నిజాయితీ చిలుక సురక్షితంగా బయటపడింది! రాజ్యంలో పొంచి ఉన్న శత్రువుల గురించి రాజుకు చిలుక నిజం చెప్పి కాపాడింది. రేపు: పక్షుల గుంపు ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! King orders inspection; captures ambush forces and awards parrot golden perch. Truthful counsel protects the kingdom better than flattery! Tomorrow: The Old Tree & The Woodcutters! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -3333,21 +3336,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Birds (పక్షుల గుంపు) cornered by Sharp Axes (గొడ్డలితో కూలీలు) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో పక్షుల గుంపుకు అనుకోకుండా గొడ్డలితో కూలీలు ఎదురైంది!\"\n[పక్షుల గుంపు]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Birds suddenly faced Sharp Axes!\"\n[Birds]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Birds (పక్షుల గుంపు) cornered by Sharp Axes (గొడ్డలితో కూలీలు) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"పక్షుల గుంపు గొడ్డలితో కూలీలు బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[పక్షుల గుంపు]: \"అయ్యో! గొడ్డలితో కూలీలు నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Birds]: \"Oh no! How can I safely escape from Sharp Axes?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Birds bravely executes the physical trick: Flock of birds shakes wild bee hive branches; angry bees swarm out buzzing furiously.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[పక్షుల గుంపు]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"పక్షుల గుంపు వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Birds]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Birds sprang into action and executed the clever plan: Flock of birds shakes wild bee hive branches; angry bees swarm out buzzing furiously.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Birds and Sharp Axes in the frame. Birds executes the physical trick: Flock of birds shakes wild bee hive branches; angry bees swarm out buzzing furiously.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[పక్షుల గుంపు]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"పక్షుల గుంపు ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Birds]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Birds executed the clever plan: Flock of birds shakes wild bee hive branches; angry bees swarm out buzzing furiously.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -3355,9 +3358,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Woodcutters drop axes, running screaming into the lake; sacred banyan tree saved.. The threat is outsmarted while Birds bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, పక్షుల గుంపు సురక్షితంగా బయటపడింది! పక్షులన్నీ కలిసి తేనెటీగలను రప్పించి గొడ్డలి పట్టిన వారిని తరిమేశాయి. రేపు: తల్లి పిచ్చుక ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! The home that shelters thousands must be shielded by all! Tomorrow: The Sparrow Family & The Snake! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Woodcutters drop axes, running screaming into the lake; sacred banyan tree saved.. The threat is outsmarted while Birds celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, పక్షుల గుంపు సురక్షితంగా బయటపడింది! పక్షులన్నీ కలిసి తేనెటీగలను రప్పించి గొడ్డలి పట్టిన వారిని తరిమేశాయి. రేపు: తల్లి పిచ్చుక ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Woodcutters drop axes, running screaming into the lake; sacred banyan tree saved. The home that shelters thousands must be shielded by all! Tomorrow: The Sparrow Family & The Snake! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -3392,21 +3395,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Sparrow (తల్లి పిచ్చుక) cornered by Tree Viper (చెట్టు పాము) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో తల్లి పిచ్చుకకు అనుకోకుండా చెట్టు పాము ఎదురైంది!\"\n[తల్లి పిచ్చుక]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Sparrow suddenly faced Tree Viper!\"\n[Sparrow]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Sparrow (తల్లి పిచ్చుక) cornered by Tree Viper (చెట్టు పాము) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"తల్లి పిచ్చుక చెట్టు పాము బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[తల్లి పిచ్చుక]: \"అయ్యో! చెట్టు పాము నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Sparrow]: \"Oh no! How can I safely escape from Tree Viper?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Sparrow bravely executes the physical trick: Mother sparrow weaves prickly acacia thorns across entrance of nest hole.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[తల్లి పిచ్చుక]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"తల్లి పిచ్చుక వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Sparrow]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Sparrow sprang into action and executed the clever plan: Mother sparrow weaves prickly acacia thorns across entrance of nest hole.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Sparrow and Tree Viper in the frame. Sparrow executes the physical trick: Mother sparrow weaves prickly acacia thorns across entrance of nest hole.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[తల్లి పిచ్చుక]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"తల్లి పిచ్చుక ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Sparrow]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Sparrow executed the clever plan: Mother sparrow weaves prickly acacia thorns across entrance of nest hole.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -3414,9 +3417,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Snake tries to push snout in, pricks nose painfully, hisses and retreats down trunk.. The threat is outsmarted while Sparrow bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, తల్లి పిచ్చుక సురక్షితంగా బయటపడింది! ముళ్ల తీగలతో గూడు చుట్టూ రక్షణ గోడ కట్టి పాము రాకుండా పిచ్చుక ఆపింది. రేపు: జింక ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Direct defensive vigilance preserves the family nest! Tomorrow: The Deer & The Water Shadow! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Snake tries to push snout in, pricks nose painfully, hisses and retreats down trunk.. The threat is outsmarted while Sparrow celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, తల్లి పిచ్చుక సురక్షితంగా బయటపడింది! ముళ్ల తీగలతో గూడు చుట్టూ రక్షణ గోడ కట్టి పాము రాకుండా పిచ్చుక ఆపింది. రేపు: జింక ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Snake tries to push snout in, pricks nose painfully, hisses and retreats down trunk. Direct defensive vigilance preserves the family nest! Tomorrow: The Deer & The Water Shadow! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -3451,21 +3454,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Deer (జింక) cornered by Night Hunter (రాత్రి వేటగాడు) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో జింకకు అనుకోకుండా రాత్రి వేటగాడు ఎదురైంది!\"\n[జింక]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Deer suddenly faced Night Hunter!\"\n[Deer]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Deer (జింక) cornered by Night Hunter (రాత్రి వేటగాడు) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"జింక రాత్రి వేటగాడు బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[జింక]: \"అయ్యో! రాత్రి వేటగాడు నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Deer]: \"Oh no! How can I safely escape from Night Hunter?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Deer bravely executes the physical trick: Deer freezes in fear at giant antlered monster on rock wall; realizes full moon casts his own shadow.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[జింక]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"జింక వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Deer]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Deer sprang into action and executed the clever plan: Deer freezes in fear at giant antlered monster on rock wall; realizes full moon casts his own shadow.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Deer and Night Hunter in the frame. Deer executes the physical trick: Deer freezes in fear at giant antlered monster on rock wall; realizes full moon casts his own shadow.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[జింక]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"జింక ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Deer]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Deer executed the clever plan: Deer freezes in fear at giant antlered monster on rock wall; realizes full moon casts his own shadow.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -3473,9 +3476,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Chuckles softly, sips sweet river water under starlight.. The threat is outsmarted while Deer bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, జింక సురక్షితంగా బయటపడింది! నీడను చూసి భయపడకుండా జాగ్రత్తగా గమనించి జింక ముందుకు సాగింది. రేపు: తెలివైన కోతి ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Do not mistake your own shadow for a hunting beast! Tomorrow: The Monkey & The Floating Mangoes! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Chuckles softly, sips sweet river water under starlight.. The threat is outsmarted while Deer celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, జింక సురక్షితంగా బయటపడింది! నీడను చూసి భయపడకుండా జాగ్రత్తగా గమనించి జింక ముందుకు సాగింది. రేపు: తెలివైన కోతి ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Chuckles softly, sips sweet river water under starlight. Do not mistake your own shadow for a hunting beast! Tomorrow: The Monkey & The Floating Mangoes! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -3510,21 +3513,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Monkey (తెలివైన కోతి) cornered by Hungry Snout (ఆకలి మొసలి) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో తెలివైన కోతికు అనుకోకుండా ఆకలి మొసలి ఎదురైంది!\"\n[తెలివైన కోతి]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Monkey suddenly faced Hungry Snout!\"\n[Monkey]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Monkey (తెలివైన కోతి) cornered by Hungry Snout (ఆకలి మొసలి) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"తెలివైన కోతి ఆకలి మొసలి బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[తెలివైన కోతి]: \"అయ్యో! ఆకలి మొసలి నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Monkey]: \"Oh no! How can I safely escape from Hungry Snout?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Monkey bravely executes the physical trick: Monkey tosses hard pebble at 'green mossy log'; log blinks eyes and snaps teeth!. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[తెలివైన కోతి]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"తెలివైన కోతి వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Monkey]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Monkey sprang into action and executed the clever plan: Monkey tosses hard pebble at 'green mossy log'; log blinks eyes and snaps teeth!!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Monkey and Hungry Snout in the frame. Monkey executes the physical trick: Monkey tosses hard pebble at 'green mossy log'; log blinks eyes and snaps teeth!. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[తెలివైన కోతి]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"తెలివైన కోతి ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Monkey]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Monkey executed the clever plan: Monkey tosses hard pebble at 'green mossy log'; log blinks eyes and snaps teeth!!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -3532,9 +3535,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Monkey skips up mango tree: 'Nice try, Mr. Crocodile!'. The threat is outsmarted while Monkey bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, తెలివైన కోతి సురక్షితంగా బయటపడింది! మొసలి వీపును తేలే దుంగ అనుకోకుండా రాయి విసిరి పరీక్షించి కోతి కాపాడుకుంది. రేపు: జిత్తులమారి నక్క ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Never let curiosity pull you onto a floating log in water! Tomorrow: The Fox & The Deep Well! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Monkey skips up mango tree: 'Nice try, Mr. Crocodile!'. The threat is outsmarted while Monkey celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, తెలివైన కోతి సురక్షితంగా బయటపడింది! మొసలి వీపును తేలే దుంగ అనుకోకుండా రాయి విసిరి పరీక్షించి కోతి కాపాడుకుంది. రేపు: జిత్తులమారి నక్క ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Monkey skips up mango tree: 'Nice try, Mr. Crocodile!' Never let curiosity pull you onto a floating log in water! Tomorrow: The Fox & The Deep Well! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -3569,21 +3572,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Fox (జిత్తులమారి నక్క) cornered by Deep Stone Well (లోతైన బావి) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో జిత్తులమారి నక్కకు అనుకోకుండా లోతైన బావి ఎదురైంది!\"\n[జిత్తులమారి నక్క]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Fox suddenly faced Deep Stone Well!\"\n[Fox]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Fox (జిత్తులమారి నక్క) cornered by Deep Stone Well (లోతైన బావి) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"జిత్తులమారి నక్క లోతైన బావి బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[జిత్తులమారి నక్క]: \"అయ్యో! లోతైన బావి నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Fox]: \"Oh no! How can I safely escape from Deep Stone Well?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Fox bravely executes the physical trick: Fox traps goat into well claiming water is honey; leaps onto goat's horns to spring out of rim.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[జిత్తులమారి నక్క]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"జిత్తులమారి నక్క వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Fox]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Fox sprang into action and executed the clever plan: Fox traps goat into well claiming water is honey; leaps onto goat's horns to spring out of rim.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Fox and Deep Stone Well in the frame. Fox executes the physical trick: Fox traps goat into well claiming water is honey; leaps onto goat's horns to spring out of rim.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[జిత్తులమారి నక్క]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"జిత్తులమారి నక్క ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Fox]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Fox executed the clever plan: Fox traps goat into well claiming water is honey; leaps onto goat's horns to spring out of rim.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -3591,9 +3594,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Leaves foolish goat inside, shouting: 'Look before you leap!'. The threat is outsmarted while Fox bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, జిత్తులమారి నక్క సురక్షితంగా బయటపడింది! మేకను బావిలోకి దింపి, దాని కొమ్ములపై కాలేసి నక్క పైకి ఎక్కి పారిపోయింది. రేపు: తెలివైన మేక ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Look at the escape route before jumping into sweet water! Tomorrow: The Goat & The Wolf's Flute! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Leaves foolish goat inside, shouting: 'Look before you leap!'. The threat is outsmarted while Fox celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, జిత్తులమారి నక్క సురక్షితంగా బయటపడింది! మేకను బావిలోకి దింపి, దాని కొమ్ములపై కాలేసి నక్క పైకి ఎక్కి పారిపోయింది. రేపు: తెలివైన మేక ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Leaves foolish goat inside, shouting: 'Look before you leap!' Look at the escape route before jumping into sweet water! Tomorrow: The Goat & The Wolf's Flute! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -3628,21 +3631,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Goat (తెలివైన మేక) cornered by Hungry Wolf (తోడేలు) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో తెలివైన మేకకు అనుకోకుండా తోడేలు ఎదురైంది!\"\n[తెలివైన మేక]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Goat suddenly faced Hungry Wolf!\"\n[Goat]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Goat (తెలివైన మేక) cornered by Hungry Wolf (తోడేలు) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"తెలివైన మేక తోడేలు బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[తెలివైన మేక]: \"అయ్యో! తోడేలు నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Goat]: \"Oh no! How can I safely escape from Hungry Wolf?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Goat bravely executes the physical trick: Goat says: 'Play your flute so I may dance before you eat me!' Wolf puffs cheeks and pipes loud music.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[తెలివైన మేక]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"తెలివైన మేక వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Goat]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Goat sprang into action and executed the clever plan: Goat says: 'Play your flute so I may dance before you eat me!' Wolf puffs cheeks and pipes loud music.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Goat and Hungry Wolf in the frame. Goat executes the physical trick: Goat says: 'Play your flute so I may dance before you eat me!' Wolf puffs cheeks and pipes loud music.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[తెలివైన మేక]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"తెలివైన మేక ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Goat]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Goat executed the clever plan: Goat says: 'Play your flute so I may dance before you eat me!' Wolf puffs cheeks and pipes loud music.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -3650,9 +3653,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Hounds hear flute, charge into clearing; wolf drops flute and bolts in panic.. The threat is outsmarted while Goat bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, తెలివైన మేక సురక్షితంగా బయటపడింది! చివరి కోరికగా వేణువు వాయించమని తోడేలును కోరి కుక్కలను రప్పించింది. రేపు: నమ్మకమైన కుక్క ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Delay the predator with music until rescue arrives! Tomorrow: The Shepherd & The Wolf Alarm! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Hounds hear flute, charge into clearing; wolf drops flute and bolts in panic.. The threat is outsmarted while Goat celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, తెలివైన మేక సురక్షితంగా బయటపడింది! చివరి కోరికగా వేణువు వాయించమని తోడేలును కోరి కుక్కలను రప్పించింది. రేపు: నమ్మకమైన కుక్క ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Hounds hear flute, charge into clearing; wolf drops flute and bolts in panic. Delay the predator with music until rescue arrives! Tomorrow: The Shepherd & The Wolf Alarm! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -3687,21 +3690,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Dog (నమ్మకమైన కుక్క) cornered by False Cries (అబద్ధపు కేకలు) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో నమ్మకమైన కుక్కకు అనుకోకుండా అబద్ధపు కేకలు ఎదురైంది!\"\n[నమ్మకమైన కుక్క]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Dog suddenly faced False Cries!\"\n[Dog]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Dog (నమ్మకమైన కుక్క) cornered by False Cries (అబద్ధపు కేకలు) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"నమ్మకమైన కుక్క అబద్ధపు కేకలు బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[నమ్మకమైన కుక్క]: \"అయ్యో! అబద్ధపు కేకలు నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Dog]: \"Oh no! How can I safely escape from False Cries?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Dog bravely executes the physical trick: Boy shouts 'WOLF!' twice for fun. When grey wolf actually attacks, villagers ignore cries.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[నమ్మకమైన కుక్క]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"నమ్మకమైన కుక్క వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Dog]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Dog sprang into action and executed the clever plan: Boy shouts 'WOLF!' twice for fun. When grey wolf actually attacks, villagers ignore cries.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Dog and False Cries in the frame. Dog executes the physical trick: Boy shouts 'WOLF!' twice for fun. When grey wolf actually attacks, villagers ignore cries.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[నమ్మకమైన కుక్క]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"నమ్మకమైన కుక్క ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Dog]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Dog executed the clever plan: Boy shouts 'WOLF!' twice for fun. When grey wolf actually attacks, villagers ignore cries.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -3709,9 +3712,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Boy climbs birch tree weeping as wolf carries away his wooden staff.. The threat is outsmarted while Dog bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, నమ్మకమైన కుక్క సురక్షితంగా బయటపడింది! అబద్ధాలు చెప్పే కాపరి కేకలను ఎవరూ నమ్మకపోవడంతో గొర్రెలను కోల్పోయాడు. రేపు: మిణుగురు పురుగులు ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Lying destroys your credibility when real wolves arrive! Tomorrow: The Owl & The Dancing Fireflies! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Boy climbs birch tree weeping as wolf carries away his wooden staff.. The threat is outsmarted while Dog celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, నమ్మకమైన కుక్క సురక్షితంగా బయటపడింది! అబద్ధాలు చెప్పే కాపరి కేకలను ఎవరూ నమ్మకపోవడంతో గొర్రెలను కోల్పోయాడు. రేపు: మిణుగురు పురుగులు ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Boy climbs birch tree weeping as wolf carries away his wooden staff. Lying destroys your credibility when real wolves arrive! Tomorrow: The Owl & The Dancing Fireflies! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -3746,21 +3749,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Fireflies (మిణుగురు పురుగులు) cornered by Night Owl (రాత్రి గుడ్లగూబ) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో మిణుగురు పురుగులుకు అనుకోకుండా రాత్రి గుడ్లగూబ ఎదురైంది!\"\n[మిణుగురు పురుగులు]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Fireflies suddenly faced Night Owl!\"\n[Fireflies]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Fireflies (మిణుగురు పురుగులు) cornered by Night Owl (రాత్రి గుడ్లగూబ) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"మిణుగురు పురుగులు రాత్రి గుడ్లగూబ బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[మిణుగురు పురుగులు]: \"అయ్యో! రాత్రి గుడ్లగూబ నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Fireflies]: \"Oh no! How can I safely escape from Night Owl?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Fireflies bravely executes the physical trick: Swarm of 500 fireflies flashes golden glow in unison directly in owl's dilated night pupils.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[మిణుగురు పురుగులు]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"మిణుగురు పురుగులు వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Fireflies]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Fireflies sprang into action and executed the clever plan: Swarm of 500 fireflies flashes golden glow in unison directly in owl's dilated night pupils.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Fireflies and Night Owl in the frame. Fireflies executes the physical trick: Swarm of 500 fireflies flashes golden glow in unison directly in owl's dilated night pupils.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[మిణుగురు పురుగులు]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"మిణుగురు పురుగులు ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Fireflies]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Fireflies executed the clever plan: Swarm of 500 fireflies flashes golden glow in unison directly in owl's dilated night pupils.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -3768,9 +3771,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Owl blinks blinded eyes, swooping off balance into a bramble bush.. The threat is outsmarted while Fireflies bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, మిణుగురు పురుగులు సురక్షితంగా బయటపడింది! వందలాది మిణుగురులు గుమిగూడి కాంతిని సృష్టించి గుడ్లగూబ కళ్లు చెదిరేలా చేశాయి. రేపు: బలమైన ఏనుగు ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Small lights scattered in darkness blind the night-stalker! Tomorrow: The Elephant & The Silk Thread! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Owl blinks blinded eyes, swooping off balance into a bramble bush.. The threat is outsmarted while Fireflies celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, మిణుగురు పురుగులు సురక్షితంగా బయటపడింది! వందలాది మిణుగురులు గుమిగూడి కాంతిని సృష్టించి గుడ్లగూబ కళ్లు చెదిరేలా చేశాయి. రేపు: బలమైన ఏనుగు ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Owl blinks blinded eyes, swooping off balance into a bramble bush. Small lights scattered in darkness blind the night-stalker! Tomorrow: The Elephant & The Silk Thread! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -3805,21 +3808,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Elephant (బలమైన ఏనుగు) cornered by Childhood Rope (చిన్ననాటి సన్నని తాడు) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో బలమైన ఏనుగుకు అనుకోకుండా చిన్ననాటి సన్నని తాడు ఎదురైంది!\"\n[బలమైన ఏనుగు]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Elephant suddenly faced Childhood Rope!\"\n[Elephant]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Elephant (బలమైన ఏనుగు) cornered by Childhood Rope (చిన్ననాటి సన్నని తాడు) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"బలమైన ఏనుగు చిన్ననాటి సన్నని తాడు బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[బలమైన ఏనుగు]: \"అయ్యో! చిన్ననాటి సన్నని తాడు నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Elephant]: \"Oh no! How can I safely escape from Childhood Rope?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Elephant bravely executes the physical trick: Elephant realizes thin rope holds him only because of baby memory; flexes massive leg muscle.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[బలమైన ఏనుగు]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"బలమైన ఏనుగు వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Elephant]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Elephant sprang into action and executed the clever plan: Elephant realizes thin rope holds him only because of baby memory; flexes massive leg muscle.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Elephant and Childhood Rope in the frame. Elephant executes the physical trick: Elephant realizes thin rope holds him only because of baby memory; flexes massive leg muscle.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[బలమైన ఏనుగు]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"బలమైన ఏనుగు ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Elephant]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Elephant executed the clever plan: Elephant realizes thin rope holds him only because of baby memory; flexes massive leg muscle.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -3827,9 +3830,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Rope snaps like thread; elephant roams free in green bamboo meadows.. The threat is outsmarted while Elephant bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, బలమైన ఏనుగు సురక్షితంగా బయటపడింది! సన్నని తాడు తనను ఆపలేదని తెలుసుకున్న ఏనుగు ఒక్క ఉదుటున బంధనాలు తెంచుకుంది. రేపు: చిన్న పిట్ట ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Break the mental chain that held you in babyhood! Tomorrow: The Little Bird & The Forest Storm! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Rope snaps like thread; elephant roams free in green bamboo meadows.. The threat is outsmarted while Elephant celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, బలమైన ఏనుగు సురక్షితంగా బయటపడింది! సన్నని తాడు తనను ఆపలేదని తెలుసుకున్న ఏనుగు ఒక్క ఉదుటున బంధనాలు తెంచుకుంది. రేపు: చిన్న పిట్ట ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Rope snaps like thread; elephant roams free in green bamboo meadows. Break the mental chain that held you in babyhood! Tomorrow: The Little Bird & The Forest Storm! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -3864,21 +3867,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Bird (చిన్న పిట్ట) cornered by Howling Cyclone (భయంకర తుఫాను) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో చిన్న పిట్టకు అనుకోకుండా భయంకర తుఫాను ఎదురైంది!\"\n[చిన్న పిట్ట]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Bird suddenly faced Howling Cyclone!\"\n[Bird]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Bird (చిన్న పిట్ట) cornered by Howling Cyclone (భయంకర తుఫాను) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"చిన్న పిట్ట భయంకర తుఫాను బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[చిన్న పిట్ట]: \"అయ్యో! భయంకర తుఫాను నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Bird]: \"Oh no! How can I safely escape from Howling Cyclone?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Bird bravely executes the physical trick: Weaver bird binds grass knots 10 times around thick supple willow branch.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[చిన్న పిట్ట]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"చిన్న పిట్ట వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Bird]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Bird sprang into action and executed the clever plan: Weaver bird binds grass knots 10 times around thick supple willow branch.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Bird and Howling Cyclone in the frame. Bird executes the physical trick: Weaver bird binds grass knots 10 times around thick supple willow branch.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[చిన్న పిట్ట]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"చిన్న పిట్ట ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Bird]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Bird executed the clever plan: Weaver bird binds grass knots 10 times around thick supple willow branch.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -3886,9 +3889,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Branch sways in gale winds like a cradle, keeping baby chicks warm and dry.. The threat is outsmarted while Bird bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, చిన్న పిట్ట సురక్షితంగా బయటపడింది! గట్టి గడ్డి పోచలతో అల్లిన గూడు తుఫానును తట్టుకుని నిలిచింది. రేపు: చీమలు ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Sturdy woven nests weather the wind where dead leaves tear! Tomorrow: The Ant Colony's Sugar Bridge! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Branch sways in gale winds like a cradle, keeping baby chicks warm and dry.. The threat is outsmarted while Bird celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, చిన్న పిట్ట సురక్షితంగా బయటపడింది! గట్టి గడ్డి పోచలతో అల్లిన గూడు తుఫానును తట్టుకుని నిలిచింది. రేపు: చీమలు ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Branch sways in gale winds like a cradle, keeping baby chicks warm and dry. Sturdy woven nests weather the wind where dead leaves tear! Tomorrow: The Ant Colony's Sugar Bridge! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -3923,21 +3926,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Ants (చీమలు) cornered by Rushing Puddle (నీటి ప్రవాహం) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో చీమలుకు అనుకోకుండా నీటి ప్రవాహం ఎదురైంది!\"\n[చీమలు]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Ants suddenly faced Rushing Puddle!\"\n[Ants]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Ants (చీమలు) cornered by Rushing Puddle (నీటి ప్రవాహం) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"చీమలు నీటి ప్రవాహం బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[చీమలు]: \"అయ్యో! నీటి ప్రవాహం నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Ants]: \"Oh no! How can I safely escape from Rushing Puddle?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Ants bravely executes the physical trick: Worker ants link claws to legs, forming living chain bridge over garden hose puddle.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[చీమలు]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"చీమలు వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Ants]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Ants sprang into action and executed the clever plan: Worker ants link claws to legs, forming living chain bridge over garden hose puddle.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Ants and Rushing Puddle in the frame. Ants executes the physical trick: Worker ants link claws to legs, forming living chain bridge over garden hose puddle.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[చీమలు]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"చీమలు ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Ants]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Ants executed the clever plan: Worker ants link claws to legs, forming living chain bridge over garden hose puddle.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -3945,9 +3948,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Colony carries 50 crystal sugar grains safely across into the queen's chamber.. The threat is outsmarted while Ants bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, చీమలు సురక్షితంగా బయటపడింది! చీమలన్నీ ఒకదానికొకటి పట్టుకుని వంతెనలా మారి ఆహారాన్ని చేరవేశాయి. రేపు: తేనెటీగ ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Living chains of unity cross unbridgeable chasms! Tomorrow: The Honeybee & The Brown Bear! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Colony carries 50 crystal sugar grains safely across into the queen's chamber.. The threat is outsmarted while Ants celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, చీమలు సురక్షితంగా బయటపడింది! చీమలన్నీ ఒకదానికొకటి పట్టుకుని వంతెనలా మారి ఆహారాన్ని చేరవేశాయి. రేపు: తేనెటీగ ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Colony carries 50 crystal sugar grains safely across into the queen's chamber. Living chains of unity cross unbridgeable chasms! Tomorrow: The Honeybee & The Brown Bear! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -3982,21 +3985,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Bee (తేనెటీగ) cornered by Greedy Bear (ఆకలి ఎలుగుబంటి) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో తేనెటీగకు అనుకోకుండా ఆకలి ఎలుగుబంటి ఎదురైంది!\"\n[తేనెటీగ]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Bee suddenly faced Greedy Bear!\"\n[Bee]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Bee (తేనెటీగ) cornered by Greedy Bear (ఆకలి ఎలుగుబంటి) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"తేనెటీగ ఆకలి ఎలుగుబంటి బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[తేనెటీగ]: \"అయ్యో! ఆకలి ఎలుగుబంటి నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Bee]: \"Oh no! How can I safely escape from Greedy Bear?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Bee bravely executes the physical trick: Bees target bear's black wet nose tip—the single spot with no fur armor!. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[తేనెటీగ]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"తేనెటీగ వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Bee]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Bee sprang into action and executed the clever plan: Bees target bear's black wet nose tip—the single spot with no fur armor!!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Bee and Greedy Bear in the frame. Bee executes the physical trick: Bees target bear's black wet nose tip—the single spot with no fur armor!. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[తేనెటీగ]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"తేనెటీగ ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Bee]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Bee executed the clever plan: Bees target bear's black wet nose tip—the single spot with no fur armor!!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -4004,9 +4007,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Bear howls in pain, batting paws at nose, tumbling backward into muddy ditch.. The threat is outsmarted while Bee bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, తేనెటీగ సురక్షితంగా బయటపడింది! ఎలుగుబంటి ముక్కుపై తేనెటీగలన్నీ కలిసి కుట్టడంతో అది పారిపోయింది. రేపు: నక్క ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Defend the hive with concentrated pinpoint courage! Tomorrow: The Fox & The Lost Royal Crown! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Bear howls in pain, batting paws at nose, tumbling backward into muddy ditch.. The threat is outsmarted while Bee celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, తేనెటీగ సురక్షితంగా బయటపడింది! ఎలుగుబంటి ముక్కుపై తేనెటీగలన్నీ కలిసి కుట్టడంతో అది పారిపోయింది. రేపు: నక్క ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Bear howls in pain, batting paws at nose, tumbling backward into muddy ditch. Defend the hive with concentrated pinpoint courage! Tomorrow: The Fox & The Lost Royal Crown! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -4041,21 +4044,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Fox (నక్క) cornered by Animal Parliament (జంతువుల సభ) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో నక్కకు అనుకోకుండా జంతువుల సభ ఎదురైంది!\"\n[నక్క]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Fox suddenly faced Animal Parliament!\"\n[Fox]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Fox (నక్క) cornered by Animal Parliament (జంతువుల సభ) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"నక్క జంతువుల సభ బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[నక్క]: \"అయ్యో! జంతువుల సభ నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Fox]: \"Oh no! How can I safely escape from Animal Parliament?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Fox bravely executes the physical trick: Fox places gold crown on head, demands salute. Wolf tests him with trap problem; fox fails completely.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[నక్క]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"నక్క వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Fox]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Fox sprang into action and executed the clever plan: Fox places gold crown on head, demands salute. Wolf tests him with trap problem; fox fails completely.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Fox and Animal Parliament in the frame. Fox executes the physical trick: Fox places gold crown on head, demands salute. Wolf tests him with trap problem; fox fails completely.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[నక్క]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"నక్క ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Fox]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Fox executed the clever plan: Fox places gold crown on head, demands salute. Wolf tests him with trap problem; fox fails completely.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -4063,9 +4066,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Animals take crown and crown wise old elephant instead.. The threat is outsmarted while Fox bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, నక్క సురక్షితంగా బయటపడింది! కిరీటం పెట్టుకున్నంత మాత్రాన ఎవరూ నాయకుడు కాలేరని నిరూపితమైంది. రేపు: కోతి బావ ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Leadership demands wisdom, not wearing a shiny metal ring! Tomorrow: The Monkey & The Brass Mirror! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Animals take crown and crown wise old elephant instead.. The threat is outsmarted while Fox celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, నక్క సురక్షితంగా బయటపడింది! కిరీటం పెట్టుకున్నంత మాత్రాన ఎవరూ నాయకుడు కాలేరని నిరూపితమైంది. రేపు: కోతి బావ ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Animals take crown and crown wise old elephant instead. Leadership demands wisdom, not wearing a shiny metal ring! Tomorrow: The Monkey & The Brass Mirror! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -4100,21 +4103,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Monkey (కోతి బావ) cornered by Mirror Reflection (ఇత్తడి అద్దం) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో కోతి బావకు అనుకోకుండా ఇత్తడి అద్దం ఎదురైంది!\"\n[కోతి బావ]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Monkey suddenly faced Mirror Reflection!\"\n[Monkey]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Monkey (కోతి బావ) cornered by Mirror Reflection (ఇత్తడి అద్దం) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"కోతి బావ ఇత్తడి అద్దం బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[కోతి బావ]: \"అయ్యో! ఇత్తడి అద్దం నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Monkey]: \"Oh no! How can I safely escape from Mirror Reflection?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Monkey bravely executes the physical trick: Monkey grimaces and bares teeth at brass mirror found in traveler's sack; mirror bared teeth back!. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[కోతి బావ]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"కోతి బావ వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Monkey]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Monkey sprang into action and executed the clever plan: Monkey grimaces and bares teeth at brass mirror found in traveler's sack; mirror bared teeth back!!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Monkey and Mirror Reflection in the frame. Monkey executes the physical trick: Monkey grimaces and bares teeth at brass mirror found in traveler's sack; mirror bared teeth back!. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[కోతి బావ]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"కోతి బావ ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Monkey]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Monkey executed the clever plan: Monkey grimaces and bares teeth at brass mirror found in traveler's sack; mirror bared teeth back!!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -4122,9 +4125,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Monkey taps glass with finger, notices frame, giggles and combs fur neatly.. The threat is outsmarted while Monkey bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, కోతి బావ సురక్షితంగా బయటపడింది! అద్దంలో కనిపిస్తున్నది తన ముఖమేనని తెలుసుకుని కోతి యుద్ధం ఆపింది. రేపు: తాబేలు ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Do not battle the reflection of your own bared teeth! Tomorrow: The Turtle & The Rain Puddle! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Monkey taps glass with finger, notices frame, giggles and combs fur neatly.. The threat is outsmarted while Monkey celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, కోతి బావ సురక్షితంగా బయటపడింది! అద్దంలో కనిపిస్తున్నది తన ముఖమేనని తెలుసుకుని కోతి యుద్ధం ఆపింది. రేపు: తాబేలు ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Monkey taps glass with finger, notices frame, giggles and combs fur neatly. Do not battle the reflection of your own bared teeth! Tomorrow: The Turtle & The Rain Puddle! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -4159,21 +4162,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Turtle (తాబేలు) cornered by Muddy Puddle (వర్షపు గుంట) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో తాబేలుకు అనుకోకుండా వర్షపు గుంట ఎదురైంది!\"\n[తాబేలు]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Turtle suddenly faced Muddy Puddle!\"\n[Turtle]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Turtle (తాబేలు) cornered by Muddy Puddle (వర్షపు గుంట) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"తాబేలు వర్షపు గుంట బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[తాబేలు]: \"అయ్యో! వర్షపు గుంట నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Turtle]: \"Oh no! How can I safely escape from Muddy Puddle?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Turtle bravely executes the physical trick: Hawk dives with talons; turtle pulls head, tail, and four legs inside rock-hard dome shell.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[తాబేలు]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"తాబేలు వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Turtle]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Turtle sprang into action and executed the clever plan: Hawk dives with talons; turtle pulls head, tail, and four legs inside rock-hard dome shell.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Turtle and Muddy Puddle in the frame. Turtle executes the physical trick: Hawk dives with talons; turtle pulls head, tail, and four legs inside rock-hard dome shell.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[తాబేలు]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"తాబేలు ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Turtle]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Turtle executed the clever plan: Hawk dives with talons; turtle pulls head, tail, and four legs inside rock-hard dome shell.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -4181,9 +4184,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Hawk's talons clatter harmlessly on keratin shell; hawk flies away hungry.. The threat is outsmarted while Turtle bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, తాబేలు సురక్షితంగా బయటపడింది! శత్రువు దాడి చేయగానే తాబేలు తన శరీర భావాలను డొప్పలోకి లాక్కుంది. రేపు: తెలుపు కుందేలు ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Home is wherever you carry your own protective shell! Tomorrow: The Rabbit & The Night Owl! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Hawk's talons clatter harmlessly on keratin shell; hawk flies away hungry.. The threat is outsmarted while Turtle celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, తాబేలు సురక్షితంగా బయటపడింది! శత్రువు దాడి చేయగానే తాబేలు తన శరీర భావాలను డొప్పలోకి లాక్కుంది. రేపు: తెలుపు కుందేలు ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Hawk's talons clatter harmlessly on keratin shell; hawk flies away hungry. Home is wherever you carry your own protective shell! Tomorrow: The Rabbit & The Night Owl! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -4218,21 +4221,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Rabbit (తెలుపు కుందేలు) cornered by Silent Wings (గుడ్లగూబ రెక్కలు) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో తెలుపు కుందేలుకు అనుకోకుండా గుడ్లగూబ రెక్కలు ఎదురైంది!\"\n[తెలుపు కుందేలు]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Rabbit suddenly faced Silent Wings!\"\n[Rabbit]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Rabbit (తెలుపు కుందేలు) cornered by Silent Wings (గుడ్లగూబ రెక్కలు) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"తెలుపు కుందేలు గుడ్లగూబ రెక్కలు బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[తెలుపు కుందేలు]: \"అయ్యో! గుడ్లగూబ రెక్కలు నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Rabbit]: \"Oh no! How can I safely escape from Silent Wings?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Rabbit bravely executes the physical trick: Rabbit runs in sharp 90-degree zigzags across meadow, throwing off owl's parabolic glide trajectory.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[తెలుపు కుందేలు]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"తెలుపు కుందేలు వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Rabbit]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Rabbit sprang into action and executed the clever plan: Rabbit runs in sharp 90-degree zigzags across meadow, throwing off owl's parabolic glide trajectory.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Rabbit and Silent Wings in the frame. Rabbit executes the physical trick: Rabbit runs in sharp 90-degree zigzags across meadow, throwing off owl's parabolic glide trajectory.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[తెలుపు కుందేలు]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"తెలుపు కుందేలు ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Rabbit]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Rabbit executed the clever plan: Rabbit runs in sharp 90-degree zigzags across meadow, throwing off owl's parabolic glide trajectory.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -4240,9 +4243,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Owl hits empty ground; rabbit dives under tangled blackberry root.. The threat is outsmarted while Rabbit bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, తెలుపు కుందేలు సురక్షితంగా బయటపడింది! వంకరటింకరగా పరుగెత్తుతూ కుందేలు గుడ్లగూబ బారి నుండి తప్పించుకుంది. రేపు: చిట్టి ఎలుక ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Zigzag evasion beats straight aerodynamic speed! Tomorrow: The Lion's Missing Roar! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Owl hits empty ground; rabbit dives under tangled blackberry root.. The threat is outsmarted while Rabbit celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, తెలుపు కుందేలు సురక్షితంగా బయటపడింది! వంకరటింకరగా పరుగెత్తుతూ కుందేలు గుడ్లగూబ బారి నుండి తప్పించుకుంది. రేపు: చిట్టి ఎలుక ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Owl hits empty ground; rabbit dives under tangled blackberry root. Zigzag evasion beats straight aerodynamic speed! Tomorrow: The Lion's Missing Roar! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -4277,21 +4280,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Mouse (చిట్టి ఎలుక) cornered by Bone Stuck in Throat (గొంతులో ఇరుక్కున్న ఎముక) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో చిట్టి ఎలుకకు అనుకోకుండా గొంతులో ఇరుక్కున్న ఎముక ఎదురైంది!\"\n[చిట్టి ఎలుక]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Mouse suddenly faced Bone Stuck in Throat!\"\n[Mouse]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Mouse (చిట్టి ఎలుక) cornered by Bone Stuck in Throat (గొంతులో ఇరుక్కున్న ఎముక) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"చిట్టి ఎలుక గొంతులో ఇరుక్కున్న ఎముక బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[చిట్టి ఎలుక]: \"అయ్యో! గొంతులో ఇరుక్కున్న ఎముక నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Mouse]: \"Oh no! How can I safely escape from Bone Stuck in Throat?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Mouse bravely executes the physical trick: Lion gags with fish bone lodged in throat. Mouse crawls into open maw with twig tweezers.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[చిట్టి ఎలుక]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"చిట్టి ఎలుక వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Mouse]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Mouse sprang into action and executed the clever plan: Lion gags with fish bone lodged in throat. Mouse crawls into open maw with twig tweezers.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Mouse and Bone Stuck in Throat in the frame. Mouse executes the physical trick: Lion gags with fish bone lodged in throat. Mouse crawls into open maw with twig tweezers.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[చిట్టి ఎలుక]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"చిట్టి ఎలుక ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Mouse]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Mouse executed the clever plan: Lion gags with fish bone lodged in throat. Mouse crawls into open maw with twig tweezers.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -4299,9 +4302,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Pulls bone loose with a snap; lion breathes free and roars in thunderous gratitude.. The threat is outsmarted while Mouse bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, చిట్టి ఎలుక సురక్షితంగా బయటపడింది! సింహం గొంతులో గుచ్చుకున్న ఎముకను ఎలుక బయటకు లాగి ఊరట కలిగించింది. రేపు: తెలివైన కాకి ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Gentle precision fixes what massive claws cannot reach! Tomorrow: The Fox & The Honest Crow! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Pulls bone loose with a snap; lion breathes free and roars in thunderous gratitude.. The threat is outsmarted while Mouse celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, చిట్టి ఎలుక సురక్షితంగా బయటపడింది! సింహం గొంతులో గుచ్చుకున్న ఎముకను ఎలుక బయటకు లాగి ఊరట కలిగించింది. రేపు: తెలివైన కాకి ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Pulls bone loose with a snap; lion breathes free and roars in thunderous gratitude. Gentle precision fixes what massive claws cannot reach! Tomorrow: The Fox & The Honest Crow! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -4336,21 +4339,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Crow (తెలివైన కాకి) cornered by Flattering Fox (పొగిడే నక్క) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో తెలివైన కాకికు అనుకోకుండా పొగిడే నక్క ఎదురైంది!\"\n[తెలివైన కాకి]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Crow suddenly faced Flattering Fox!\"\n[Crow]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Crow (తెలివైన కాకి) cornered by Flattering Fox (పొగిడే నక్క) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"తెలివైన కాకి పొగిడే నక్క బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[తెలివైన కాకి]: \"అయ్యో! పొగిడే నక్క నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Crow]: \"Oh no! How can I safely escape from Flattering Fox?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Crow bravely executes the physical trick: Fox flatters crow: 'Your voice is golden! Sing for me!' Crow steps foot on cheese slice, pinches it tight, and sings 'CAW!'. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[తెలివైన కాకి]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"తెలివైన కాకి వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Crow]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Crow sprang into action and executed the clever plan: Fox flatters crow: 'Your voice is golden! Sing for me!' Crow steps foot on cheese slice, pinches it tight, and sings 'CAW!'!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Crow and Flattering Fox in the frame. Crow executes the physical trick: Fox flatters crow: 'Your voice is golden! Sing for me!' Crow steps foot on cheese slice, pinches it tight, and sings 'CAW!'. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[తెలివైన కాకి]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"తెలివైన కాకి ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Crow]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Crow executed the clever plan: Fox flatters crow: 'Your voice is golden! Sing for me!' Crow steps foot on cheese slice, pinches it tight, and sings 'CAW!'!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -4358,9 +4361,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Cheese stays locked under talons; fox trots away outsmarted.. The threat is outsmarted while Crow bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, తెలివైన కాకి సురక్షితంగా బయటపడింది! నోటి కింద చీజ్ ముక్కను కాలితో తొక్కిపెట్టి కాకి పాడింది, నక్కకు ఏమీ దక్కలేదు. రేపు: జింక ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Sing only when your mouth is empty of food! Tomorrow: The Deer & The Hunter's Golden Bell! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Cheese stays locked under talons; fox trots away outsmarted.. The threat is outsmarted while Crow celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, తెలివైన కాకి సురక్షితంగా బయటపడింది! నోటి కింద చీజ్ ముక్కను కాలితో తొక్కిపెట్టి కాకి పాడింది, నక్కకు ఏమీ దక్కలేదు. రేపు: జింక ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Cheese stays locked under talons; fox trots away outsmarted. Sing only when your mouth is empty of food! Tomorrow: The Deer & The Hunter's Golden Bell! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -4372,7 +4375,7 @@ export const episodes = [
     "leadChar": "Deer",
     "moral": "Sweet music often conceals the cold iron wire trap!",
     "category": "Friendship & Unity",
-    "batch": "Batch 3 (EP 51–100)",
+    "batch": "Batch 3 (EP 51–75)",
     "status": "Ready",
     "hookEn": "Wait! How did Deer turn this impossible crisis into a clever victory?!",
     "hookTe": "ఆగండి! జింక ఇంత పెద్ద సమస్య నుండి తన అద్భుతమైన తెలివితో ఎలా బయటపడిందో తెలుసా?",
@@ -4395,21 +4398,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Deer (జింక) cornered by Tinkling Snare (గంట ఉచ్చు) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో జింకకు అనుకోకుండా గంట ఉచ్చు ఎదురైంది!\"\n[జింక]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Deer suddenly faced Tinkling Snare!\"\n[Deer]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Deer (జింక) cornered by Tinkling Snare (గంట ఉచ్చు) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"జింక గంట ఉచ్చు బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[జింక]: \"అయ్యో! గంట ఉచ్చు నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Deer]: \"Oh no! How can I safely escape from Tinkling Snare?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Deer bravely executes the physical trick: Hunter ties jingling bell to snare wire. Sparrow chirps alarm, dropping pinecone onto wire.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[జింక]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"జింక వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Deer]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Deer sprang into action and executed the clever plan: Hunter ties jingling bell to snare wire. Sparrow chirps alarm, dropping pinecone onto wire.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Deer and Tinkling Snare in the frame. Deer executes the physical trick: Hunter ties jingling bell to snare wire. Sparrow chirps alarm, dropping pinecone onto wire.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[జింక]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"జింక ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Deer]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Deer executed the clever plan: Hunter ties jingling bell to snare wire. Sparrow chirps alarm, dropping pinecone onto wire.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -4417,9 +4420,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Snare snaps shut on pinecone with loud clang; deer leaps away safely.. The threat is outsmarted while Deer bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, జింక సురక్షితంగా బయటపడింది! గంట చప్పుడు వెనుక ఉన్న వేటగాడి ఉచ్చును పక్షులు హెచ్చరించడంతో జింక తప్పించుకుంది. రేపు: కోతి ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Sweet music often conceals the cold iron wire trap! Tomorrow: The Monkey & The Bamboo Bridge! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Snare snaps shut on pinecone with loud clang; deer leaps away safely.. The threat is outsmarted while Deer celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, జింక సురక్షితంగా బయటపడింది! గంట చప్పుడు వెనుక ఉన్న వేటగాడి ఉచ్చును పక్షులు హెచ్చరించడంతో జింక తప్పించుకుంది. రేపు: కోతి ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Snare snaps shut on pinecone with loud clang; deer leaps away safely. Sweet music often conceals the cold iron wire trap! Tomorrow: The Monkey & The Bamboo Bridge! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -4454,21 +4457,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Monkey (కోతి) cornered by Rushing River (ఉధృత నది) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో కోతికు అనుకోకుండా ఉధృత నది ఎదురైంది!\"\n[కోతి]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Monkey suddenly faced Rushing River!\"\n[Monkey]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Monkey (కోతి) cornered by Rushing River (ఉధృత నది) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"కోతి ఉధృత నది బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[కోతి]: \"అయ్యో! ఉధృత నది నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Monkey]: \"Oh no! How can I safely escape from Rushing River?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Monkey bravely executes the physical trick: Monkey shakes bamboo stalk; hears crack. Tests braided forest liana vine instead—holds firm!. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[కోతి]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"కోతి వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Monkey]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Monkey sprang into action and executed the clever plan: Monkey shakes bamboo stalk; hears crack. Tests braided forest liana vine instead—holds firm!!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Monkey and Rushing River in the frame. Monkey executes the physical trick: Monkey shakes bamboo stalk; hears crack. Tests braided forest liana vine instead—holds firm!. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[కోతి]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"కోతి ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Monkey]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Monkey executed the clever plan: Monkey shakes bamboo stalk; hears crack. Tests braided forest liana vine instead—holds firm!!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -4476,9 +4479,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Swings gracefully over roaring white water to the berry grove.. The threat is outsmarted while Monkey bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, కోతి సురక్షితంగా బయటపడింది! బలహీనమైన వెదురు బొంగును పరిశీలించి పక్కనున్న బలమైన తీగను కోతి ఎంచుకుంది. రేపు: ఏనుగు ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Test the foundation before swinging across the chasm! Tomorrow: The Elephant & The Fallen Bridge! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Swings gracefully over roaring white water to the berry grove.. The threat is outsmarted while Monkey celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, కోతి సురక్షితంగా బయటపడింది! బలహీనమైన వెదురు బొంగును పరిశీలించి పక్కనున్న బలమైన తీగను కోతి ఎంచుకుంది. రేపు: ఏనుగు ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Swings gracefully over roaring white water to the berry grove. Test the foundation before swinging across the chasm! Tomorrow: The Elephant & The Fallen Bridge! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -4513,21 +4516,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Elephant (ఏనుగు) cornered by Broken Timber (విరిగిన చెక్క వంతెన) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో ఏనుగుకు అనుకోకుండా విరిగిన చెక్క వంతెన ఎదురైంది!\"\n[ఏనుగు]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Elephant suddenly faced Broken Timber!\"\n[Elephant]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Elephant (ఏనుగు) cornered by Broken Timber (విరిగిన చెక్క వంతెన) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"ఏనుగు విరిగిన చెక్క వంతెన బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[ఏనుగు]: \"అయ్యో! విరిగిన చెక్క వంతెన నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Elephant]: \"Oh no! How can I safely escape from Broken Timber?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Elephant bravely executes the physical trick: Elephant tests bridge with one foot; wood groans. Elephant strides directly into shallow riverbed.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[ఏనుగు]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"ఏనుగు వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Elephant]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Elephant sprang into action and executed the clever plan: Elephant tests bridge with one foot; wood groans. Elephant strides directly into shallow riverbed.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Elephant and Broken Timber in the frame. Elephant executes the physical trick: Elephant tests bridge with one foot; wood groans. Elephant strides directly into shallow riverbed.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[ఏనుగు]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"ఏనుగు ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Elephant]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Elephant executed the clever plan: Elephant tests bridge with one foot; wood groans. Elephant strides directly into shallow riverbed.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -4535,9 +4538,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Crosses through water safely, carrying baby animals on shoulders.. The threat is outsmarted while Elephant bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, ఏనుగు సురక్షితంగా బయటపడింది! వంతెన బరువు ఆపలేదని తెలుసుకుని ఏనుగు నదిలో నడిచి ఒడ్డుకు చేరింది. రేపు: చిట్టి ఎలుక ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Massive weight must walk the riverbed, not fragile planks! Tomorrow: The Little Mouse's Golden Key! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Crosses through water safely, carrying baby animals on shoulders.. The threat is outsmarted while Elephant celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, ఏనుగు సురక్షితంగా బయటపడింది! వంతెన బరువు ఆపలేదని తెలుసుకుని ఏనుగు నదిలో నడిచి ఒడ్డుకు చేరింది. రేపు: చిట్టి ఎలుక ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Crosses through water safely, carrying baby animals on shoulders. Massive weight must walk the riverbed, not fragile planks! Tomorrow: The Little Mouse's Golden Key! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -4572,21 +4575,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Mouse (చిట్టి ఎలుక) cornered by Locked Iron Cage (ఇనుప బోను) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో చిట్టి ఎలుకకు అనుకోకుండా ఇనుప బోను ఎదురైంది!\"\n[చిట్టి ఎలుక]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Mouse suddenly faced Locked Iron Cage!\"\n[Mouse]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Mouse (చిట్టి ఎలుక) cornered by Locked Iron Cage (ఇనుప బోను) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"చిట్టి ఎలుక ఇనుప బోను బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[చిట్టి ఎలుక]: \"అయ్యో! ఇనుప బోను నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Mouse]: \"Oh no! How can I safely escape from Locked Iron Cage?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Mouse bravely executes the physical trick: Mouse pushes rusted pebble out of gate latch using slender twig, allowing latch to drop.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[చిట్టి ఎలుక]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"చిట్టి ఎలుక వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Mouse]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Mouse sprang into action and executed the clever plan: Mouse pushes rusted pebble out of gate latch using slender twig, allowing latch to drop.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Mouse and Locked Iron Cage in the frame. Mouse executes the physical trick: Mouse pushes rusted pebble out of gate latch using slender twig, allowing latch to drop.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[చిట్టి ఎలుక]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"చిట్టి ఎలుక ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Mouse]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Mouse executed the clever plan: Mouse pushes rusted pebble out of gate latch using slender twig, allowing latch to drop.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -4594,9 +4597,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Heavy cage door swings open; lion steps out into moonlight.. The threat is outsmarted while Mouse bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, చిట్టి ఎలుక సురక్షితంగా బయటపడింది! తాళం చెవి రంధ్రంలో ఉన్న కర్ర ముక్కను తొలగించి సింహాన్ని ఎలుక కాపాడింది. రేపు: కాకి ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Patience and small levers open the heaviest palace locks! Tomorrow: The Crow's Sturdy Clay Nest! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Heavy cage door swings open; lion steps out into moonlight.. The threat is outsmarted while Mouse celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, చిట్టి ఎలుక సురక్షితంగా బయటపడింది! తాళం చెవి రంధ్రంలో ఉన్న కర్ర ముక్కను తొలగించి సింహాన్ని ఎలుక కాపాడింది. రేపు: కాకి ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Heavy cage door swings open; lion steps out into moonlight. Patience and small levers open the heaviest palace locks! Tomorrow: The Crow's Sturdy Clay Nest! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -4631,21 +4634,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Crow (కాకి) cornered by Winter Hailstorm (వడగళ్ల వాన) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో కాకికు అనుకోకుండా వడగళ్ల వాన ఎదురైంది!\"\n[కాకి]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Crow suddenly faced Winter Hailstorm!\"\n[Crow]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Crow (కాకి) cornered by Winter Hailstorm (వడగళ్ల వాన) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"కాకి వడగళ్ల వాన బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[కాకి]: \"అయ్యో! వడగళ్ల వాన నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Crow]: \"Oh no! How can I safely escape from Winter Hailstorm?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Crow bravely executes the physical trick: Crow plasters river clay into twigs, drying into solid mortar brick home.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[కాకి]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"కాకి వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Crow]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Crow sprang into action and executed the clever plan: Crow plasters river clay into twigs, drying into solid mortar brick home.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Crow and Winter Hailstorm in the frame. Crow executes the physical trick: Crow plasters river clay into twigs, drying into solid mortar brick home.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[కాకి]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"కాకి ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Crow]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Crow executed the clever plan: Crow plasters river clay into twigs, drying into solid mortar brick home.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -4653,9 +4656,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Hailstones bounce off hard dome; baby chicks chirp warm inside.. The threat is outsmarted while Crow bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, కాకి సురక్షితంగా బయటపడింది! మట్టి, ఎండు గడ్డితో పటిష్టంగా గూడు కట్టి పిల్లలను కాకి కాపాడుకుంది. రేపు: కుందేలు ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Build with clay and fiber; flimsy leaves blow in the gale! Tomorrow: The Fox & The Three Secret Burrows! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Hailstones bounce off hard dome; baby chicks chirp warm inside.. The threat is outsmarted while Crow celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, కాకి సురక్షితంగా బయటపడింది! మట్టి, ఎండు గడ్డితో పటిష్టంగా గూడు కట్టి పిల్లలను కాకి కాపాడుకుంది. రేపు: కుందేలు ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Hailstones bounce off hard dome; baby chicks chirp warm inside. Build with clay and fiber; flimsy leaves blow in the gale! Tomorrow: The Fox & The Three Secret Burrows! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -4690,21 +4693,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Rabbit (కుందేలు) cornered by Excavating Fox (తవ్వుతున్న నక్క) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో కుందేలుకు అనుకోకుండా తవ్వుతున్న నక్క ఎదురైంది!\"\n[కుందేలు]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Rabbit suddenly faced Excavating Fox!\"\n[Rabbit]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Rabbit (కుందేలు) cornered by Excavating Fox (తవ్వుతున్న నక్క) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"కుందేలు తవ్వుతున్న నక్క బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[కుందేలు]: \"అయ్యో! తవ్వుతున్న నక్క నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Rabbit]: \"Oh no! How can I safely escape from Excavating Fox?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Rabbit bravely executes the physical trick: Fox digs frantically at burrow front. Rabbit scurries out through hidden back escape chute behind blackberry bushes.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[కుందేలు]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"కుందేలు వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Rabbit]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Rabbit sprang into action and executed the clever plan: Fox digs frantically at burrow front. Rabbit scurries out through hidden back escape chute behind blackberry bushes.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Rabbit and Excavating Fox in the frame. Rabbit executes the physical trick: Fox digs frantically at burrow front. Rabbit scurries out through hidden back escape chute behind blackberry bushes.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[కుందేలు]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"కుందేలు ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Rabbit]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Rabbit executed the clever plan: Fox digs frantically at burrow front. Rabbit scurries out through hidden back escape chute behind blackberry bushes.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -4712,9 +4715,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Rabbit watches from hill as fox exhausts himself digging empty dirt.. The threat is outsmarted while Rabbit bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, కుందేలు సురక్షితంగా బయటపడింది! నక్క ఒక వైపు తవ్వుతుండగా, కుందేలు రహస్య దారి గుండా బయటకు వచ్చేసింది. రేపు: రామచిలుక ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Always keep an emergency rear exit in your fortress! Tomorrow: The Parakeet & The Open Window! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Rabbit watches from hill as fox exhausts himself digging empty dirt.. The threat is outsmarted while Rabbit celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, కుందేలు సురక్షితంగా బయటపడింది! నక్క ఒక వైపు తవ్వుతుండగా, కుందేలు రహస్య దారి గుండా బయటకు వచ్చేసింది. రేపు: రామచిలుక ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Rabbit watches from hill as fox exhausts himself digging empty dirt. Always keep an emergency rear exit in your fortress! Tomorrow: The Parakeet & The Open Window! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -4749,21 +4752,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Parrot (రామచిలుక) cornered by Cozy Hearth (వెచ్చని ఇల్లు) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో రామచిలుకకు అనుకోకుండా వెచ్చని ఇల్లు ఎదురైంది!\"\n[రామచిలుక]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Parrot suddenly faced Cozy Hearth!\"\n[Parrot]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Parrot (రామచిలుక) cornered by Cozy Hearth (వెచ్చని ఇల్లు) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"రామచిలుక వెచ్చని ఇల్లు బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[రామచిలుక]: \"అయ్యో! వెచ్చని ఇల్లు నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Parrot]: \"Oh no! How can I safely escape from Cozy Hearth?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Parrot bravely executes the physical trick: Injured parakeet nursed by kind child; perches on sill, chirps sweet song of thanks, then spreads wings into sunrise.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[రామచిలుక]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"రామచిలుక వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Parrot]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Parrot sprang into action and executed the clever plan: Injured parakeet nursed by kind child; perches on sill, chirps sweet song of thanks, then spreads wings into sunrise.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Parrot and Cozy Hearth in the frame. Parrot executes the physical trick: Injured parakeet nursed by kind child; perches on sill, chirps sweet song of thanks, then spreads wings into sunrise.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[రామచిలుక]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"రామచిలుక ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Parrot]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Parrot executed the clever plan: Injured parakeet nursed by kind child; perches on sill, chirps sweet song of thanks, then spreads wings into sunrise.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -4771,9 +4774,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Child waves smiling; bird visits garden tree every morning.. The threat is outsmarted while Parrot bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, రామచిలుక సురక్షితంగా బయటపడింది! రెక్కలు బాగైన తర్వాత కృతజ్ఞత తెలిపి పక్షి ఆకాశంలోకి ఎగిరిపోయింది. రేపు: జింక ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Gratitude returns loyalty, but freedom is nature's birthright! Tomorrow: The Deer & The Orchard Trap! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Child waves smiling; bird visits garden tree every morning.. The threat is outsmarted while Parrot celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, రామచిలుక సురక్షితంగా బయటపడింది! రెక్కలు బాగైన తర్వాత కృతజ్ఞత తెలిపి పక్షి ఆకాశంలోకి ఎగిరిపోయింది. రేపు: జింక ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Child waves smiling; bird visits garden tree every morning. Gratitude returns loyalty, but freedom is nature's birthright! Tomorrow: The Deer & The Orchard Trap! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -4808,21 +4811,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Deer (జింక) cornered by Farmer's Trench (రైతు కందకం) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో జింకకు అనుకోకుండా రైతు కందకం ఎదురైంది!\"\n[జింక]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Deer suddenly faced Farmer's Trench!\"\n[Deer]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Deer (జింక) cornered by Farmer's Trench (రైతు కందకం) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"జింక రైతు కందకం బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[జింక]: \"అయ్యో! రైతు కందకం నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Deer]: \"Oh no! How can I safely escape from Farmer's Trench?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Deer bravely executes the physical trick: Monkey chatters warning from treetop: 'Trench ahead!' Deer vaults high over hidden pitfall trench.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[జింక]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"జింక వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Deer]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Deer sprang into action and executed the clever plan: Monkey chatters warning from treetop: 'Trench ahead!' Deer vaults high over hidden pitfall trench.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Deer and Farmer's Trench in the frame. Deer executes the physical trick: Monkey chatters warning from treetop: 'Trench ahead!' Deer vaults high over hidden pitfall trench.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[జింక]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"జింక ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Deer]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Deer executed the clever plan: Monkey chatters warning from treetop: 'Trench ahead!' Deer vaults high over hidden pitfall trench.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -4830,9 +4833,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Farmer's net traps empty dirt; deer grazes safely in meadow.. The threat is outsmarted while Deer bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, జింక సురక్షితంగా బయటపడింది! కోతి ఇచ్చిన సంకేతాన్ని బట్టి గుంటను దాటి జింక పరుగెత్తింది. రేపు: తాబేలు ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Look at the perimeter ditch before munching sweet clover! Tomorrow: The Wise Turtle's Secret Path! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Farmer's net traps empty dirt; deer grazes safely in meadow.. The threat is outsmarted while Deer celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, జింక సురక్షితంగా బయటపడింది! కోతి ఇచ్చిన సంకేతాన్ని బట్టి గుంటను దాటి జింక పరుగెత్తింది. రేపు: తాబేలు ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Farmer's net traps empty dirt; deer grazes safely in meadow. Look at the perimeter ditch before munching sweet clover! Tomorrow: The Wise Turtle's Secret Path! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -4867,21 +4870,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Turtle (తాబేలు) cornered by Thorny Thicket (ముళ్ల కంచె) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో తాబేలుకు అనుకోకుండా ముళ్ల కంచె ఎదురైంది!\"\n[తాబేలు]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Turtle suddenly faced Thorny Thicket!\"\n[Turtle]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Turtle (తాబేలు) cornered by Thorny Thicket (ముళ్ల కంచె) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"తాబేలు ముళ్ల కంచె బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[తాబేలు]: \"అయ్యో! ముళ్ల కంచె నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Turtle]: \"Oh no! How can I safely escape from Thorny Thicket?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Turtle bravely executes the physical trick: Hare races around huge briar thicket. Turtle slides down wet canal chute, floating straight to destination.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[తాబేలు]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"తాబేలు వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Turtle]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Turtle sprang into action and executed the clever plan: Hare races around huge briar thicket. Turtle slides down wet canal chute, floating straight to destination.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Turtle and Thorny Thicket in the frame. Turtle executes the physical trick: Hare races around huge briar thicket. Turtle slides down wet canal chute, floating straight to destination.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[తాబేలు]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"తాబేలు ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Turtle]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Turtle executed the clever plan: Hare races around huge briar thicket. Turtle slides down wet canal chute, floating straight to destination.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -4889,9 +4892,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Arrives smiling while hare picks stickers out of his ears.. The threat is outsmarted while Turtle bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, తాబేలు సురక్షితంగా బయటపడింది! ముళ్ల దారి కాకుండా నీటి కాలువ గుండా వెళ్లి తాబేలు గమ్యాన్ని చేరింది. రేపు: సింహం ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Direct paths through mud avoid high dry briar mazes! Tomorrow: The Lion & The Singing Nightingales! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Arrives smiling while hare picks stickers out of his ears.. The threat is outsmarted while Turtle celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, తాబేలు సురక్షితంగా బయటపడింది! ముళ్ల దారి కాకుండా నీటి కాలువ గుండా వెళ్లి తాబేలు గమ్యాన్ని చేరింది. రేపు: సింహం ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Arrives smiling while hare picks stickers out of his ears. Direct paths through mud avoid high dry briar mazes! Tomorrow: The Lion & The Singing Nightingales! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -4926,21 +4929,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Lion (సింహం) cornered by Forest Wildfire (దావాగ్ని) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో సింహంకు అనుకోకుండా దావాగ్ని ఎదురైంది!\"\n[సింహం]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Lion suddenly faced Forest Wildfire!\"\n[Lion]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Lion (సింహం) cornered by Forest Wildfire (దావాగ్ని) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"సింహం దావాగ్ని బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[సింహం]: \"అయ్యో! దావాగ్ని నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Lion]: \"Oh no! How can I safely escape from Forest Wildfire?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Lion bravely executes the physical trick: Nightingales burst into panicked flight chirping danger. Lion sniffs wind, spots rising smoke, retreats to river rock barrier.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[సింహం]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"సింహం వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Lion]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Lion sprang into action and executed the clever plan: Nightingales burst into panicked flight chirping danger. Lion sniffs wind, spots rising smoke, retreats to river rock barrier.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Lion and Forest Wildfire in the frame. Lion executes the physical trick: Nightingales burst into panicked flight chirping danger. Lion sniffs wind, spots rising smoke, retreats to river rock barrier.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[సింహం]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"సింహం ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Lion]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Lion executed the clever plan: Nightingales burst into panicked flight chirping danger. Lion sniffs wind, spots rising smoke, retreats to river rock barrier.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -4948,9 +4951,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Wildfire sweeps past harmlessly; lion thanks songbirds.. The threat is outsmarted while Lion bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, సింహం సురక్షితంగా బయటపడింది! పక్షుల హెచ్చరిక కూతలను విని సింహం మంటల నుండి తప్పించుకుంది. రేపు: కోతి ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Listen to the birds; nature's songs broadcast forest alerts! Tomorrow: The Monkey & The Secret Spring! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Wildfire sweeps past harmlessly; lion thanks songbirds.. The threat is outsmarted while Lion celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, సింహం సురక్షితంగా బయటపడింది! పక్షుల హెచ్చరిక కూతలను విని సింహం మంటల నుండి తప్పించుకుంది. రేపు: కోతి ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Wildfire sweeps past harmlessly; lion thanks songbirds. Listen to the birds; nature's songs broadcast forest alerts! Tomorrow: The Monkey & The Secret Spring! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -4985,21 +4988,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Monkey (కోతి) cornered by Scorching Drought (తీవ్రమైన ఎండ) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో కోతికు అనుకోకుండా తీవ్రమైన ఎండ ఎదురైంది!\"\n[కోతి]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Monkey suddenly faced Scorching Drought!\"\n[Monkey]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Monkey (కోతి) cornered by Scorching Drought (తీవ్రమైన ఎండ) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"కోతి తీవ్రమైన ఎండ బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[కోతి]: \"అయ్యో! తీవ్రమైన ఎండ నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Monkey]: \"Oh no! How can I safely escape from Scorching Drought?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Monkey bravely executes the physical trick: Monkey scrapes wet moss from limestone rock cleft; clear cold water bubbles up in fountain.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[కోతి]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"కోతి వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Monkey]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Monkey sprang into action and executed the clever plan: Monkey scrapes wet moss from limestone rock cleft; clear cold water bubbles up in fountain.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Monkey and Scorching Drought in the frame. Monkey executes the physical trick: Monkey scrapes wet moss from limestone rock cleft; clear cold water bubbles up in fountain.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[కోతి]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"కోతి ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Monkey]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Monkey executed the clever plan: Monkey scrapes wet moss from limestone rock cleft; clear cold water bubbles up in fountain.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -5007,9 +5010,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Thirsty deer, rabbits, and birds gather to drink sweet spring water.. The threat is outsmarted while Monkey bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, కోతి సురక్షితంగా బయటపడింది! పచ్చని నాచు ఉన్న రాళ్ల కింద తవ్వి కోతి తాజా నీటి ఊటను కనుగొంది. రేపు: తెలివైన కప్ప ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Dig beneath the greenest moss to uncover pure water! Tomorrow: The Snake & The Clever Frog! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Thirsty deer, rabbits, and birds gather to drink sweet spring water.. The threat is outsmarted while Monkey celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, కోతి సురక్షితంగా బయటపడింది! పచ్చని నాచు ఉన్న రాళ్ల కింద తవ్వి కోతి తాజా నీటి ఊటను కనుగొంది. రేపు: తెలివైన కప్ప ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Thirsty deer, rabbits, and birds gather to drink sweet spring water. Dig beneath the greenest moss to uncover pure water! Tomorrow: The Snake & The Clever Frog! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -5044,21 +5047,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Frog (తెలివైన కప్ప) cornered by Water Viper (నీటి పాము) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో తెలివైన కప్పకు అనుకోకుండా నీటి పాము ఎదురైంది!\"\n[తెలివైన కప్ప]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Frog suddenly faced Water Viper!\"\n[Frog]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Frog (తెలివైన కప్ప) cornered by Water Viper (నీటి పాము) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"తెలివైన కప్ప నీటి పాము బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[తెలివైన కప్ప]: \"అయ్యో! నీటి పాము నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Frog]: \"Oh no! How can I safely escape from Water Viper?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Frog bravely executes the physical trick: Frog kicks muddy silt into snake's face, blurring water vision; leaps into tangled underwater roots.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[తెలివైన కప్ప]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"తెలివైన కప్ప వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Frog]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Frog sprang into action and executed the clever plan: Frog kicks muddy silt into snake's face, blurring water vision; leaps into tangled underwater roots.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Frog and Water Viper in the frame. Frog executes the physical trick: Frog kicks muddy silt into snake's face, blurring water vision; leaps into tangled underwater roots.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[తెలివైన కప్ప]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"తెలివైన కప్ప ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Frog]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Frog executed the clever plan: Frog kicks muddy silt into snake's face, blurring water vision; leaps into tangled underwater roots.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -5066,9 +5069,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Snake snaps teeth on empty root; frog surfaces across lily pad pond.. The threat is outsmarted while Frog bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, తెలివైన కప్ప సురక్షితంగా బయటపడింది! బురదను ఎగజిమ్మి పాము దృష్టిని మరల్చి కప్ప నీటి లోపలికి దూకింది. రేపు: ఉత్సవపు ఏనుగు ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Leap into deeper reeds where coils cannot encircle! Tomorrow: The Festival Elephant & The Sparrow! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Snake snaps teeth on empty root; frog surfaces across lily pad pond.. The threat is outsmarted while Frog celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, తెలివైన కప్ప సురక్షితంగా బయటపడింది! బురదను ఎగజిమ్మి పాము దృష్టిని మరల్చి కప్ప నీటి లోపలికి దూకింది. రేపు: ఉత్సవపు ఏనుగు ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Snake snaps teeth on empty root; frog surfaces across lily pad pond. Leap into deeper reeds where coils cannot encircle! Tomorrow: The Festival Elephant & The Sparrow! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -5103,21 +5106,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Elephant (ఉత్సవపు ఏనుగు) cornered by Heavy Harness (బరువైన గంటలు) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో ఉత్సవపు ఏనుగుకు అనుకోకుండా బరువైన గంటలు ఎదురైంది!\"\n[ఉత్సవపు ఏనుగు]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Elephant suddenly faced Heavy Harness!\"\n[Elephant]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Elephant (ఉత్సవపు ఏనుగు) cornered by Heavy Harness (బరువైన గంటలు) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"ఉత్సవపు ఏనుగు బరువైన గంటలు బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[ఉత్సవపు ఏనుగు]: \"అయ్యో! బరువైన గంటలు నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Elephant]: \"Oh no! How can I safely escape from Heavy Harness?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Elephant bravely executes the physical trick: Elephant carefully steps over fallen sparrow chick on festival parade path, stopping the entire royal carriage.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[ఉత్సవపు ఏనుగు]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"ఉత్సవపు ఏనుగు వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Elephant]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Elephant sprang into action and executed the clever plan: Elephant carefully steps over fallen sparrow chick on festival parade path, stopping the entire royal carriage.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Elephant and Heavy Harness in the frame. Elephant executes the physical trick: Elephant carefully steps over fallen sparrow chick on festival parade path, stopping the entire royal carriage.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[ఉత్సవపు ఏనుగు]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"ఉత్సవపు ఏనుగు ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Elephant]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Elephant executed the clever plan: Elephant carefully steps over fallen sparrow chick on festival parade path, stopping the entire royal carriage.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -5125,9 +5128,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Crowd cheers elephant's compassion; priest blesses the gentle beast.. The threat is outsmarted while Elephant bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, ఉత్సవపు ఏనుగు సురక్షితంగా బయటపడింది! దారిలో ఉన్న పిచ్చుక గూడును తొక్కకుండా ఏనుగు జాగ్రత్తగా అడుగు వేసింది. రేపు: కాకి ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! A gentle heart values small lives above grand decorations! Tomorrow: The Crow & The Silver Mirror Ring! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Crowd cheers elephant's compassion; priest blesses the gentle beast.. The threat is outsmarted while Elephant celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, ఉత్సవపు ఏనుగు సురక్షితంగా బయటపడింది! దారిలో ఉన్న పిచ్చుక గూడును తొక్కకుండా ఏనుగు జాగ్రత్తగా అడుగు వేసింది. రేపు: కాకి ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Crowd cheers elephant's compassion; priest blesses the gentle beast. A gentle heart values small lives above grand decorations! Tomorrow: The Crow & The Silver Mirror Ring! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -5162,21 +5165,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Crow (కాకి) cornered by Shining Ring (వెండి ఉంగరం) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో కాకికు అనుకోకుండా వెండి ఉంగరం ఎదురైంది!\"\n[కాకి]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Crow suddenly faced Shining Ring!\"\n[Crow]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Crow (కాకి) cornered by Shining Ring (వెండి ఉంగరం) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"కాకి వెండి ఉంగరం బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[కాకి]: \"అయ్యో! వెండి ఉంగరం నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Crow]: \"Oh no! How can I safely escape from Shining Ring?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Crow bravely executes the physical trick: Crow examines dropped silver ring; drops it by doorstep and snatches juicy dropped breadcrumb instead.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[కాకి]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"కాకి వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Crow]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Crow sprang into action and executed the clever plan: Crow examines dropped silver ring; drops it by doorstep and snatches juicy dropped breadcrumb instead.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Crow and Shining Ring in the frame. Crow executes the physical trick: Crow examines dropped silver ring; drops it by doorstep and snatches juicy dropped breadcrumb instead.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[కాకి]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"కాకి ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Crow]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Crow executed the clever plan: Crow examines dropped silver ring; drops it by doorstep and snatches juicy dropped breadcrumb instead.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -5184,9 +5187,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Feeds baby chicks while human rejoices finding lost jewelry.. The threat is outsmarted while Crow bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, కాకి సురక్షితంగా బయటపడింది! మెరిసే ఉంగరాన్ని పక్కనపెట్టి గింజల కోసం కాకి ఆహారాన్ని ఎంచుకుంది. రేపు: కుందేలు ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! True treasure is food and family, not sparkling cold metal! Tomorrow: The Rabbit's Relay Race! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Feeds baby chicks while human rejoices finding lost jewelry.. The threat is outsmarted while Crow celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, కాకి సురక్షితంగా బయటపడింది! మెరిసే ఉంగరాన్ని పక్కనపెట్టి గింజల కోసం కాకి ఆహారాన్ని ఎంచుకుంది. రేపు: కుందేలు ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Feeds baby chicks while human rejoices finding lost jewelry. True treasure is food and family, not sparkling cold metal! Tomorrow: The Rabbit's Relay Race! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -5221,21 +5224,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Rabbit (కుందేలు) cornered by Fast Red Fox (వేగవంతమైన నక్క) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో కుందేలుకు అనుకోకుండా వేగవంతమైన నక్క ఎదురైంది!\"\n[కుందేలు]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Rabbit suddenly faced Fast Red Fox!\"\n[Rabbit]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Rabbit (కుందేలు) cornered by Fast Red Fox (వేగవంతమైన నక్క) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"కుందేలు వేగవంతమైన నక్క బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[కుందేలు]: \"అయ్యో! వేగవంతమైన నక్క నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Rabbit]: \"Oh no! How can I safely escape from Fast Red Fox?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Rabbit bravely executes the physical trick: First rabbit runs to thicket; identical twin rabbit springs out fresh and fast. Fox tires out panting.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[కుందేలు]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"కుందేలు వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Rabbit]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Rabbit sprang into action and executed the clever plan: First rabbit runs to thicket; identical twin rabbit springs out fresh and fast. Fox tires out panting.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Rabbit and Fast Red Fox in the frame. Rabbit executes the physical trick: First rabbit runs to thicket; identical twin rabbit springs out fresh and fast. Fox tires out panting.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[కుందేలు]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"కుందేలు ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Rabbit]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Rabbit executed the clever plan: First rabbit runs to thicket; identical twin rabbit springs out fresh and fast. Fox tires out panting.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -5243,9 +5246,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Fox lies down exhausted; rabbit family shares carrot prize.. The threat is outsmarted while Rabbit bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, కుందేలు సురక్షితంగా బయటపడింది! సోదర కుందేళ్లు వరుసగా మారి నక్కకు అందకుండా రేసులో గెలిచాయి. రేపు: చిన్న జింక ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Team relay strategy outlasts individual sprint stamina! Tomorrow: The Little Deer & The Stepping Stones! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Fox lies down exhausted; rabbit family shares carrot prize.. The threat is outsmarted while Rabbit celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, కుందేలు సురక్షితంగా బయటపడింది! సోదర కుందేళ్లు వరుసగా మారి నక్కకు అందకుండా రేసులో గెలిచాయి. రేపు: చిన్న జింక ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Fox lies down exhausted; rabbit family shares carrot prize. Team relay strategy outlasts individual sprint stamina! Tomorrow: The Little Deer & The Stepping Stones! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -5280,21 +5283,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Deer (చిన్న జింక) cornered by Swirling River (సుడిగుండాల నది) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో చిన్న జింకకు అనుకోకుండా సుడిగుండాల నది ఎదురైంది!\"\n[చిన్న జింక]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Deer suddenly faced Swirling River!\"\n[Deer]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Deer (చిన్న జింక) cornered by Swirling River (సుడిగుండాల నది) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"చిన్న జింక సుడిగుండాల నది బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[చిన్న జింక]: \"అయ్యో! సుడిగుండాల నది నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Deer]: \"Oh no! How can I safely escape from Swirling River?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Deer bravely executes the physical trick: Deer hops gently from one mossy turtle shell to the next across rushing rapids.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[చిన్న జింక]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"చిన్న జింక వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Deer]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Deer sprang into action and executed the clever plan: Deer hops gently from one mossy turtle shell to the next across rushing rapids.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Deer and Swirling River in the frame. Deer executes the physical trick: Deer hops gently from one mossy turtle shell to the next across rushing rapids.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[చిన్న జింక]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"చిన్న జింక ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Deer]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Deer executed the clever plan: Deer hops gently from one mossy turtle shell to the next across rushing rapids.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -5302,9 +5305,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Turtles hold steady like anchored stones; deer lands safely on green shore.. The threat is outsmarted while Deer bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, చిన్న జింక సురక్షితంగా బయటపడింది! తాబేలు వీపుల వరుసపై అడుగులు వేస్తూ జింక నదిని దాటింది. రేపు: దాతృత్వ కోతి ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Trust the ancient turtle stones across dangerous rapids! Tomorrow: The Monkey Who Shared His Fruit! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Turtles hold steady like anchored stones; deer lands safely on green shore.. The threat is outsmarted while Deer celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, చిన్న జింక సురక్షితంగా బయటపడింది! తాబేలు వీపుల వరుసపై అడుగులు వేస్తూ జింక నదిని దాటింది. రేపు: దాతృత్వ కోతి ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Turtles hold steady like anchored stones; deer lands safely on green shore. Trust the ancient turtle stones across dangerous rapids! Tomorrow: The Monkey Who Shared His Fruit! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -5339,21 +5342,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Monkey (దాతృత్వ కోతి) cornered by Winter Scarcity (శీతాకాలపు కొరత) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో దాతృత్వ కోతికు అనుకోకుండా శీతాకాలపు కొరత ఎదురైంది!\"\n[దాతృత్వ కోతి]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Monkey suddenly faced Winter Scarcity!\"\n[Monkey]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Monkey (దాతృత్వ కోతి) cornered by Winter Scarcity (శీతాకాలపు కొరత) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"దాతృత్వ కోతి శీతాకాలపు కొరత బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[దాతృత్వ కోతి]: \"అయ్యో! శీతాకాలపు కొరత నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Monkey]: \"Oh no! How can I safely escape from Winter Scarcity?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Monkey bravely executes the physical trick: Monkey shakes sweet figs to ground for grounded quail and hedgehogs.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[దాతృత్వ కోతి]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"దాతృత్వ కోతి వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Monkey]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Monkey sprang into action and executed the clever plan: Monkey shakes sweet figs to ground for grounded quail and hedgehogs.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Monkey and Winter Scarcity in the frame. Monkey executes the physical trick: Monkey shakes sweet figs to ground for grounded quail and hedgehogs.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[దాతృత్వ కోతి]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"దాతృత్వ కోతి ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Monkey]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Monkey executed the clever plan: Monkey shakes sweet figs to ground for grounded quail and hedgehogs.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -5361,9 +5364,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. When winter frost strikes, birds lead monkey to hidden cave of sweet dried nuts.. The threat is outsmarted while Monkey bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, దాతృత్వ కోతి సురక్షితంగా బయటపడింది! పండ్లను తోటి పక్షులతో పంచుకున్న కోతికి కష్టకాలంలో పక్షులు సహాయం చేశాయి. రేపు: తెలివైన నక్క ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Generosity in abundance guarantees support in adversity! Tomorrow: The Lion & The Talking Cave! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. When winter frost strikes, birds lead monkey to hidden cave of sweet dried nuts.. The threat is outsmarted while Monkey celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, దాతృత్వ కోతి సురక్షితంగా బయటపడింది! పండ్లను తోటి పక్షులతో పంచుకున్న కోతికి కష్టకాలంలో పక్షులు సహాయం చేశాయి. రేపు: తెలివైన నక్క ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! When winter frost strikes, birds lead monkey to hidden cave of sweet dried nuts. Generosity in abundance guarantees support in adversity! Tomorrow: The Lion & The Talking Cave! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -5398,21 +5401,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Fox (తెలివైన నక్క) cornered by Hidden Lion (గుహలో దాక్కున్న సింహం) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో తెలివైన నక్కకు అనుకోకుండా గుహలో దాక్కున్న సింహం ఎదురైంది!\"\n[తెలివైన నక్క]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Fox suddenly faced Hidden Lion!\"\n[Fox]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Fox (తెలివైన నక్క) cornered by Hidden Lion (గుహలో దాక్కున్న సింహం) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"తెలివైన నక్క గుహలో దాక్కున్న సింహం బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[తెలివైన నక్క]: \"అయ్యో! గుహలో దాక్కున్న సింహం నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Fox]: \"Oh no! How can I safely escape from Hidden Lion?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Fox bravely executes the physical trick: Fox outside cave calls: 'O Cave! Why don't you answer my greeting today as usual?'. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[తెలివైన నక్క]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"తెలివైన నక్క వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Fox]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Fox sprang into action and executed the clever plan: Fox outside cave calls: 'O Cave! Why don't you answer my greeting today as usual?'!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Fox and Hidden Lion in the frame. Fox executes the physical trick: Fox outside cave calls: 'O Cave! Why don't you answer my greeting today as usual?'. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[తెలివైన నక్క]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"తెలివైన నక్క ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Fox]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Fox executed the clever plan: Fox outside cave calls: 'O Cave! Why don't you answer my greeting today as usual?'!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -5420,9 +5423,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Foolish lion inside roars 'HELLO!'. Fox laughs: 'Caves don't talk!' and bolts into safety.. The threat is outsmarted while Fox bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, తెలివైన నక్క సురక్షితంగా బయటపడింది! గుహను పలకరించి సింహం మాట్లాడేలా చేసి నక్క లోపలికి వెళ్లకుండా తప్పించుకుంది. రేపు: నక్క ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Test the trap with a question; lies give themselves away! Tomorrow: The Fox & The Valley Echo! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Foolish lion inside roars 'HELLO!'. Fox laughs: 'Caves don't talk!' and bolts into safety.. The threat is outsmarted while Fox celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, తెలివైన నక్క సురక్షితంగా బయటపడింది! గుహను పలకరించి సింహం మాట్లాడేలా చేసి నక్క లోపలికి వెళ్లకుండా తప్పించుకుంది. రేపు: నక్క ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Foolish lion inside roars 'HELLO!'. Fox laughs: 'Caves don't talk!' and bolts into safety. Test the trap with a question; lies give themselves away! Tomorrow: The Fox & The Valley Echo! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -5457,21 +5460,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Fox (నక్క) cornered by Canyon Echo (లోయలోని ప్రతిధ్వని) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో నక్కకు అనుకోకుండా లోయలోని ప్రతిధ్వని ఎదురైంది!\"\n[నక్క]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Fox suddenly faced Canyon Echo!\"\n[Fox]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Fox (నక్క) cornered by Canyon Echo (లోయలోని ప్రతిధ్వని) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"నక్క లోయలోని ప్రతిధ్వని బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[నక్క]: \"అయ్యో! లోయలోని ప్రతిధ్వని నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Fox]: \"Oh no! How can I safely escape from Canyon Echo?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Fox bravely executes the physical trick: Fox yells insults into canyon, hearing insults echo back; tires out barking at stone walls.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[నక్క]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"నక్క వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Fox]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Fox sprang into action and executed the clever plan: Fox yells insults into canyon, hearing insults echo back; tires out barking at stone walls.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Fox and Canyon Echo in the frame. Fox executes the physical trick: Fox yells insults into canyon, hearing insults echo back; tires out barking at stone walls.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[నక్క]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"నక్క ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Fox]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Fox executed the clever plan: Fox yells insults into canyon, hearing insults echo back; tires out barking at stone walls.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -5479,9 +5482,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Owl swoops down: 'Stop fighting your own voice in the canyon!'. The threat is outsmarted while Fox bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, నక్క సురక్షితంగా బయటపడింది! తన అరుపునే ప్రతిధ్వనిగా విని కొండతో గొడవపడి నక్క అలిసిపోయింది. రేపు: పెద్ద గుడ్లగూబ ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Do not bark at your own echo expecting an apology! Tomorrow: The Wise Owl's Forest Academy! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Owl swoops down: 'Stop fighting your own voice in the canyon!'. The threat is outsmarted while Fox celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, నక్క సురక్షితంగా బయటపడింది! తన అరుపునే ప్రతిధ్వనిగా విని కొండతో గొడవపడి నక్క అలిసిపోయింది. రేపు: పెద్ద గుడ్లగూబ ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Owl swoops down: 'Stop fighting your own voice in the canyon!' Do not bark at your own echo expecting an apology! Tomorrow: The Wise Owl's Forest Academy! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -5516,21 +5519,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Owl (పెద్ద గుడ్లగూబ) cornered by Wild Predators (అడవి క్రూర మృగాలు) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో పెద్ద గుడ్లగూబకు అనుకోకుండా అడవి క్రూర మృగాలు ఎదురైంది!\"\n[పెద్ద గుడ్లగూబ]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Owl suddenly faced Wild Predators!\"\n[Owl]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Owl (పెద్ద గుడ్లగూబ) cornered by Wild Predators (అడవి క్రూర మృగాలు) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"పెద్ద గుడ్లగూబ అడవి క్రూర మృగాలు బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[పెద్ద గుడ్లగూబ]: \"అయ్యో! అడవి క్రూర మృగాలు నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Owl]: \"Oh no! How can I safely escape from Wild Predators?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Owl bravely executes the physical trick: Owl teaches bird chicks the distinctive warning calls for hawk, snake, and hunter.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[పెద్ద గుడ్లగూబ]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"పెద్ద గుడ్లగూబ వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Owl]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Owl sprang into action and executed the clever plan: Owl teaches bird chicks the distinctive warning calls for hawk, snake, and hunter.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Owl and Wild Predators in the frame. Owl executes the physical trick: Owl teaches bird chicks the distinctive warning calls for hawk, snake, and hunter.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[పెద్ద గుడ్లగూబ]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"పెద్ద గుడ్లగూబ ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Owl]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Owl executed the clever plan: Owl teaches bird chicks the distinctive warning calls for hawk, snake, and hunter.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -5538,9 +5541,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Flock reacts in millisecond unison to danger, rising safely to clouds.. The threat is outsmarted while Owl bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, పెద్ద గుడ్లగూబ సురక్షితంగా బయటపడింది! అడవి సంకేతాలను పిల్ల పక్షులకు నేర్పి అపాయాల నుండి కాపాడింది. రేపు: రంగుల తాబేలు ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Education in nature's signals keeps every hatchling alive! Tomorrow: The Painted Turtle's Lost Shell! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Flock reacts in millisecond unison to danger, rising safely to clouds.. The threat is outsmarted while Owl celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, పెద్ద గుడ్లగూబ సురక్షితంగా బయటపడింది! అడవి సంకేతాలను పిల్ల పక్షులకు నేర్పి అపాయాల నుండి కాపాడింది. రేపు: రంగుల తాబేలు ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Flock reacts in millisecond unison to danger, rising safely to clouds. Education in nature's signals keeps every hatchling alive! Tomorrow: The Painted Turtle's Lost Shell! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -5575,21 +5578,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Tortoise (రంగుల తాబేలు) cornered by Mud Stain (బురద మరకలు) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో రంగుల తాబేలుకు అనుకోకుండా బురద మరకలు ఎదురైంది!\"\n[రంగుల తాబేలు]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Tortoise suddenly faced Mud Stain!\"\n[Tortoise]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Tortoise (రంగుల తాబేలు) cornered by Mud Stain (బురద మరకలు) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"రంగుల తాబేలు బురద మరకలు బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[రంగుల తాబేలు]: \"అయ్యో! బురద మరకలు నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Tortoise]: \"Oh no! How can I safely escape from Mud Stain?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Tortoise bravely executes the physical trick: Turtle gets splattered with thick black swamp mud, looking like a plain boulder.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[రంగుల తాబేలు]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"రంగుల తాబేలు వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Tortoise]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Tortoise sprang into action and executed the clever plan: Turtle gets splattered with thick black swamp mud, looking like a plain boulder.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Tortoise and Mud Stain in the frame. Tortoise executes the physical trick: Turtle gets splattered with thick black swamp mud, looking like a plain boulder.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[రంగుల తాబేలు]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"రంగుల తాబేలు ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Tortoise]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Tortoise executed the clever plan: Turtle gets splattered with thick black swamp mud, looking like a plain boulder.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -5597,9 +5600,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Uses boulder disguise to trip charging coyote, saving ducklings.. The threat is outsmarted while Tortoise bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, రంగుల తాబేలు సురక్షితంగా బయటపడింది! బురద అంటినా తాబేలు తన ధైర్యంతో స్నేహితులను కాపాడింది. రేపు: బుల్లి కుందేలు ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Inner character shines through temporary mud and scuffs! Tomorrow: The Rabbit & The Garden Wicket! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Uses boulder disguise to trip charging coyote, saving ducklings.. The threat is outsmarted while Tortoise celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, రంగుల తాబేలు సురక్షితంగా బయటపడింది! బురద అంటినా తాబేలు తన ధైర్యంతో స్నేహితులను కాపాడింది. రేపు: బుల్లి కుందేలు ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Uses boulder disguise to trip charging coyote, saving ducklings. Inner character shines through temporary mud and scuffs! Tomorrow: The Rabbit & The Garden Wicket! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -5634,21 +5637,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Rabbit (బుల్లి కుందేలు) cornered by Gardener's Trap (తోటమాలి వల) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో బుల్లి కుందేలుకు అనుకోకుండా తోటమాలి వల ఎదురైంది!\"\n[బుల్లి కుందేలు]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Rabbit suddenly faced Gardener's Trap!\"\n[Rabbit]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Rabbit (బుల్లి కుందేలు) cornered by Gardener's Trap (తోటమాలి వల) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"బుల్లి కుందేలు తోటమాలి వల బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[బుల్లి కుందేలు]: \"అయ్యో! తోటమాలి వల నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Rabbit]: \"Oh no! How can I safely escape from Gardener's Trap?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Rabbit bravely executes the physical trick: Rabbit ignores tempting shiny iron wicket gate where net hangs; slides through old familiar burrow.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[బుల్లి కుందేలు]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"బుల్లి కుందేలు వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Rabbit]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Rabbit sprang into action and executed the clever plan: Rabbit ignores tempting shiny iron wicket gate where net hangs; slides through old familiar burrow.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Rabbit and Gardener's Trap in the frame. Rabbit executes the physical trick: Rabbit ignores tempting shiny iron wicket gate where net hangs; slides through old familiar burrow.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[బుల్లి కుందేలు]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"బుల్లి కుందేలు ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Rabbit]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Rabbit executed the clever plan: Rabbit ignores tempting shiny iron wicket gate where net hangs; slides through old familiar burrow.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -5656,9 +5659,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Munches crisp sweet lettuce safe on the riverbank.. The threat is outsmarted while Rabbit bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, బుల్లి కుందేలు సురక్షితంగా బయటపడింది! పాత కలుగు గుండానే నిదానంగా వెళ్లి కుందేలు తోటమాలి నుండి తప్పించుకుంది. రేపు: నల్ల కాకి ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Enter through the gap you know; never panic through unknown gates! Tomorrow: The Crow & The Rain Cloud! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Munches crisp sweet lettuce safe on the riverbank.. The threat is outsmarted while Rabbit celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, బుల్లి కుందేలు సురక్షితంగా బయటపడింది! పాత కలుగు గుండానే నిదానంగా వెళ్లి కుందేలు తోటమాలి నుండి తప్పించుకుంది. రేపు: నల్ల కాకి ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Munches crisp sweet lettuce safe on the riverbank. Enter through the gap you know; never panic through unknown gates! Tomorrow: The Crow & The Rain Cloud! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -5693,21 +5696,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Crow (నల్ల కాకి) cornered by Summer Heat (మండుటెండ) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో నల్ల కాకికు అనుకోకుండా మండుటెండ ఎదురైంది!\"\n[నల్ల కాకి]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Crow suddenly faced Summer Heat!\"\n[Crow]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Crow (నల్ల కాకి) cornered by Summer Heat (మండుటెండ) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"నల్ల కాకి మండుటెండ బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[నల్ల కాకి]: \"అయ్యో! మండుటెండ నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Crow]: \"Oh no! How can I safely escape from Summer Heat?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Crow bravely executes the physical trick: Crow folds broad teak leaves into funnel cups, catching first sweet monsoon drops.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[నల్ల కాకి]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"నల్ల కాకి వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Crow]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Crow sprang into action and executed the clever plan: Crow folds broad teak leaves into funnel cups, catching first sweet monsoon drops.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Crow and Summer Heat in the frame. Crow executes the physical trick: Crow folds broad teak leaves into funnel cups, catching first sweet monsoon drops.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[నల్ల కాకి]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"నల్ల కాకి ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Crow]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Crow executed the clever plan: Crow folds broad teak leaves into funnel cups, catching first sweet monsoon drops.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -5715,9 +5718,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Shares cool clean water with panting songbirds.. The threat is outsmarted while Crow bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, నల్ల కాకి సురక్షితంగా బయటపడింది! వర్షపు నీటిని ఆకుల దొప్పల్లో నిల్వచేసి కాకి దాహాన్ని తీర్చుకుంది. రేపు: తెలివైన కోతి ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Watch the thunderheads gather; position bowls before drops fall! Tomorrow: The Monkey & The Banana Raft! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Shares cool clean water with panting songbirds.. The threat is outsmarted while Crow celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, నల్ల కాకి సురక్షితంగా బయటపడింది! వర్షపు నీటిని ఆకుల దొప్పల్లో నిల్వచేసి కాకి దాహాన్ని తీర్చుకుంది. రేపు: తెలివైన కోతి ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Shares cool clean water with panting songbirds. Watch the thunderheads gather; position bowls before drops fall! Tomorrow: The Monkey & The Banana Raft! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -5752,21 +5755,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Monkey (తెలివైన కోతి) cornered by Flooded Island (వరద ద్వీపం) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో తెలివైన కోతికు అనుకోకుండా వరద ద్వీపం ఎదురైంది!\"\n[తెలివైన కోతి]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Monkey suddenly faced Flooded Island!\"\n[Monkey]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Monkey (తెలివైన కోతి) cornered by Flooded Island (వరద ద్వీపం) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"తెలివైన కోతి వరద ద్వీపం బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[తెలివైన కోతి]: \"అయ్యో! వరద ద్వీపం నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Monkey]: \"Oh no! How can I safely escape from Flooded Island?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Monkey bravely executes the physical trick: Monkey binds floating banana tree trunks with vine cordage, making wide raft.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[తెలివైన కోతి]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"తెలివైన కోతి వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Monkey]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Monkey sprang into action and executed the clever plan: Monkey binds floating banana tree trunks with vine cordage, making wide raft.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Monkey and Flooded Island in the frame. Monkey executes the physical trick: Monkey binds floating banana tree trunks with vine cordage, making wide raft.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[తెలివైన కోతి]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"తెలివైన కోతి ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Monkey]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Monkey executed the clever plan: Monkey binds floating banana tree trunks with vine cordage, making wide raft.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -5774,9 +5777,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Paddles deer fawns and rabbits across flood lake to high hill.. The threat is outsmarted while Monkey bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, తెలివైన కోతి సురక్షితంగా బయటపడింది! అరటి బోదెలతో తెప్పను తయారుచేసి వరదలో చిక్కుకున్న జంతువులను కాపాడింది. రేపు: సింహం ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Tie hollow banana stems to forge unsinkable escape rafts! Tomorrow: The Lion & The Mouse's Oath! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Paddles deer fawns and rabbits across flood lake to high hill.. The threat is outsmarted while Monkey celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, తెలివైన కోతి సురక్షితంగా బయటపడింది! అరటి బోదెలతో తెప్పను తయారుచేసి వరదలో చిక్కుకున్న జంతువులను కాపాడింది. రేపు: సింహం ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Paddles deer fawns and rabbits across flood lake to high hill. Tie hollow banana stems to forge unsinkable escape rafts! Tomorrow: The Lion & The Mouse's Oath! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -5811,21 +5814,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Lion (సింహం) cornered by Old Age (ముసలితనం) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో సింహంకు అనుకోకుండా ముసలితనం ఎదురైంది!\"\n[సింహం]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Lion suddenly faced Old Age!\"\n[Lion]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Lion (సింహం) cornered by Old Age (ముసలితనం) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"సింహం ముసలితనం బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[సింహం]: \"అయ్యో! ముసలితనం నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Lion]: \"Oh no! How can I safely escape from Old Age?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Lion bravely executes the physical trick: Aged lion rests under banyan tree; mouse family grooms his mane and brings wild berries.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[సింహం]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"సింహం వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Lion]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Lion sprang into action and executed the clever plan: Aged lion rests under banyan tree; mouse family grooms his mane and brings wild berries.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Lion and Old Age in the frame. Lion executes the physical trick: Aged lion rests under banyan tree; mouse family grooms his mane and brings wild berries.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[సింహం]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"సింహం ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Lion]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Lion executed the clever plan: Aged lion rests under banyan tree; mouse family grooms his mane and brings wild berries.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -5833,9 +5836,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Lion smiles warmly: 'True friendship is the greatest treasure in the jungle.'. The threat is outsmarted while Lion bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, సింహం సురక్షితంగా బయటపడింది! చిన్ననాటి స్నేహాన్ని గుర్తుపెట్టుకుని సింహం, ఎలుక కలకాలం స్నేహంగా ఉన్నాయి. రేపు: పిల్లలు & జంతువులు ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Lifelong alliances outlive youth, claws, and roaring crowns! Tomorrow: The Panchatantra Grand Promise! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Lion smiles warmly: 'True friendship is the greatest treasure in the jungle.'. The threat is outsmarted while Lion celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, సింహం సురక్షితంగా బయటపడింది! చిన్ననాటి స్నేహాన్ని గుర్తుపెట్టుకుని సింహం, ఎలుక కలకాలం స్నేహంగా ఉన్నాయి. రేపు: పిల్లలు & జంతువులు ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Lion smiles warmly: 'True friendship is the greatest treasure in the jungle.' Lifelong alliances outlive youth, claws, and roaring crowns! Tomorrow: The Panchatantra Grand Promise! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -5870,21 +5873,21 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Children (పిల్లలు & జంతువులు) cornered by Life's Great Hurdles (జీవిత సవాళ్లు) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో పిల్లలు & జంతువులుకు అనుకోకుండా జీవిత సవాళ్లు ఎదురైంది!\"\n[పిల్లలు & జంతువులు]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Children suddenly faced Life's Great Hurdles!\"\n[Children]: \"Oh no! How can I safely escape this danger?\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Dynamic two-shot showing cute Children (పిల్లలు & జంతువులు) cornered by Life's Great Hurdles (జీవిత సవాళ్లు) under ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"పిల్లలు & జంతువులు జీవిత సవాళ్లు బారిన పడి అనుకోని పెద్ద చిక్కులో పడింది!\"\n[పిల్లలు & జంతువులు]: \"అయ్యో! జీవిత సవాళ్లు నుండి నేను ఎలా తప్పించుకోవాలి?\"",
+        "englishSub": "[Narrator]: \"In the heart of the jungle, a sudden crisis erupted!\"\n[Children]: \"Oh no! How can I safely escape from Life's Great Hurdles?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Children bravely executes the physical trick: All iconic Panchatantra characters—Rabbit, Turtle, Monkey, Crow, Lion, Mouse—gather in golden sunlight.. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[పిల్లలు & జంతువులు]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"పిల్లలు & జంతువులు వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Children]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Children sprang into action and executed the clever plan: All iconic Panchatantra characters—Rabbit, Turtle, Monkey, Crow, Lion, Mouse—gather in golden sunlight.!\"",
+        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action two-shot showing both Children and Life's Great Hurdles in the frame. Children executes the physical trick: All iconic Panchatantra characters—Rabbit, Turtle, Monkey, Crow, Lion, Mouse—gather in golden sunlight.. Clear physical cause and effect, dynamic motion blur, 8k render.",
+        "teluguVO": "[పిల్లలు & జంతువులు]: \"ఆగు! నాతో పెట్టుకుంటే ఇదిగో నా దెబ్బ!\"\n[Narrator]: \"పిల్లలు & జంతువులు ఏమాత్రం భయపడకుండా సమయస్ఫూర్తితో ఆలోచించి, అద్భుతమైన ఉపాయాన్ని ప్రయోగించింది!\"",
+        "englishSub": "[Children]: \"Stop! Do not mess with me, take this!\"\n[Narrator]: \"Children executed the clever plan: All iconic Panchatantra characters—Rabbit, Turtle, Monkey, Crow, Lion, Mouse—gather in golden sunlight.!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -5892,9 +5895,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Golden book shines brightly as animals wave to children: 'Think with wisdom, act with courage, and conquer the world!'. The threat is outsmarted while Children bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, పిల్లలు & జంతువులు సురక్షితంగా బయటపడింది! ఉపాయం, ఐకమత్యం, సమయస్ఫూర్తి ఉంటే ఏ సమస్యనైనా జయించవచ్చు! రేపు: బుల్లి కుందేలు ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Wisdom, unity, and strategy turn every crisis into victory! Tomorrow: The Clever Rabbit & Hungry Fox! Tap FOLLOW now!\"",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Golden book shines brightly as animals wave to children: 'Think with wisdom, act with courage, and conquer the world!'. The threat is outsmarted while Children celebrates in triumph under warm golden sunbeams. 8k render.",
+        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, పిల్లలు & జంతువులు సురక్షితంగా బయటపడింది! ఉపాయం, ఐకమత్యం, సమయస్ఫూర్తి ఉంటే ఏ సమస్యనైనా జయించవచ్చు! రేపు: బుల్లి కుందేలు ఎలాంటి అద్భుత సాహసం చేసిందో! FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"The clever trick worked! Golden book shines brightly as animals wave to children: 'Think with wisdom, act with courage, and conquer the world!' Wisdom, unity, and strategy turn every crisis into victory! Tomorrow: The Clever Rabbit & Hungry Fox! Tap FOLLOW now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
