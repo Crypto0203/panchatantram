@@ -737,32 +737,32 @@ export const episodes = [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Specific Trap",
+        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Cute Rabbit (చిన్న కుందేలు) cornered by Thirsty Herd (ఏనుగుల గుంపు) under towering ancient jungle trees. Dynamic lighting, detailed textures, 8k.",
-        "teluguVO": "[Narrator]: \"అడవిలో చిన్న కుందేలుకు అనుకోకుండా ఏనుగుల గుంపు ఎదురైంది!\"\n[చిన్న కుందేలు]: \"అయ్యో! ఇక్కడి నుండి నేను ఎలా సురక్షితంగా బయటపడాలి?\"",
-        "englishSub": "[Narrator]: \"In the heart of the jungle, Rabbit suddenly faced Thirsty Herd!\"\n[Rabbit]: \"Oh no! How can I safely escape this danger?\"",
-        "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene. Thundering herd of giant wild elephants marches toward rabbit burrows under ancient jungle trees. Cute Rabbit (చిన్న కుందేలు) leaps onto a tall boulder, waving paws to stop the herd. Dynamic lighting, detailed textures, 8k.",
+        "teluguVO": "[Narrator]: \"దాహంతో ఉన్న ఏనుగుల గుంపు కుందేళ్ల కాలనీపైకి దూసుకొచ్చింది!\"\n[చిన్న కుందేలు]: \"ఆగండి! మా సరస్సును తాకితే చంద్ర దేవుడు ఆగ్రహిస్తాడు! నాతో రండి!\"",
+        "englishSub": "[Narrator]: \"A thirsty herd of giant elephants rushed toward the rabbit burrows!\"\n[Rabbit]: \"Stop! Do not touch our lake or the Moon God will be enraged! Follow me!\"",
+        "sfx": "0:01s Earth Tremor Stomp • 0:03s Cartoon Gasp • 0:08s Foley Beat"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
-        "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Action sequence. Rabbit bravely executes the physical trick: Rabbit sits atop Moon Rock, ripples the puddle with a paw: 'Look! The sacred Moon God shakes in fury at your footsteps!'. Clear physical cause and effect, dynamic motion blur, particle effects, 8k.",
-        "teluguVO": "[చిన్న కుందేలు]: \"భయపడితే లాభం లేదు, నా బుర్ర ఉపయోగించి ఈ ఉపాయం చేస్తాను!\"\n[Narrator]: \"చిన్న కుందేలు వెంటనే రంగంలోకి దిగి తన ఉపాయాన్ని ప్రయోగించింది!\"",
-        "englishSub": "[Rabbit]: \"Panicking will not help! I will use my wits and execute this trick!\"\n[Narrator]: \"Rabbit sprang into action and executed the clever plan: Rabbit sits atop Moon Rock, ripples the puddle with a paw: 'Look! The sacred Moon God shakes in fury at your footsteps!'!\"",
-        "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
+        "purpose": "⚠️ The Moonlit Lake Confrontation (The Tangible Physical Upayam)",
+        "cameraAction": "Wide-to-medium dramatic night shot of the Elephant King and Rabbit at the lake.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, cinematic midnight blue lighting. Moonlight enchanted lake. Giant Elephant King (గజరాజు) towers over the water looking down nervously. Cute tiny white Rabbit sits on a mossy rock, gently touching the lake surface with a paw, causing the bright silver full moon reflection to ripple and shake wildly. 8k render, Unreal Engine 5.",
+        "teluguVO": "[చిన్న కుందేలు]: \"గజరాజా, చూడు! మా నివాసాలను తొక్కినందుకు సరస్సులోని చంద్రుడు కోపంతో ఎలా వణుకుతున్నాడో!\"\n[గజరాజు]: \"అయ్యో! చంద్ర భగవానుడు నిజంగానే ఆగ్రహంతో ఊగిపోతున్నాడు!\"",
+        "englishSub": "[Rabbit]: \"Elephant King, look! Because you trampled our homes, the Moon God in the lake is trembling with fury!\"\n[Elephant King]: \"Oh heavens! The Moon God is indeed shaking with anger!\"",
+        "sfx": "0:11s Water Ripple Splash • 0:14s Mystery Tension Swell • 0:18s Elephant Trumpet Yelp"
       },
       {
         "clipNumber": 3,
         "timeRange": "00:20 – 00:30 (10 Seconds)",
-        "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
-        "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Comical resolution. Elephant King bows reverently to the trembling moon reflection and leads the heavy herd away peacefully.. The threat is outsmarted while Rabbit bounds away in triumph under warm golden sunbeams. 8k render.",
-        "teluguVO": "[Narrator]: \"ఉపాయం ఫలించడంతో శత్రువు ఆటకట్టింది, చిన్న కుందేలు సురక్షితంగా బయటపడింది! చంద్రుడి ప్రతిబింబాన్ని కదిలించి చంద్ర భగవానుడు కోపంగా ఉన్నాడని కుందేలు ఏనుగులను వెనక్కి పంపింది. రేపు: తెలివైన కాకి ఎలాంటి అద్భుత సాహసం చేసిందో! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The clever trick worked! Wit invokes divine authority to stop destruction! Tomorrow: The Crow & The Pitcher! Tap FOLLOW now!\"",
-        "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
+        "purpose": "💡 Apology Payoff + Moral + Teaser + Follow CTA",
+        "cameraAction": "Comical reverent apology, morning triumph, and snappy teaser cut.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft morning glow. Comical resolution. Giant Elephant King raises trunk high, bows reverently to the lake in humble apology, and leads the elephant herd away into the misty horizon. Little rabbit leaps and giggles happily under golden sunbeams. 8k render.",
+        "teluguVO": "[గజరాజు]: \"చంద్ర దేవా, మమ్మల్ని క్షమించు! మేము ఇంకెప్పుడూ ఇటు రాము!\"\n[Narrator]: \"శారీరక బలం కంటే బుద్ధిబలమే గొప్పది! రేపు: తెలివైన కాకి కథ... FOLLOW చేయండి!\"",
+        "englishSub": "[Elephant King]: \"Forgive us, O Moon God! We will never return here again!\"\n[Narrator]: \"Wit and intellect triumph over brute physical strength! Tomorrow: The Thirsty Crow! Tap FOLLOW now!\"",
+        "sfx": "0:21s Reverent Bell Chime • 0:24s Cheerful Rabbit Giggle • 0:27s Telugu Outro Jingle"
       }
     ]
   },
