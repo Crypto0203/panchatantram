@@ -296,13 +296,39 @@ function renderSimClipsGrid(ep) {
           <div class="clip-sfx-text">${clip.sfx}</div>
         </div>
       </div>
-      <div style="margin-top: 0.75rem; text-align: right;">
+      <div style="margin-top: 0.75rem; display: flex; gap: 0.4rem; justify-content: flex-end; flex-wrap: wrap;">
+        <button class="btn-secondary btn-copy-telugu" data-idx="${idx}" style="padding: 0.3rem 0.65rem; font-size: 0.75rem; background: rgba(16, 185, 129, 0.15); border: 1px solid #10b981; color: #34d399; font-weight: 700;">
+          <span>🎙️</span> Copy Telugu Voice Only
+        </button>
+        <button class="btn-secondary btn-copy-prompt" data-idx="${idx}" style="padding: 0.3rem 0.65rem; font-size: 0.75rem; background: rgba(56, 189, 248, 0.15); border: 1px solid #38bdf8; color: #38bdf8; font-weight: 700;">
+          <span>🎨</span> Copy 9:16 Prompt Only
+        </button>
         <button class="btn-secondary btn-copy-clip" data-idx="${idx}" style="padding: 0.3rem 0.65rem; font-size: 0.75rem;">
-          <span>📋</span> Copy Clip ${clip.clipNumber}
+          <span>📋</span> Copy Full Clip
         </button>
       </div>
     `;
     grid.appendChild(card);
+  });
+
+  grid.querySelectorAll('.btn-copy-telugu').forEach(btn => {
+    btn.addEventListener('click', (e) => {
+      sound.playPop();
+      const idx = parseInt(e.currentTarget.dataset.idx);
+      const c = ep.clips[idx];
+      navigator.clipboard.writeText(c.teluguVO);
+      alert(`✅ Clip ${c.clipNumber} Telugu Voiceover copied!\n\nPaste this into your TTS / Voice Generator.`);
+    });
+  });
+
+  grid.querySelectorAll('.btn-copy-prompt').forEach(btn => {
+    btn.addEventListener('click', (e) => {
+      sound.playPop();
+      const idx = parseInt(e.currentTarget.dataset.idx);
+      const c = ep.clips[idx];
+      navigator.clipboard.writeText(c.visualPrompt);
+      alert(`✅ Clip ${c.clipNumber} 9:16 Visual Prompt copied!\n\nPaste this into your AI Video/Image Generator.`);
+    });
   });
 
   grid.querySelectorAll('.btn-copy-clip').forEach(btn => {
@@ -634,9 +660,18 @@ function openEpisodeModal(id) {
             <div style="font-family: var(--font-mono); font-size: 0.75rem; color: #cbd5e1;">${c.visualPrompt}</div>
           </div>
 
-          <div>
+          <div style="margin-bottom: 0.5rem;">
             <div style="font-size: 0.72rem; color: var(--text-muted); font-weight: 700;">🔊 SOUND FOLEY & MUSIC:</div>
             <div style="font-size: 0.75rem; color: var(--accent-amber);">${c.sfx}</div>
+          </div>
+
+          <div style="margin-top: 0.75rem; display: flex; gap: 0.4rem; justify-content: flex-end; flex-wrap: wrap; border-top: 1px dashed rgba(255,255,255,0.1); padding-top: 0.5rem;">
+            <button class="btn-secondary modal-copy-telugu" data-cnum="${c.clipNumber}" style="padding: 0.25rem 0.65rem; font-size: 0.75rem; background: rgba(16, 185, 129, 0.15); border: 1px solid #10b981; color: #34d399; font-weight: 700;">
+              <span>🎙️</span> Copy Telugu Voice Only
+            </button>
+            <button class="btn-secondary modal-copy-prompt" data-cnum="${c.clipNumber}" style="padding: 0.25rem 0.65rem; font-size: 0.75rem; background: rgba(56, 189, 248, 0.15); border: 1px solid #38bdf8; color: #38bdf8; font-weight: 700;">
+              <span>🎨</span> Copy 9:16 Prompt Only
+            </button>
           </div>
         </div>
       `;
@@ -694,6 +729,30 @@ function openEpisodeModal(id) {
   `;
 
   modal.classList.add('active');
+
+  modal.querySelectorAll('.modal-copy-telugu').forEach(btn => {
+    btn.addEventListener('click', (e) => {
+      sound.playPop();
+      const cnum = parseInt(e.currentTarget.dataset.cnum);
+      const c = ep.clips.find(clip => clip.clipNumber === cnum);
+      if (c) {
+        navigator.clipboard.writeText(c.teluguVO);
+        alert(`✅ Clip ${cnum} Telugu Voiceover copied!\n\nPaste this into your TTS / Voice Generator.`);
+      }
+    });
+  });
+
+  modal.querySelectorAll('.modal-copy-prompt').forEach(btn => {
+    btn.addEventListener('click', (e) => {
+      sound.playPop();
+      const cnum = parseInt(e.currentTarget.dataset.cnum);
+      const c = ep.clips.find(clip => clip.clipNumber === cnum);
+      if (c) {
+        navigator.clipboard.writeText(c.visualPrompt);
+        alert(`✅ Clip ${cnum} 9:16 Visual Prompt copied!\n\nPaste this into your AI Video/Image Generator.`);
+      }
+    });
+  });
 
   document.getElementById('btnCopyCaption')?.addEventListener('click', () => {
     sound.playPop();
