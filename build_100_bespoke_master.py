@@ -24,6 +24,8 @@ from catalog_batch2 import BATCH_26_50
 from catalog_batch3 import BATCH_51_75
 from catalog_batch4 import BATCH_76_100
 
+from bespoke_dialogue_catalog import BESPOKE_DIALOGUES
+
 BASE_STYLE = "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters"
 
 def build_all_100_episodes():
@@ -62,22 +64,29 @@ def build_all_100_episodes():
         nextTe = s.get("nextTe", f"{nextEpTitle} కథ")
 
         # -----------------
-        # Bespoke Dialogues
+        # Bespoke Dialogues & Prompts
         # -----------------
+        dlg = BESPOKE_DIALOGUES.get(eid, {
+            "c1_te": "ఈ పరిస్థితిలో నేను సమయస్ఫూర్తితో ఆలోచించాలి!",
+            "c1_en": "I must stay calm and use my wit!",
+            "c2_te": "నా సమయస్ఫూర్తే నాకు శ్రీరామరక్ష!",
+            "c2_en": "My presence of mind will turn this danger into safety!"
+        })
+
         # Clip 1: Hook & Crisis (00:00 - 00:10)
-        c1_vo = f"[Narrator]: \"{trapTe}\"\n[{leadTe}]: \"అయ్యో! ఈ అపాయం నుండి నేను ఎలా తప్పించుకోవాలి?\""
-        c1_sub = f"[Narrator]: \"{trap}\"\n[{lead}]: \"Oh no! How can I safely escape this deadly trap?\""
-        c1_prompt = f"{BASE_STYLE}. High-tension scene. Dynamic two-shot showing cute {lead} ({leadTe}) cornered by {antag} ({antagTe}) under ancient forest canopy. Detailed textures, dramatic volumetric lighting, 8k render."
+        c1_vo = f"[Narrator]: \"{trapTe}\"\n[{leadTe}]: \"{dlg['c1_te']}\""
+        c1_sub = f"[Narrator]: \"{trap}\"\n[{lead}]: \"{dlg['c1_en']}\""
+        c1_prompt = f"{BASE_STYLE}. High-tension scene: {trap}. Dynamic two-shot showing cute {lead} ({leadTe}) cornered by {antag} ({antagTe}) under ancient forest canopy. Detailed textures, dramatic volumetric lighting, 8k render, Unreal Engine 5."
 
         # Clip 2: The Physical Upayam & Science (00:10 - 00:20)
-        c2_vo = f"[{leadTe}]: \"నా దగ్గర అద్భుతమైన ఉపాయం ఉంది, చూడు!\"\n[Narrator]: \"{upayamTe}\""
-        c2_sub = f"[{lead}]: \"I have a clever strategy, watch this!\"\n[Narrator]: \"{upayam}\""
-        c2_prompt = f"{BASE_STYLE}. Dynamic action sequence showing the exact cause-and-effect trick: {upayam}. Clear physical motion blur, expressive animated facial expressions, 8k render."
+        c2_vo = f"[{leadTe}]: \"{dlg['c2_te']}\"\n[Narrator]: \"{upayamTe}\""
+        c2_sub = f"[{lead}]: \"{dlg['c2_en']}\"\n[Narrator]: \"{upayam}\""
+        c2_prompt = f"{BASE_STYLE}. Dynamic action sequence showing the exact cause-and-effect trick: {upayam}. Clear physical cause and effect, dynamic motion blur, expressive animated facial expressions, 8k render, Unreal Engine 5."
 
         # Clip 3: Climax Payoff & Moral (00:20 - 00:30)
         c3_vo = f"[Narrator]: \"{climaxTe}\"\n[Narrator]: \"నీతి: {moralTe} రేపు: {nextEpTitle}! ఇప్పుడే FOLLOW చేయండి!\""
         c3_sub = f"[Narrator]: \"{climax}\"\n[Narrator]: \"Moral: {moral} Tomorrow: Ep {nextEpId} ({nextEpTitle})! Follow now!\""
-        c3_prompt = f"{BASE_STYLE}. Comical slapstick resolution and glorious triumph. {climax}. Warm golden sunbeams, joyful celebrating characters, 8k render."
+        c3_prompt = f"{BASE_STYLE}. Slapstick comedy resolution and glorious triumph: {climax}. Warm golden sunbeams, joyful celebrating characters, 8k render, Unreal Engine 5."
 
         # -----------------
         # Social Media Package
@@ -311,9 +320,11 @@ def build_master_docx(episodes):
         r_cov = p_soc.add_run(f"{ep.get('coverPrompt', '')}\n")
         r_cov.font.size = Pt(8.5)
 
-    out_docx = r"C:\Users\Suresh\Downloads\Panchatantra_Kids_Complete_30s_Production_Scripts.docx"
-    doc.save(out_docx)
-    print(f"SUCCESS: Saved 100-episode production scripts doc to {out_docx}")
+    out_docx_dl = r"C:\Users\Suresh\Downloads\Panchatantra_Kids_Complete_30s_Production_Scripts.docx"
+    out_docx_local = r"docs/Panchatantra_Kids_Complete_30s_Production_Scripts.docx"
+    doc.save(out_docx_dl)
+    doc.save(out_docx_local)
+    print(f"SUCCESS: Saved 100-episode production scripts doc to:\n  - {out_docx_dl}\n  - {out_docx_local}")
 
 if __name__ == "__main__":
     eps = build_all_100_episodes()
