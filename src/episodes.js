@@ -523,7 +523,7 @@ export const episodes = [
     "hookEn": "Wait! How did Snake turn this impossible crisis into a clever victory?!",
     "hookTe": "ఆగండి! బంగారు నాణేల పాము ఇంత పెద్ద సమస్య నుండి తన అద్భుతమైన తెలివితో ఎలా బయటపడిందో తెలుసా?",
     "beat1": "A grateful cobra gives a pure gold coin every day in exchange for a saucer of milk placed near an anthill by a humble farmer.",
-    "beat2": "The farmer's greedy son plots: 'The anthill must be filled with thousands of gold coins! Why wait? I will strike the cobra and take them all!'",
+    "beat2": "The farmer's greedy son plots: 'The anthill must be filled with thousands of gold coins! Why wait? I will catch the cobra and take them all!'",
     "beat3": "As the son swings a heavy stick, the lightning-fast cobra dodges the blow, hisses fiercely, snaps the stick in half, and vanishes into the earth forever, cutting off all gold forever.",
     "nextEpId": 10,
     "nextEpTitle": "The Foolish Deer",
@@ -553,9 +553,9 @@ export const episodes = [
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
         "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action sequence showing the exact cause-and-effect trick: The farmer's greedy son plots: 'The anthill must be filled with thousands of gold coins! Why wait? I will strike the cobra and take them all!'. Clear physical cause and effect, dynamic motion blur, expressive animated facial expressions, 8k render, Unreal Engine 5.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action sequence showing the exact cause-and-effect trick: The farmer's greedy son plots: 'The anthill must be filled with thousands of gold coins! Why wait? I will catch the cobra and take them all!'. Clear physical cause and effect, dynamic motion blur, expressive animated facial expressions, 8k render, Unreal Engine 5.",
         "teluguVO": "[బంగారు నాణేల పాము]: \"ఒకేసారి బంగారమంతా దక్కాలంటే పామును కొట్టి చంపాల్సిందే!\"\n[Narrator]: \"రైతు కొడుకు పుట్టలో బంగారు నిధి మొత్తం ఒక్కసారే కొట్టేయాలని కర్ర పట్టుకుని పాముపైకి వెళ్లాడు!\"",
-        "englishSub": "[Snake]: \"To get all the gold at once, I must strike this snake down!\"\n[Narrator]: \"The farmer's greedy son plots: 'The anthill must be filled with thousands of gold coins! Why wait? I will strike the cobra and take them all!'\"",
+        "englishSub": "[Snake]: \"To get all the gold at once, I must strike this snake down!\"\n[Narrator]: \"The farmer's greedy son plots: 'The anthill must be filled with thousands of gold coins! Why wait? I will catch the cobra and take them all!'\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -626,7 +626,7 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Slapstick comedy resolution and glorious triumph: With dogs closing in, deer drops his pride, pushes furiously with his despised slender hooves, snaps the branches, and escapes—learning his legs saved him while his vanity nearly killed him.. Warm golden sunbeams, joyful celebrating characters, 8k render, Unreal Engine 5.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Slapstick comedy resolution and glorious triumph: With dogs closing in, deer drops his pride, pushes furiously with his despised slender hooves, snaps the branches, and escapes—learning his legs saved him while his vanity nearly trapped him.. Warm golden sunbeams, joyful celebrating characters, 8k render, Unreal Engine 5.",
         "teluguVO": "[Narrator]: \"తాను ద్వేషించిన సన్నని కాళ్లతోనే నేలను బలంగా తన్ని ముళ్లను విరిచి ప్రాణాలు కాపాడుకుంది!\"\n[Narrator]: \"నీతి: పైపై అందం అపాయాన్ని తెచ్చిపెడుతుంది, ఉపయోగపడే శక్తే మనల్ని కాపాడుతుంది! రేపు: The Wise Old Sparrow & The Hawk! ఇప్పుడే FOLLOW చేయండి!\"",
         "englishSub": "[Narrator]: \"With dogs closing in, deer drops his pride, pushes furiously with his despised slender hooves, snaps the branches, and escapes—learning his legs saved him while his vanity nearly killed him.\"\n[Narrator]: \"Moral: Flashy ego traps you; humble strength saves your life! Tomorrow: Ep 11 (The Wise Old Sparrow & The Hawk)! Follow now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
@@ -1057,7 +1057,7 @@ export const episodes = [
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
         "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action sequence showing the exact cause-and-effect trick: Instead of fleeing blindly, the jackal creeps low through grass to investigate the source; he discovers an abandoned army drum whose taut leather skin is being struck by wind-blown tree branches.. Clear physical cause and effect, dynamic motion blur, expressive animated facial expressions, 8k render, Unreal Engine 5.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action sequence showing the exact cause-and-effect trick: Instead of fleeing blindly, the jackal creeps low through grass to investigate the source; he discovers an abandoned army drum whose taut leather skin is being tapped by wind-blown tree branches.. Clear physical cause and effect, dynamic motion blur, expressive animated facial expressions, 8k render, Unreal Engine 5.",
         "teluguVO": "[తెలివైన నక్క]: \"అరే! ఇది రాక్షసుడు కాదు... గాలికి ఊగే కొమ్మలు పాత యుద్ధ డ్రమ్మును కొడుతున్నాయి!\"\n[Narrator]: \"పారిపోకుండా నక్క నిదానంగా వెళ్లి పరిశీలించింది; గాలికి చెట్టు కొమ్మ ఊగుతూ పాత యుద్ధ డ్రమ్మును కొడుతోందని కనిపెట్టింది!\"",
         "englishSub": "[Jackal]: \"Wait! That is no monster... tree branches are striking an old abandoned war drum!\"\n[Narrator]: \"Instead of fleeing blindly, the jackal creeps low through grass to investigate the source; he discovers an abandoned army drum whose taut leather skin is being struck by wind-blown tree branches.\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
@@ -1246,7 +1246,7 @@ export const episodes = [
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
         "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action sequence showing the exact cause-and-effect trick: The crow flies in and whispers strategy: deer bloats belly and plays dead with stiff legs; crow pecks deer's eyes so hunter believes carcass is rotten.. Clear physical cause and effect, dynamic motion blur, expressive animated facial expressions, 8k render, Unreal Engine 5.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action sequence showing the exact cause-and-effect trick: The crow flies in and whispers strategy: deer rests motionlessly on the grass pretending to sleep; crow perches nearby to fool the approaching hunter.. Clear physical cause and effect, dynamic motion blur, expressive animated facial expressions, 8k render, Unreal Engine 5.",
         "teluguVO": "[స్నేహశీలి కాకి]: \"చచ్చినట్లు కదలకుండా పడుకో... నేను కావ్ అని కూయగానే లేచి పరుగు తీయి!\"\n[Narrator]: \"కాకి వచ్చి జింకకు ఉపాయం చెప్పింది; జింక కడుపు ఉబ్బించి చనిపోయినట్లు పడుకోగా, కాకి దాని కళ్లను పొడుస్తున్నట్లు నటించింది!\"",
         "englishSub": "[Crow]: \"Lie stiff and play dead... the moment I give a sharp caw, leap and sprint!\"\n[Narrator]: \"The crow flies in and whispers strategy: deer bloats belly and plays dead with stiff legs; crow pecks deer's eyes so hunter believes carcass is rotten.\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
@@ -1256,7 +1256,7 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Slapstick comedy resolution and glorious triumph: The hunter removes the net thinking deer is dead; crow caws loudly! The deer springs up and bolts, and the hunter's thrown club accidentally hits the sneaky jackal!. Warm golden sunbeams, joyful celebrating characters, 8k render, Unreal Engine 5.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Slapstick comedy resolution and glorious triumph: The hunter removes the net thinking deer is asleep; crow caws loudly! The deer springs up and bolts, while the startled hunter drops his bag!. Warm golden sunbeams, joyful celebrating characters, 8k render, Unreal Engine 5.",
         "teluguVO": "[Narrator]: \"వేటగాడు వల తీయగానే కాకి అరవడంతో జింక మెరుపులా పారిపోయింది! వేటగాడు విసిరిన కర్ర తగిలి కపట నక్కకు బుద్ధి వచ్చింది.\"\n[Narrator]: \"నీతి: నిజమైన మిత్రుడు ఆపదలో ఆదుకుంటాడు, కపట మిత్రుడు మోసం చేస్తాడు! రేపు: The Lion, Fox & The Donkey! ఇప్పుడే FOLLOW చేయండి!\"",
         "englishSub": "[Narrator]: \"The hunter removes the net thinking deer is dead; crow caws loudly! The deer springs up and bolts, and the hunter's thrown club accidentally hits the sneaky jackal!\"\n[Narrator]: \"Moral: True friends devise escapes; false friends lead to traps! Tomorrow: Ep 21 (The Lion, Fox & The Donkey)! Follow now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
@@ -1293,36 +1293,36 @@ export const episodes = [
     "prompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Fox in enchanted lush jungle, 8k render, Unreal Engine 5.",
     "views": 33610,
     "retention": 86.3,
-    "clips": [
+            "clips": [
       {
         "clipNumber": 1,
         "timeRange": "00:00 – 00:10 (10 Seconds)",
-        "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
-        "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene: An injured old lion cannot hunt; he orders the fox to bring food or become dinner himself.. Dynamic two-shot showing cute Fox (జిత్తులమారి నక్క) cornered by Hungry Lion (ఆకలి సింహం) under ancient forest canopy. Detailed textures, dramatic volumetric lighting, 8k render, Unreal Engine 5.",
-        "teluguVO": "[Narrator]: \"వేటాడలేని ముసలి సింహం ఆహారం తీసుకురమ్మని, లేకపోతే నిన్నే తింటానని నక్కను బెదిరించింది!\"\n[జిత్తులమారి నక్క]: \"ఆకలి సింహం నన్ను చంపాలని చూస్తోంది, గాడిదను ఎరగా వేసి తప్పించుకోవాలి!\"",
-        "englishSub": "[Narrator]: \"An injured old lion cannot hunt; he orders the fox to bring food or become dinner himself.\"\n[Fox]: \"The starving lion wants to devour me; I must lure the foolish donkey as bait!\"",
-        "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
+        "purpose": "Opening Scene — The Hungry Lion & The Clever Fox",
+        "cameraAction": "Low-angle gentle slow push-in with volumetric sunlight.",
+        "visualPrompt": "3D Pixar animation style, 9:16 vertical ratio, sunlit ancient jungle cave. An old majestic cartoon lion with a fluffy golden mane sits proudly next to a peaceful mossy rock. In front of him, an adorable little clever red fox with big bright green eyes smiles and bows politely. Warm volumetric sunbeams, floating golden dust, vibrant lush green leaves, ultra-detailed fur, 8k render, Unreal Engine 5.",
+        "teluguVO": "[Narrator]: \"అడవిలో ముసలి సింహం ఆకలితో అటూఇటూ తిరుగుతూ, నక్కను పండ్ల విందు తీసుకురమ్మని కోరింది!\"\n[జిత్తులమారి నక్క]: \"ఈ సింహానికి మంచి విందు తెచ్చి నా తెలివితో మెప్పించాలి!\"",
+        "englishSub": "[Narrator]: \"In the forest, an old lion was hungry and asked the clever fox to bring a grand fruit feast!\"\n[Clever Fox]: \"I will use my clever wits to arrange the best feast for the King!\"",
+        "sfx": "0:01s Playful Lion Roar • 0:03s Gentle Jungle Chime • 0:07s Tiptoe Marimba"
       },
       {
         "clipNumber": 2,
         "timeRange": "00:10 – 00:20 (10 Seconds)",
-        "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
-        "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action sequence showing the exact cause-and-effect trick: The fox tricks a foolish donkey into the cave; after lion strikes donkey, fox secretly eats the donkey's brain while lion washes paws in stream.. Clear physical cause and effect, dynamic motion blur, expressive animated facial expressions, 8k render, Unreal Engine 5.",
-        "teluguVO": "[జిత్తులమారి నక్క]: \"గాడిద బావా! అడవి రాజు నీకు మంత్రి పదవి ఇస్తానన్నాడు, రా వెళ్దాం!\"\n[Narrator]: \"నక్క గాడిదను గుహలోకి రప్పించింది; సింహం వేటాడాక, అది కడుక్కోవడానికి వెళ్లిన సమయంలో నక్క గాడిద మెదడును తినేసింది!\"",
-        "englishSub": "[Fox]: \"Brother Donkey! The King of the jungle wants to appoint you Chief Minister!\"\n[Narrator]: \"The fox tricks a foolish donkey into the cave; after lion strikes donkey, fox secretly eats the donkey's brain while lion washes paws in stream.\"",
-        "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
+        "purpose": "Rising Action — The Donkey's Royal Parade",
+        "cameraAction": "Dynamic side tracking shot of donkey carrying fruit basket.",
+        "visualPrompt": "3D Pixar animation style, 9:16 vertical ratio, bright sunny jungle path. A goofy happy cartoon donkey wearing a colorful flower garland trots joyfully, carrying a woven basket of bright yellow mangoes. Beside him, a cheerful little cartoon fox walks along smiling. Gentle cinematic sunlight, rich textures, vibrant colors, 8k render, Unreal Engine 5.",
+        "teluguVO": "[జిత్తులమారి నక్క]: \"గాడిద రాజా! అడవికి నిన్నే మంత్రిని చేస్తారట, పండ్ల బుట్టతో రా వెళ్దాం!\"\n[Narrator]: \"గుహలో సింహం గర్జన వినగానే గాడిద పరుగు తీసింది; నక్క పండ్ల బుట్టను చక్కగా దాచేసింది!\"",
+        "englishSub": "[Clever Fox]: \"King Donkey! You are invited to be the Minister, bring your fruit basket and come along!\"\n[Narrator]: \"Hearing the lion's roar, the donkey bolted away; the fox safely kept the sweet fruit basket!\"",
+        "sfx": "0:11s Royal Trumpet Fanfare • 0:14s Cartoon Boing • 0:17s Fast Whoosh"
       },
       {
         "clipNumber": 3,
         "timeRange": "00:20 – 00:30 (10 Seconds)",
-        "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
-        "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Slapstick comedy resolution and glorious triumph: Furious lion roars: 'Where is the brain?!' Fox chuckles: 'O King, if this donkey had a brain, would he ever walk into a lion's den?' Lion nods foolishly.. Warm golden sunbeams, joyful celebrating characters, 8k render, Unreal Engine 5.",
-        "teluguVO": "[Narrator]: \"సింహం 'మెదడు ఏది?' అని అడగగా, 'గాడిదకు బుర్ర ఉంటే సింహం గుహలోకి వస్తుందా రాజా?' అని నక్క నమ్మించింది! సింహం ఒప్పుకుంది.\"\n[Narrator]: \"నీతి: సమయస్ఫూర్తితో ఎంతటి బలవంతుడినైనా బోల్తా కొట్టించవచ్చు! రేపు: The Camel & The Lion! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"Furious lion roars: 'Where is the brain?!' Fox chuckles: 'O King, if this donkey had a brain, would he ever walk into a lion's den?' Lion nods foolishly.\"\n[Narrator]: \"Moral: The cunning servant always outwits the raging master! Tomorrow: Ep 22 (The Camel & The Lion)! Follow now!\"",
-        "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
+        "purpose": "Comical Payoff & Panchatantra Moral",
+        "cameraAction": "Warm sunset medium two-shot with playful wink.",
+        "visualPrompt": "3D Pixar animation style, 9:16 vertical ratio, golden sunset clearing in the forest. An adorable clever little red fox happily eats a sweet golden fruit, giving a playful happy wink to the camera. In the background, a friendly cartoon lion scratches his head with a funny puzzled smile. Warm cinematic lighting, sparkling magical dust, 8k render, Unreal Engine 5.",
+        "teluguVO": "[Narrator]: \"సింహం అయోమయంగా చూస్తుంటే... నక్క పండ్లను ఆరగిస్తూ చిరునవ్వు నవ్వింది!\"\n[Narrator]: \"నీతి: ఎంతటి బలవంతుడినైనా సమయస్ఫూర్తితో మెప్పించవచ్చు! రేపటి కథ కోసం ఇప్పుడే FOLLOW చేయండి!\"",
+        "englishSub": "[Narrator]: \"While the lion looked around puzzled, the clever fox enjoyed the delicious fruits with a smile!\"\n[Narrator]: \"Moral: Presence of mind is greater than physical strength! Follow now for Episode 22!\"",
+        "sfx": "0:21s Funny Cartoon Gulp • 0:24s Playful Winking Ding • 0:27s Upbeat Telugu Kids Signature Outro"
       }
     ]
   },
@@ -1488,7 +1488,7 @@ export const episodes = [
         "timeRange": "00:00 – 00:10 (10 Seconds)",
         "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene: A mouse finds himself trapped on a tree root between a fierce hunting wildcat caught in a poacher's snare and an owl circling overhead ready to strike.. Dynamic two-shot showing cute Mouse (చిట్టి ఎలుక) cornered by Caged Cat & Owl (బోనులో పిల్లి, వేట గుడ్లగూబ) under ancient forest canopy. Detailed textures, dramatic volumetric lighting, 8k render, Unreal Engine 5.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene: A mouse finds himself trapped on a tree root between a fierce hunting wildcat caught in a poacher's snare and an owl swooping overhead with keen watchful eyes.. Dynamic two-shot showing cute Mouse (చిట్టి ఎలుక) cornered by Caged Cat & Owl (బోనులో పిల్లి, వేట గుడ్లగూబ) under ancient forest canopy. Detailed textures, dramatic volumetric lighting, 8k render, Unreal Engine 5.",
         "teluguVO": "[Narrator]: \"కింద బోనులో పిల్లి, పైన వేటాడే గుడ్లగూబ మధ్య చిట్టి ఎలుక ప్రాణసంకటంలో చిక్కుకుంది!\"\n[చిట్టి ఎలుక]: \"చెట్టుపై గుడ్లగూబ కాపలా... కింద బోనులో పిల్లి! నేను ఎటు వెళ్లాలి?\"",
         "englishSub": "[Narrator]: \"A mouse finds himself trapped on a tree root between a fierce hunting wildcat caught in a poacher's snare and an owl circling overhead ready to strike.\"\n[Mouse]: \"Hunting owl perched above... caged cat below! How can I survive between both?\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
@@ -1658,7 +1658,7 @@ export const episodes = [
     "hookTe": "ఆగండి! తెలివైన ఎండ్రకాయ ఇంత పెద్ద సమస్య నుండి తన అద్భుతమైన తెలివితో ఎలా బయటపడిందో తెలుసా?",
     "beat1": "A deceitful old heron offers a free 'flying taxi' to carry creatures from a drying pond to a crystal lake, secretly taking them to a high rock to feast.",
     "beat2": "The heron carries the crab high in the sky. Looking down at the rock, the crab spots a mountain of clean fish bones; realizing the trap, he clamps his razor pincers around the heron's throat.",
-    "beat3": "Choking and squawking for mercy, the heron is forced to crash-land gently back into the pond. The crab dives into deep mud while the humbled heron limps away.",
+    "beat3": "Squawking in comical surprise and flapping wildly, the heron is forced to touch down gently back into the pond. The crab dives into deep mud while the humbled heron limps away.",
     "nextEpId": 28,
     "nextEpTitle": "The Little Fish & The Net",
     "teaserEn": "Tomorrow in Ep 28: The Little Fish & The Net! TAP FOLLOW NOW!",
@@ -1697,9 +1697,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Slapstick comedy resolution and glorious triumph: Choking and squawking for mercy, the heron is forced to crash-land gently back into the pond. The crab dives into deep mud while the humbled heron limps away.. Warm golden sunbeams, joyful celebrating characters, 8k render, Unreal Engine 5.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Slapstick comedy resolution and glorious triumph: Squawking in comic surprise for mercy, the heron is forced to crash-land gently back into the pond. The crab dives into deep mud while the humbled heron limps away.. Warm golden sunbeams, joyful celebrating characters, 8k render, Unreal Engine 5.",
         "teluguVO": "[Narrator]: \"కొంగ గిలగిలా కొట్టుకుంటూ కిందకు దిగక తప్పలేదు! ఎండ్రకాయ నీటిలోకి జారిపోయి తోటి జీవులను రక్షించింది.\"\n[Narrator]: \"నీతి: మోసగాడు తన స్వంత దురాశ వల్లే నాశనమవుతాడు! రేపు: The Little Fish & The Net! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"Choking and squawking for mercy, the heron is forced to crash-land gently back into the pond. The crab dives into deep mud while the humbled heron limps away.\"\n[Narrator]: \"Moral: Cunning tricksters meet their end when greed blinds them! Tomorrow: Ep 28 (The Little Fish & The Net)! Follow now!\"",
+        "englishSub": "[Narrator]: \"Squawking in comic surprise for mercy, the heron is forced to crash-land gently back into the pond. The crab dives into deep mud while the humbled heron limps away.\"\n[Narrator]: \"Moral: Cunning tricksters meet their end when greed blinds them! Tomorrow: Ep 28 (The Little Fish & The Net)! Follow now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -1845,8 +1845,8 @@ export const episodes = [
     "status": "Ready",
     "hookEn": "Wait! How did Ant turn this impossible crisis into a clever victory?!",
     "hookTe": "ఆగండి! చిట్టి చీమ ఇంత పెద్ద సమస్య నుండి తన అద్భుతమైన తెలివితో ఎలా బయటపడిందో తెలుసా?",
-    "beat1": "A hunter silently draws a poisoned iron-tipped arrow, aiming directly at a peaceful white dove perched on a low mango branch.",
-    "beat2": "The ant—who was saved from drowning in the river earlier when the dove dropped a leaf—marches up the hunter's bare ankle and bites down with all its might!",
+    "beat1": "A hunter silently draws a wooden bow, aiming towards a peaceful white dove perched on a low mango branch.",
+    "beat2": "The ant—who was saved from drifting down the river earlier when the dove dropped a leaf—marches up the hunter's bare ankle and bites down with all its might!",
     "beat3": "The hunter yelps in agony 'OUCH!', dropping his bow as the arrow flies wide into the dirt. The startled dove bursts into safe flight, cooing thanks.",
     "nextEpId": 31,
     "nextEpTitle": "The Sparrow & The Rogue Elephant",
@@ -1866,9 +1866,9 @@ export const episodes = [
         "timeRange": "00:00 – 00:10 (10 Seconds)",
         "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene: A hunter silently draws a poisoned iron-tipped arrow, aiming directly at a peaceful white dove perched on a low mango branch.. Dynamic two-shot showing cute Ant (చిట్టి చీమ) cornered by Hunter's Arrow (వేటగాడి బాణం) under ancient forest canopy. Detailed textures, dramatic volumetric lighting, 8k render, Unreal Engine 5.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene: A hunter silently draws a wooden target arrow, aiming directly at a peaceful white dove perched on a low mango branch.. Dynamic two-shot showing cute Ant (చిట్టి చీమ) cornered by Hunter's Arrow (వేటగాడి బాణం) under ancient forest canopy. Detailed textures, dramatic volumetric lighting, 8k render, Unreal Engine 5.",
         "teluguVO": "[Narrator]: \"చెట్టు కొమ్మపై ఉన్న తెల్ల పావురాన్ని కొట్టడానికి వేటగాడు బాణం గురిపెట్టాడు, పావురానికి ఈ విషయం తెలియదు!\"\n[చిట్టి చీమ]: \"నీటిలో మునిగిపోతున్నప్పుడు పావురం ఆకు వేసి నన్ను కాపాడింది!\"",
-        "englishSub": "[Narrator]: \"A hunter silently draws a poisoned iron-tipped arrow, aiming directly at a peaceful white dove perched on a low mango branch.\"\n[Ant]: \"When I was drowning in the stream, the gentle dove dropped a leaf to save me!\"",
+        "englishSub": "[Narrator]: \"A hunter silently draws a wooden target arrow, aiming directly at a peaceful white dove perched on a low mango branch.\"\n[Ant]: \"When I was drowning in the stream, the gentle dove dropped a leaf to save me!\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
@@ -1876,9 +1876,9 @@ export const episodes = [
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
         "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action sequence showing the exact cause-and-effect trick: The ant—who was saved from drowning in the river earlier when the dove dropped a leaf—marches up the hunter's bare ankle and bites down with all its might!. Clear physical cause and effect, dynamic motion blur, expressive animated facial expressions, 8k render, Unreal Engine 5.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action sequence showing the exact cause-and-effect trick: The ant—who was saved from floating away in the river earlier when the dove dropped a leaf—marches up the hunter's bare ankle and bites down with all its might!. Clear physical cause and effect, dynamic motion blur, expressive animated facial expressions, 8k render, Unreal Engine 5.",
         "teluguVO": "[చిట్టి చీమ]: \"వేటగాడు పావురంపై బాణం ఎక్కుపెట్టాడు... వాడి కాలిపై గురిచూసి కుడతాను!\"\n[Narrator]: \"గతంలో తనను కాపాడిన పావురాన్ని చూసి, చీమ వేగంగా వేటగాడి కాలిపైకి ఎక్కి గట్టిగా కుట్టింది!\"",
-        "englishSub": "[Ant]: \"A poacher is aiming his arrow at the dove... I will sting his ankle with all my might!\"\n[Narrator]: \"The ant—who was saved from drowning in the river earlier when the dove dropped a leaf—marches up the hunter's bare ankle and bites down with all its might!\"",
+        "englishSub": "[Ant]: \"A poacher is aiming his arrow at the dove... I will sting his ankle with all my might!\"\n[Narrator]: \"The ant—who was saved from floating away in the river earlier when the dove dropped a leaf—marches up the hunter's bare ankle and bites down with all its might!\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -2034,7 +2034,7 @@ export const episodes = [
     "status": "Ready",
     "hookEn": "Wait! How did Jackal turn this impossible crisis into a clever victory?!",
     "hookTe": "ఆగండి! తెలివైన నక్క ఇంత పెద్ద సమస్య నుండి తన అద్భుతమైన తెలివితో ఎలా బయటపడిందో తెలుసా?",
-    "beat1": "A jackal corners an antelope kill right as a ferocious golden lion leaps out of the bushes with bared fangs.",
+    "beat1": "A jackal corners a basket of ripe wild figs right as a majestic golden lion leaps out of the bushes with bared fangs.",
     "beat2": "Instead of running or defending the food, the jackal bows flat to the earth: 'O King of the Jungle! I have guarded this royal feast especially for your majesty!'",
     "beat3": "Pleased with the royal respect, the lion feasts on choice portions and magnanimously leaves the rest for the clever jackal to enjoy safely.",
     "nextEpId": 34,
@@ -2055,9 +2055,9 @@ export const episodes = [
         "timeRange": "00:00 – 00:10 (10 Seconds)",
         "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene: A jackal corners an antelope kill right as a ferocious golden lion leaps out of the bushes with bared fangs.. Dynamic two-shot showing cute Jackal (తెలివైన నక్క) cornered by Fierce Lion (ఆకలి సింహం) under ancient forest canopy. Detailed textures, dramatic volumetric lighting, 8k render, Unreal Engine 5.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene: A jackal corners a basket of berries right as a ferocious golden lion leaps out of the bushes with bared fangs.. Dynamic two-shot showing cute Jackal (తెలివైన నక్క) cornered by Fierce Lion (ఆకలి సింహం) under ancient forest canopy. Detailed textures, dramatic volumetric lighting, 8k render, Unreal Engine 5.",
         "teluguVO": "[Narrator]: \"నక్క ఆహారం కోసం వెతుకుతుండగా, ఎదురుగా భయంకరమైన సింహం పంజాలు విసిరేందుకు సిద్ధమైంది!\"\n[తెలివైన నక్క]: \"ఆకలి సింహం జంతువులను వేటాడి గుహలోకి తెచ్చుకుంటోంది!\"",
-        "englishSub": "[Narrator]: \"A jackal corners an antelope kill right as a ferocious golden lion leaps out of the bushes with bared fangs.\"\n[Jackal]: \"The fierce lion hunts wild game and retreats into his cavern lair!\"",
+        "englishSub": "[Narrator]: \"A jackal corners a basket of berries right as a ferocious golden lion leaps out of the bushes with bared fangs.\"\n[Jackal]: \"The fierce lion hunts wild game and retreats into his cavern lair!\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
@@ -2191,7 +2191,7 @@ export const episodes = [
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
         "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action sequence showing the exact cause-and-effect trick: The fish does not panic; it rolls over onto its back, puffs its gills out stiff, and plays completely dead with glassy eyes.. Clear physical cause and effect, dynamic motion blur, expressive animated facial expressions, 8k render, Unreal Engine 5.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action sequence showing the exact cause-and-effect trick: The fish does not panic; it rolls over onto its back, puffs its gills out stiff, and floats completely motionless like drifting water reeds.. Clear physical cause and effect, dynamic motion blur, expressive animated facial expressions, 8k render, Unreal Engine 5.",
         "teluguVO": "[సమయస్ఫూర్తి చేప]: \"చచ్చిన చేపలా తేలి నటిస్తాను... వల తీయగానే నదిలోకి దూకుతాను!\"\n[Narrator]: \"చేప భయపడకుండా వెల్లకిలా పడుకుని, మొప్పలను బిగబట్టి చనిపోయినట్లు నటిస్తూ పడి ఉంది!\"",
         "englishSub": "[Fish]: \"I will float belly-up playing dead... the instant the net unloads, I dive!\"\n[Narrator]: \"The fish does not panic; it rolls over onto its back, puffs its gills out stiff, and plays completely dead with glassy eyes.\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
@@ -2695,7 +2695,7 @@ export const episodes = [
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
         "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action sequence showing the exact cause-and-effect trick: The deer plays dead on the forest trail; hunter drops the turtle sack to run after the 'dead' deer. While hunter gives chase, the mouse slices open the leather bag.. Clear physical cause and effect, dynamic motion blur, expressive animated facial expressions, 8k render, Unreal Engine 5.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action sequence showing the exact cause-and-effect trick: The deer pretends to be asleep on the forest trail; hunter drops the sack to inspect the deer. While hunter is distracted, the mouse unties the leather bag.. Clear physical cause and effect, dynamic motion blur, expressive animated facial expressions, 8k render, Unreal Engine 5.",
         "teluguVO": "[తాబేలు]: \"జింక చచ్చినట్లు నటిస్తే, వేటగాడు సంచి కిందపెడతాడు... ఎలుక సంచిని కొరికేస్తుంది!\"\n[Narrator]: \"జింక దారిలో చనిపోయినట్లు పడుకోగా, వేటగాడు సంచిని నేలకేసి జింక కోసం పరుగెత్తాడు; ఆ సమయంలో ఎలుక సంచిని కొరికేసింది!\"",
         "englishSub": "[Turtle]: \"Deer plays dead to distract the hunter; mouse slices the sack open!\"\n[Narrator]: \"The deer plays dead on the forest trail; hunter drops the turtle sack to run after the 'dead' deer. While hunter gives chase, the mouse slices open the leather bag.\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
@@ -2811,7 +2811,7 @@ export const episodes = [
         "timeRange": "00:00 – 00:10 (10 Seconds)",
         "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene: An unknown vibrating thunder sound echoes through the jungle, convincing all timid animals that a giant flesh-eating beast has arrived.. Dynamic two-shot showing cute Jackal (నక్క) cornered by Scary Forest Noise (అడవి గర్జన శబ్దం) under ancient forest canopy. Detailed textures, dramatic volumetric lighting, 8k render, Unreal Engine 5.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene: An unknown vibrating thunder sound echoes through the jungle, convincing all timid animals that a giant mythical jungle creature has arrived.. Dynamic two-shot showing cute Jackal (నక్క) cornered by Scary Forest Noise (అడవి గర్జన శబ్దం) under ancient forest canopy. Detailed textures, dramatic volumetric lighting, 8k render, Unreal Engine 5.",
         "teluguVO": "[Narrator]: \"అడవిలో చెవులు చిల్లులు పడే శబ్దం రావడంతో జంతువులన్నీ ఏదో రాక్షసుడు వచ్చాడని భయపడ్డాయి!\"\n[నక్క]: \"తుప్పల వెనుక నుంచి వచ్చే వింత శబ్దం విని అడవి జంతువులన్నీ పారిపోతున్నాయి!\"",
         "englishSub": "[Narrator]: \"An unknown vibrating thunder sound echoes through the jungle, convincing all timid animals that a giant flesh-eating beast has arrived.\"\n[Jackal]: \"A deep reverberating echo from the thickets frightens all forest animals away!\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
@@ -2918,7 +2918,7 @@ export const episodes = [
     "hookTe": "ఆగండి! వెండి చేప ఇంత పెద్ద సమస్య నుండి తన అద్భుతమైన తెలివితో ఎలా బయటపడిందో తెలుసా?",
     "beat1": "A patient crane stands frozen in shallow water, raising his razor spear-beak ready to impale a silver fish swimming below.",
     "beat2": "The silver fish rapidly swishes its tail in tight concentric rings, creating surface refraction ripple waves that distort its visual location.",
-    "beat3": "The crane strikes with force, jamming his beak deep into empty riverbed mud, while the silver fish darts into deep cool reeds.",
+    "beat3": "The crane swoops with force, plunging his beak deep into empty riverbed mud, while the silver fish darts into deep cool reeds.",
     "nextEpId": 48,
     "nextEpTitle": "The Blue Bird's Secret",
     "teaserEn": "Tomorrow in Ep 48: The Blue Bird's Secret! TAP FOLLOW NOW!",
@@ -2957,9 +2957,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Slapstick comedy resolution and glorious triumph: The crane strikes with force, jamming his beak deep into empty riverbed mud, while the silver fish darts into deep cool reeds.. Warm golden sunbeams, joyful celebrating characters, 8k render, Unreal Engine 5.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Slapstick comedy resolution and glorious triumph: The crane plunges with speed, jamming his beak deep into empty riverbed mud, while the silver fish darts into deep cool reeds.. Warm golden sunbeams, joyful celebrating characters, 8k render, Unreal Engine 5.",
         "teluguVO": "[Narrator]: \"కొంగ గురితప్పి బురదలోకి ముక్కును గుచ్చుకుంది! చేప రెప్పపాటులో లోతైన నీళ్లలోకి పారిపోయింది.\"\n[Narrator]: \"నీతి: సహజ శక్తులను తెలివిగా ఉపయోగిస్తే శత్రువు దాడిని వమ్ము చేయవచ్చు! రేపు: The Blue Bird's Secret! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The crane strikes with force, jamming his beak deep into empty riverbed mud, while the silver fish darts into deep cool reeds.\"\n[Narrator]: \"Moral: Use water physics to distort the predator's spear-beak aim! Tomorrow: Ep 48 (The Blue Bird's Secret)! Follow now!\"",
+        "englishSub": "[Narrator]: \"The crane plunges with speed, jamming his beak deep into empty riverbed mud, while the silver fish darts into deep cool reeds.\"\n[Narrator]: \"Moral: Use water physics to distort the predator's spear-beak aim! Tomorrow: Ep 48 (The Blue Bird's Secret)! Follow now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -3106,7 +3106,7 @@ export const episodes = [
     "hookEn": "Wait! How did Crane turn this impossible crisis into a clever victory?!",
     "hookTe": "ఆగండి! సాదా కొంగ ఇంత పెద్ద సమస్య నుండి తన అద్భుతమైన తెలివితో ఎలా బయటపడిందో తెలుసా?",
     "beat1": "A flamboyant peacock parades his sparkling tail feathers, mocking the crane's plain grey wings as ugly and worthless.",
-    "beat2": "A sudden torrential thunderstorm strikes the clearing, soaking the peacock's heavy tail feathers like a lead sponge and pinning him to the muddy earth.",
+    "beat2": "A sudden torrential rainstorm sweeps the clearing, soaking the peacock's heavy tail feathers like a lead sponge and pinning him to the muddy earth.",
     "beat3": "The crane extends his strong, waterproof wings, soaring effortlessly into the safe shelter of the cliffs while the shivering peacock is stuck in mud.",
     "nextEpId": 51,
     "nextEpTitle": "The Fox & The Sour Grapes",
@@ -3136,9 +3136,9 @@ export const episodes = [
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
         "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action sequence showing the exact cause-and-effect trick: A sudden torrential thunderstorm strikes the clearing, soaking the peacock's heavy tail feathers like a lead sponge and pinning him to the muddy earth.. Clear physical cause and effect, dynamic motion blur, expressive animated facial expressions, 8k render, Unreal Engine 5.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action sequence showing the exact cause-and-effect trick: A sudden torrential rainstorm sweeps the clearing, soaking the peacock's heavy tail feathers like a lead sponge and pinning him to the muddy earth.. Clear physical cause and effect, dynamic motion blur, expressive animated facial expressions, 8k render, Unreal Engine 5.",
         "teluguVO": "[సాదా కొంగ]: \"నీ ఈకలు అందంగా ఉన్నా ఎగరలేవు... నా రెక్కలు ఆకాశమంత ఎత్తుకు ఎగురుతాయి!\"\n[Narrator]: \"అకస్మాత్తుగా భారీ వర్షం కురవడంతో నెమలి పించం తడిసి ముద్దయి బరువెక్కిపోయింది, అది అడుగు కూడా వేయలేకపోయింది!\"",
-        "englishSub": "[Crane]: \"Your feathers look pretty on the ground, but my white wings soar to the clouds!\"\n[Narrator]: \"A sudden torrential thunderstorm strikes the clearing, soaking the peacock's heavy tail feathers like a lead sponge and pinning him to the muddy earth.\"",
+        "englishSub": "[Crane]: \"Your feathers look pretty on the ground, but my white wings soar to the clouds!\"\n[Narrator]: \"A sudden torrential rainstorm sweeps the clearing, soaking the peacock's heavy tail feathers like a lead sponge and pinning him to the muddy earth.\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -3422,7 +3422,7 @@ export const episodes = [
     "hookTe": "ఆగండి! రామచిలుక ఇంత పెద్ద సమస్య నుండి తన అద్భుతమైన తెలివితో ఎలా బయటపడిందో తెలుసా?",
     "beat1": "A green parakeet is trapped inside the king's royal gold cage, fed sweet raisins but weeping for the wide blue sky and leafy forest treetops.",
     "beat2": "The parrot recalls an ancient jungle secret: he lies completely motionless on the cage floor with eyes rolled back, claws curled stiff, and breath stopped.",
-    "beat3": "The weeping royal attendant opens the cage door to carry the 'dead' bird out; in a flash, the parrot springs up and shoots like a green rocket into the clouds!",
+    "beat3": "The weeping royal attendant opens the cage door to carry the quiet resting bird out; in a flash, the parrot springs up and shoots like a green rocket into the clouds!",
     "nextEpId": 56,
     "nextEpTitle": "The King & The Truthful Parrot",
     "teaserEn": "Tomorrow in Ep 56: The King & The Truthful Parrot! TAP FOLLOW NOW!",
@@ -3461,9 +3461,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Slapstick comedy resolution and glorious triumph: The weeping royal attendant opens the cage door to carry the 'dead' bird out; in a flash, the parrot springs up and shoots like a green rocket into the clouds!. Warm golden sunbeams, joyful celebrating characters, 8k render, Unreal Engine 5.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Slapstick comedy resolution and glorious triumph: The weeping royal attendant opens the cage door to carry the sleeping bird out; in a flash, the parrot springs up and shoots like a green rocket into the clouds!. Warm golden sunbeams, joyful celebrating characters, 8k render, Unreal Engine 5.",
         "teluguVO": "[Narrator]: \"సేవకుడు తలుపు తీసి బయటకు తీయగానే, చిలుక రెక్కలు విప్పి మెరుపులా ఆకాశంలోకి ఎగిరిపోయింది!\"\n[Narrator]: \"నీతి: స్వేచ్ఛను మించిన భాగ్యం లేదు, ఉపాయంతో బంధనాలను తెంచుకోవచ్చు! రేపు: The King & The Truthful Parrot! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The weeping royal attendant opens the cage door to carry the 'dead' bird out; in a flash, the parrot springs up and shoots like a green rocket into the clouds!\"\n[Narrator]: \"Moral: Freedom to fly in skies is sweeter than golden bars! Tomorrow: Ep 56 (The King & The Truthful Parrot)! Follow now!\"",
+        "englishSub": "[Narrator]: \"The weeping royal attendant opens the cage door to carry the sleeping bird out; in a flash, the parrot springs up and shoots like a green rocket into the clouds!\"\n[Narrator]: \"Moral: Freedom to fly in skies is sweeter than golden bars! Tomorrow: Ep 56 (The King & The Truthful Parrot)! Follow now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -3514,7 +3514,7 @@ export const episodes = [
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
         "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action sequence showing the exact cause-and-effect trick: The observant royal parrot spots glinting iron sword hilts beneath the grain sacks, squawking loudly from the chandelier: 'Swords in the grain! Ambush at the gates!'. Clear physical cause and effect, dynamic motion blur, expressive animated facial expressions, 8k render, Unreal Engine 5.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action sequence showing the exact cause-and-effect trick: The observant royal parrot spots hidden shining trinkets beneath the grain sacks, squawking loudly from the chandelier: 'Secret mischief in the grain! Watch the palace gates!'. Clear physical cause and effect, dynamic motion blur, expressive animated facial expressions, 8k render, Unreal Engine 5.",
         "teluguVO": "[నిజాయితీ చిలుక]: \"నిజాయితీ రామచిలుక నిర్భయంగా ప్రజల కష్టాలను రాజుకు వినిపించింది!\"\n[Narrator]: \"చిలుక ధాన్యపు బస్తాల కింద కత్తుల మెరుపును గమనించింది; వెంటనే పెద్దగా అరుస్తూ రాజును హెచ్చరించింది!\"",
         "englishSub": "[Parrot]: \"The honest parrot repeats the actual cries of the suffering farmers aloud!\"\n[Narrator]: \"The observant royal parrot spots glinting iron sword hilts beneath the grain sacks, squawking loudly from the chandelier: 'Swords in the grain! Ambush at the gates!'\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
@@ -3862,7 +3862,7 @@ export const episodes = [
     "hookEn": "Wait! How did Goat turn this impossible crisis into a clever victory?!",
     "hookTe": "ఆగండి! తెలివైన మేక ఇంత పెద్ద సమస్య నుండి తన అద్భుతమైన తెలివితో ఎలా బయటపడిందో తెలుసా?",
     "beat1": "A fierce grey wolf ambushes a young goat stranded behind the herd in an open meadow, cornering him against a fence.",
-    "beat2": "The goat calmly smiles: 'Since I must die, I wish to dance one final dance. Please play a lively tune on your shepherd's flute!' Flattered, the wolf puffs cheeks and pipes music.",
+    "beat2": "The goat calmly smiles: 'Before our journey ends, I wish to dance one final dance. Please play a lively tune on your shepherd's flute!' Flattered, the wolf puffs cheeks and pipes music.",
     "beat3": "The shepherd's fierce guard hounds hear the loud music, burst into the clearing barking fury; the wolf drops the flute and runs for his life while the goat trots home.",
     "nextEpId": 63,
     "nextEpTitle": "The Shepherd & The Wolf Alarm",
@@ -3892,9 +3892,9 @@ export const episodes = [
         "timeRange": "00:10 – 00:20 (10 Seconds)",
         "purpose": "⚠️ Rising Action & The Tangible Physical Upayam",
         "cameraAction": "Action sequence showing both characters and the exact physical trick execution.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action sequence showing the exact cause-and-effect trick: The goat calmly smiles: 'Since I must die, I wish to dance one final dance. Please play a lively tune on your shepherd's flute!' Flattered, the wolf puffs cheeks and pipes music.. Clear physical cause and effect, dynamic motion blur, expressive animated facial expressions, 8k render, Unreal Engine 5.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Dynamic action sequence showing the exact cause-and-effect trick: The goat calmly smiles: 'Before I depart, I wish to dance one final dance. Please play a lively tune on your shepherd's flute!' Flattered, the wolf puffs cheeks and pipes music.. Clear physical cause and effect, dynamic motion blur, expressive animated facial expressions, 8k render, Unreal Engine 5.",
         "teluguVO": "[తెలివైన మేక]: \"చనిపోయే ముందు నీ పిల్లనగ్రోవి ఊదు... నేను నాట్యం చేస్తానని కుక్కలను రప్పిస్తాను!\"\n[Narrator]: \"మేక భయపడకుండా, 'నేను చనిపోయేముందు నీ వేణువు పాటకు నాట్యం చేయాలనుంది, వాయించు' అని తోడేలును పొగిడింది; తోడేలు పెద్దగా వేణువు ఊదింది!\"",
-        "englishSub": "[Goat]: \"Play a farewell tune on your flute while I dance... the melody calls the hounds!\"\n[Narrator]: \"The goat calmly smiles: 'Since I must die, I wish to dance one final dance. Please play a lively tune on your shepherd's flute!' Flattered, the wolf puffs cheeks and pipes music.\"",
+        "englishSub": "[Goat]: \"Play a farewell tune on your flute while I dance... the melody calls the hounds!\"\n[Narrator]: \"The goat calmly smiles: 'Before I depart, I wish to dance one final dance. Please play a lively tune on your shepherd's flute!' Flattered, the wolf puffs cheeks and pipes music.\"",
         "sfx": "0:12s Whoosh Action Sound • 0:15s Foley Impact • 0:18s Reaction Yelp"
       },
       {
@@ -4115,7 +4115,7 @@ export const episodes = [
     "hookTe": "ఆగండి! గిజిగాడు పక్షి ఇంత పెద్ద సమస్య నుండి తన అద్భుతమైన తెలివితో ఎలా బయటపడిందో తెలుసా?",
     "beat1": "A ferocious gale-force storm warning sweeps through the woods; careless birds ignore it, resting in loose flimsy leaf piles.",
     "beat2": "The weaver bird works tirelessly for three days, weaving durable river grass fibers into tight spiraling knots securely anchored to a flexible willow branch.",
-    "beat3": "The storm roars, ripping loose leaves away; but the weaver's cradle nest sways safely in the wind like a cozy hammock, keeping all chicks dry and warm.",
+    "beat3": "The storm roars, sweeping loose leaves away; but the weaver's cradle nest sways safely in the wind like a cozy hammock, keeping all chicks dry and warm.",
     "nextEpId": 67,
     "nextEpTitle": "The Ant Colony's Sugar Bridge",
     "teaserEn": "Tomorrow in Ep 67: The Ant Colony's Sugar Bridge! TAP FOLLOW NOW!",
@@ -4154,9 +4154,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Slapstick comedy resolution and glorious triumph: The storm roars, ripping loose leaves away; but the weaver's cradle nest sways safely in the wind like a cozy hammock, keeping all chicks dry and warm.. Warm golden sunbeams, joyful celebrating characters, 8k render, Unreal Engine 5.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Slapstick comedy resolution and glorious triumph: The storm roars, sweeping loose leaves away; but the weaver's cradle nest sways safely in the wind like a cozy hammock, keeping all chicks dry and warm.. Warm golden sunbeams, joyful celebrating characters, 8k render, Unreal Engine 5.",
         "teluguVO": "[Narrator]: \"తుఫాను గాలికి చెట్లన్నీ ఊగినా గిజిగాడి గూడు చెక్కుచెదరలేదు! పిల్లలన్నీ వెచ్చగా సురక్షితంగా నిద్రపోయాయి.\"\n[Narrator]: \"నీతి: ముందుచూపుతో పటిష్టంగా చేసుకున్న ఏర్పాట్లు ఎంతటి తుఫానునైనా తట్టుకుని నిలుస్తాయి! రేపు: The Ant Colony's Sugar Bridge! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The storm roars, ripping loose leaves away; but the weaver's cradle nest sways safely in the wind like a cozy hammock, keeping all chicks dry and warm.\"\n[Narrator]: \"Moral: Sturdy woven foresight weathers storms where carelessness tears! Tomorrow: Ep 67 (The Ant Colony's Sugar Bridge)! Follow now!\"",
+        "englishSub": "[Narrator]: \"The storm roars, sweeping loose leaves away; but the weaver's cradle nest sways safely in the wind like a cozy hammock, keeping all chicks dry and warm.\"\n[Narrator]: \"Moral: Sturdy woven foresight weathers storms where carelessness tears! Tomorrow: Ep 67 (The Ant Colony's Sugar Bridge)! Follow now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -4302,7 +4302,7 @@ export const episodes = [
     "status": "Ready",
     "hookEn": "Wait! How did Fox turn this impossible crisis into a clever victory?!",
     "hookTe": "ఆగండి! నక్క ఇంత పెద్ద సమస్య నుండి తన అద్భుతమైన తెలివితో ఎలా బయటపడిందో తెలుసా?",
-    "beat1": "A vanity-struck fox finds a lost gold king's crown in the leaves, puts it on his head, and demands all animals bow down and obey him as king.",
+    "beat1": "A haughty, proud fox finds a lost gold king's crown in the leaves, puts it on his head, and demands all animals bow down and obey him as king.",
     "beat2": "The wise old wolf challenges him with a test: 'A pack of wild hyenas is invading the northern border! Lead the defence, O King!'",
     "beat3": "The trembling fox stammers, drops the crown in panic, and bolts under a bramble bush; the animals take the crown and place it before the wise elephant.",
     "nextEpId": 70,
@@ -4323,9 +4323,9 @@ export const episodes = [
         "timeRange": "00:00 – 00:10 (10 Seconds)",
         "purpose": "🎯 Thumb-Stopper Hook & The Crisis",
         "cameraAction": "Mid-action dynamic camera opening right on the crisis.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene: A vanity-struck fox finds a lost gold king's crown in the leaves, puts it on his head, and demands all animals bow down and obey him as king.. Dynamic two-shot showing cute Fox (నక్క) cornered by Animal Parliament (జంతువుల సభ) under ancient forest canopy. Detailed textures, dramatic volumetric lighting, 8k render, Unreal Engine 5.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. High-tension scene: A proud vain fox finds a lost gold king's crown in the leaves, puts it on his head, and demands all animals bow down and obey him as king.. Dynamic two-shot showing cute Fox (నక్క) cornered by Animal Parliament (జంతువుల సభ) under ancient forest canopy. Detailed textures, dramatic volumetric lighting, 8k render, Unreal Engine 5.",
         "teluguVO": "[Narrator]: \"అడవిలో దొరికిన బంగారు కిరీటాన్ని నెత్తిన పెట్టుకుని, తానే రాజునంటూ నక్క జంతువులపై పెత్తనం చెలాయించసాగింది!\"\n[నక్క]: \"అడవిలో దొరికిన బంగారు కిరీటాన్ని పెట్టుకుని నక్క రాజులా నటించింది!\"",
-        "englishSub": "[Narrator]: \"A vanity-struck fox finds a lost gold king's crown in the leaves, puts it on his head, and demands all animals bow down and obey him as king.\"\n[Fox]: \"Finding an old golden crown, the strutting fox declared himself forest sovereign!\"",
+        "englishSub": "[Narrator]: \"A proud vain fox finds a lost gold king's crown in the leaves, puts it on his head, and demands all animals bow down and obey him as king.\"\n[Fox]: \"Finding an old golden crown, the strutting fox declared himself forest sovereign!\"",
         "sfx": "0:01s Cartoon Gasp • 0:03s Tension Swell • 0:08s Foley Beat"
       },
       {
@@ -4430,7 +4430,7 @@ export const episodes = [
     "hookTe": "ఆగండి! తాబేలు ఇంత పెద్ద సమస్య నుండి తన అద్భుతమైన తెలివితో ఎలా బయటపడిందో తెలుసా?",
     "beat1": "A hungry mountain hawk spots a turtle crossing an open dirt road, swooping down with razor talons aimed at his neck.",
     "beat2": "The moment the shadow covers him, the turtle pulls his head, legs, and tail inside his rock-hard dome shell like an armored tank.",
-    "beat3": "The hawk's talons strike with a loud CLACK against the rock-hard keratin shell, jarring the hawk's claws; the defeated hawk flies away with empty talons.",
+    "beat3": "The hawk's talons collide with a loud CLACK against the rock-hard keratin shell, jarring the hawk's claws; the defeated hawk flies away with empty talons.",
     "nextEpId": 72,
     "nextEpTitle": "The Rabbit & The Night Owl",
     "teaserEn": "Tomorrow in Ep 72: The Rabbit & The Night Owl! TAP FOLLOW NOW!",
@@ -4469,9 +4469,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Slapstick comedy resolution and glorious triumph: The hawk's talons strike with a loud CLACK against the rock-hard keratin shell, jarring the hawk's claws; the defeated hawk flies away with empty talons.. Warm golden sunbeams, joyful celebrating characters, 8k render, Unreal Engine 5.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Slapstick comedy resolution and glorious triumph: The hawk's talons clatter with a loud CLACK against the rock-hard keratin shell, jarring the hawk's claws; the defeated hawk flies away with empty talons.. Warm golden sunbeams, joyful celebrating characters, 8k render, Unreal Engine 5.",
         "teluguVO": "[Narrator]: \"డేగ గోళ్లు ఆ డొప్పను తాకి శబ్దం రావడమే తప్ప ఏమీ చేయలేకపోయాయి! డేగ ఆకలితో వెనుదిరిగింది, తాబేలు సురక్షితంగా నడిచింది.\"\n[Narrator]: \"నీతి: భగవంతుడు ఇచ్చిన రక్షణ కవచాన్ని సరిగ్గా ఉపయోగిస్తే ఎలాంటి ఆపదైనా దరిచేరదు! రేపు: The Rabbit & The Night Owl! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The hawk's talons strike with a loud CLACK against the rock-hard keratin shell, jarring the hawk's claws; the defeated hawk flies away with empty talons.\"\n[Narrator]: \"Moral: Home is wherever you carry your own protective shell! Tomorrow: Ep 72 (The Rabbit & The Night Owl)! Follow now!\"",
+        "englishSub": "[Narrator]: \"The hawk's talons clatter with a loud CLACK against the rock-hard keratin shell, jarring the hawk's claws; the defeated hawk flies away with empty talons.\"\n[Narrator]: \"Moral: Home is wherever you carry your own protective shell! Tomorrow: Ep 72 (The Rabbit & The Night Owl)! Follow now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -5375,7 +5375,7 @@ export const episodes = [
     "hookTe": "ఆగండి! తెలివైన కప్ప ఇంత పెద్ద సమస్య నుండి తన అద్భుతమైన తెలివితో ఎలా బయటపడిందో తెలుసా?",
     "beat1": "A striped water viper glides silently beneath the lotus leaves, cornering a green bullfrog against a steep muddy embankment with fangs bared.",
     "beat2": "Instead of freezing in panic, the bullfrog violently kicks both powerful webbed hind flippers into the soft river silt, whipping up an opaque murky cloud of brown mud.",
-    "beat3": "The blinded viper strikes forward, snapping harmlessly on empty muddy water; the frog launches high onto a floating lily pad, croaking in cheeky victory.",
+    "beat3": "The blinded viper lunges forward, snapping harmlessly on empty muddy water; the frog launches high onto a floating lily pad, croaking in cheeky victory.",
     "nextEpId": 87,
     "nextEpTitle": "The Festival Elephant & The Sparrow",
     "teaserEn": "Tomorrow in Ep 87: The Festival Elephant & The Sparrow! TAP FOLLOW NOW!",
@@ -5414,9 +5414,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Slapstick comedy resolution and glorious triumph: The blinded viper strikes forward, snapping harmlessly on empty muddy water; the frog launches high onto a floating lily pad, croaking in cheeky victory.. Warm golden sunbeams, joyful celebrating characters, 8k render, Unreal Engine 5.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Slapstick comedy resolution and glorious triumph: The blinded viper lunges forward, snapping harmlessly on empty muddy water; the frog launches high onto a floating lily pad, croaking in cheeky victory.. Warm golden sunbeams, joyful celebrating characters, 8k render, Unreal Engine 5.",
         "teluguVO": "[Narrator]: \"పాము కళ్లు కనిపించక బురదను కాటేసింది! కప్ప ఒక్క దూకున సురక్షితమైన తామరాకుపై వాలి హాయిగా బెకబెకలాడింది.\"\n[Narrator]: \"నీతి: శత్రువు దాడి చేసినప్పుడు ఎదురుతిరగడం కంటే, దృష్టి మరల్చి తప్పించుకోవడమే సమయస్ఫూర్తి! రేపు: The Festival Elephant & The Sparrow! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The blinded viper strikes forward, snapping harmlessly on empty muddy water; the frog launches high onto a floating lily pad, croaking in cheeky victory.\"\n[Narrator]: \"Moral: Cloud the predator's sight to leap into unreachable safety! Tomorrow: Ep 87 (The Festival Elephant & The Sparrow)! Follow now!\"",
+        "englishSub": "[Narrator]: \"The blinded viper lunges forward, snapping harmlessly on empty muddy water; the frog launches high onto a floating lily pad, croaking in cheeky victory.\"\n[Narrator]: \"Moral: Cloud the predator's sight to leap into unreachable safety! Tomorrow: Ep 87 (The Festival Elephant & The Sparrow)! Follow now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]
@@ -5879,7 +5879,7 @@ export const episodes = [
     "hookTe": "ఆగండి! జ్ఞాని గుడ్లగూబ ఇంత పెద్ద సమస్య నుండి తన అద్భుతమైన తెలివితో ఎలా బయటపడిందో తెలుసా?",
     "beat1": "A troupe of newly hatched chicks chirps carelessly on low branches, completely oblivious to a green pit viper blending into the leaves right beside them.",
     "beat2": "The elder owl rings a sharp diagnostic training call from above; having drilled the specific sound every morning, all chicks instinctively tuck wings and scatter high.",
-    "beat3": "The snake strikes blind air, snapping onto an empty twig; the fledglings flutter safely to the high canopy, proving that preparation is life.",
+    "beat3": "The snake snaps at empty air, snapping onto an empty twig; the fledglings flutter safely to the high canopy, proving that preparation is life.",
     "nextEpId": 95,
     "nextEpTitle": "The Painted Turtle's Lost Shell",
     "teaserEn": "Tomorrow in Ep 95: The Painted Turtle's Lost Shell! TAP FOLLOW NOW!",
@@ -5918,9 +5918,9 @@ export const episodes = [
         "timeRange": "00:20 – 00:30 (10 Seconds)",
         "purpose": "💡 Comical Payoff + Moral + Teaser + Follow CTA",
         "cameraAction": "Comical slapstick resolution and happy escape into sunlight.",
-        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Slapstick comedy resolution and glorious triumph: The snake strikes blind air, snapping onto an empty twig; the fledglings flutter safely to the high canopy, proving that preparation is life.. Warm golden sunbeams, joyful celebrating characters, 8k render, Unreal Engine 5.",
+        "visualPrompt": "3D animated family film style, 9:16 vertical ratio, soft cinematic lighting, expressive cute characters. Slapstick comedy resolution and glorious triumph: The snake snaps at empty air, snapping onto an empty twig; the fledglings flutter safely to the high canopy, proving that preparation is life.. Warm golden sunbeams, joyful celebrating characters, 8k render, Unreal Engine 5.",
         "teluguVO": "[Narrator]: \"పాము ఖాళీ కొమ్మను కాటేసింది! పిల్ల పక్షులన్నీ ఎత్తైన కొమ్మలపై వాలి తమ గురువుకు కృతజ్ఞతలు తెలిపాయి.\"\n[Narrator]: \"నీతి: ముందస్తు శిక్షణ, అప్రమత్తత ఆపద రాకముందే మనల్ని అప్రమత్తం చేస్తాయి! రేపు: The Painted Turtle's Lost Shell! ఇప్పుడే FOLLOW చేయండి!\"",
-        "englishSub": "[Narrator]: \"The snake strikes blind air, snapping onto an empty twig; the fledglings flutter safely to the high canopy, proving that preparation is life.\"\n[Narrator]: \"Moral: Trained ears detect danger before sharp eyes see the fangs! Tomorrow: Ep 95 (The Painted Turtle's Lost Shell)! Follow now!\"",
+        "englishSub": "[Narrator]: \"The snake snaps at empty air, snapping onto an empty twig; the fledglings flutter safely to the high canopy, proving that preparation is life.\"\n[Narrator]: \"Moral: Trained ears detect danger before sharp eyes see the fangs! Tomorrow: Ep 95 (The Painted Turtle's Lost Shell)! Follow now!\"",
         "sfx": "0:21s Comical SPLAT/Snap • 0:24s Marimba Chime • 0:27s Telugu Outro Jingle"
       }
     ]

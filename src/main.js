@@ -343,7 +343,7 @@ ENGLISH SUB: ${c.englishSub}
 VISUAL PROMPT: ${c.visualPrompt}
 SFX: ${c.sfx}`;
       navigator.clipboard.writeText(clipText);
-      alert(`✅ Clip ${c.clipNumber} Script copied!`);
+      alert(`✅ Clip ${c.clipNumber} Full Script copied!\n\n💡 TIP: For AI Video Generators (Gemini / Veo / Kling), use the blue "🎨 Copy 9:16 Prompt Only" button instead to avoid policy blocks!`);
     });
   });
 
